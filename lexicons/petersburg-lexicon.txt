@@ -1,0 +1,5503 @@
+༁༔	punc -
+༄	punc -
+༅	punc -
+༇	punc -
+༈	punc -
+།	punc -
+༎	punc -
+༔	punc -
+༠	numeral -
+༡	numeral -
+༢	numeral -
+༣	numeral -
+༤	numeral -
+༥	numeral -
+༦	numeral -
+༧	numeral -
+༨	numeral -
+༩	numeral -
+ཀ	d.det -
+ཀ་	d.det -
+ཀ་ཆུ་	n.prop -
+ཀ་ཆེན་	n.count -
+ཀ་ནིཥྐ	n.prop -
+ཀ་བ	n.count -
+ཀ་བ་	n.count -
+ཀ་མ་ལ་ཤཱི་ལ	n.prop -
+ཀ་མ་ལ་ཤཱི་ལ་	n.prop -
+ཀ་ར་ཀུ་ཤུ	n.prop -
+ཀ་ལན་ད་ཀ་	n.prop -
+ཀ་ལིང་ཀ་	n.prop -
+ཀར་འབྲུག་	N -
+ཀཪྴ་པ་ཎི་	N -
+ཀཱ་ཀོ་ལ་	N -
+ཀཱ་ཏྱཱ་ཡ་ན	n.prop -
+ཀཱ་ཏྱཱ་ཡ་ན་	n.prop -
+ཀཱ་ལི་	N -
+ཀུ་ཅོ	N -
+ཀུ་ཅོ་	n.count -
+ཀུ་མུ་ད་	n.count -
+ཀུ་རེ་	n.count -
+ཀུ་ཤ	n.count -
+ཀུན	d.plural -
+ཀུན་	d.plural -
+ཀུན་གསལ་	VN -
+ཀུན་ཏུ་འཆང་	N -
+ཀུན་ཏུ་སྣང་	N -
+ཀུན་དགའ་གྲོལ་མཆོག་	n.prop -
+ཀུན་དགའ་བཟང་པོ	n.prop -
+ཀུན་དགའ་བོ	n.prop -
+ཀུན་དགའ་བོ་	n.prop -
+ཀུན་དགའ་ར་བ་	n.count -
+ཀུན་དགའ་སྙིང་པོ་	n.prop -
+ཀུན་ཕན་	N -
+ཀུན་མཁྱེན་	n.count -
+ཀུན་འབྱུང་	n.count -
+ཀུན་རིག་	VN -
+ཀུན་རྫོབ་	n.count -
+ཀུན་སྤྱོད་	n.count -
+ཀེང་ཤུ	N -
+ཀོ་བྲག་པ་	N -
+ཀོང་ཇོ་	n.prop -
+ཀོང་ཡུལ་	N -
+ཀཽཎྜིནྱ་	n.prop -
+ཀྭ་ཡེ་	interj -
+ཀྱང	cl.focus -
+ཀྱང་	cl.focus -
+ཀྱང༌	cl.focus -
+ཀྱལ་ཀྱོལ་	adj -
+ཀྱི	case.gen -	cv.gen -
+ཀྱི་	case.gen -	cv.gen -
+ཀྱི་ལི་ལི་	adv.mim -
+ཀྱི་ཧུད་	interj -
+ཀྱིན་	cv.cont -
+ཀྱིས	case.agn -	cv.agn -
+ཀྱིས་	case.agn -	cv.agn -
+ཀྱེ་རྡོར་	N -
+ཀྱཻ་རྡོ་རྗེ་	N -
+ཀྲི་ཀྲི	N -	n.count -
+ཀླད་	n.count -
+ཀླུ	n.count -
+ཀླུ་དབང་	N -
+ཀླུ་བདུད་	N -
+ཀླུང་ཆེན་	N -
+ཀློག་	v.pres -
+ཀློག་སྐྱ་	n.prop -
+ཀློང་	n.rel -
+ཀློང་ཆེན་རབ་འབྱམས་	n.prop -
+ཁ	n.count -	n.rel -
+ཁ་	n.count -	p.indef -
+ཁ་ཅིག་	p.indef -
+ཁ་ཆར་	n.count -
+ཁ་ཆུ་	n.count -
+ཁ་ཆེ	n.prop -
+ཁ་ཏ་	n.count -
+ཁ་དོག་	n.count -
+ཁ་ཕོ་	n.count -
+ཁ་བ་	n.mass -
+ཁ་བ་གངས་	n.mass -
+ཁ་བ་ཅན་	adj -	n.count -
+ཁ་བཤད་	n.count -
+ཁ་བསྟན་ཀྱང་	punc -
+ཁ་བུབ་	AdvPrefix -
+ཁ་ཚ་	adj -
+ཁ་ཚར་	n.count -
+ཁ་ཟས་	n.count -
+ཁ་རླངས་	n.count -
+ཁ་རླངས་ཅན་	adj -
+ཁ་ལྷོ	Adv -
+ཁ་སང་	adv.temp -
+ཁ་སེང་	adv.temp -
+ཁ་སྤུ་	n.mass -
+ཁ་སྤྲོད་	VN -
+ཁག་	n.count -
+ཁག་ཁུར་	n.count -
+ཁང་ཆེན་	N -
+ཁང་པ	n.count -
+ཁབ་	n.count -
+ཁབ་ལེན་རྡོ་	N -
+ཁམ་	n.count -
+ཁམ་བུ	N -	n.count -
+ཁམ་འབྲས་	N -
+ཁམས	N -
+ཁམས་	n.count -
+ཁམས་པ་	n.prop -
+ཁམས་བདེ་	n.count -
+ཁལ་	n.count -
+ཁས་འཆེ་	n.count -
+ཁུ་བ	N -
+ཁུ་བ་	n.count -
+ཁུ་བོ	n.count -
+ཁུ་བོ་	N -
+ཁུ་བྱུག་	N -	n.prop -
+ཁུ་ཚུར་	n.count -
+ཁུ་རྔོག་འབྲོམ་	N -
+ཁུག་	v.imp -
+ཁུག་པ་	n.v.invar -
+ཁུང་	n.count -
+ཁུང་བུ་	N -	n.count -
+ཁུངས་	n.count -
+ཁུར་	n.count -
+ཁུར་བུ་	N -
+ཁེངས་དྲེགས་	N -
+ཁེངས་པ་	n.v.invar -
+ཁེབས་	v.past -
+ཁེལ་	v.invar -
+ཁེལ་བ་	n.v.fut.n.v.pres -
+ཁོ	p.pers -
+ཁོ་	p.pers -
+ཁོ་ཐག་	n.count -
+ཁོ་ན	d.emph -
+ཁོ་ན་	d.emph -
+ཁོ་བོ	p.pers -
+ཁོ་བོ་	p.pers -
+ཁོ་མོ	p.pers -
+ཁོག་	N -	v.pres -
+ཁོག་པ	N -	n.v.pres -
+ཁོང་	V -	n.count -	n.rel -	p.pers -
+ཁོང་བར་	N -
+ཁོང་རབ་	N -
+ཁོངས་	n.rel -
+ཁོན་	N -
+ཁོར་ཡུག་	n.count -
+ཁོལ	v.imp -
+ཁོལ་པོ་	N -
+ཁོལ་བུ་	N -
+ཁྭ་	n.count -
+ཁྭ་ཏ	n.count -
+ཁྱད་	V -	n.count -
+ཁྱད་པ	adv.proclausal -
+ཁྱད་པར་ཅན་	adj -
+ཁྱད་འཕགས་	VN -
+ཁྱབ	v.invar -
+ཁྱབ་	v.fut.v.pres -	v.invar -
+ཁྱབ་པ	n.v.invar -
+ཁྱབ་པ་	n.v.fut.n.v.pres -
+ཁྱམས་	n.count -
+ཁྱི་	n.count -
+ཁྱི་ངན་	n.count -
+ཁྱི་ལུད་	n.count -
+ཁྱིམ	N -
+ཁྱིམ་	n.count -
+ཁྱིམ་བདག་	n.count -
+ཁྱིམ་མཚེས་	N -	n.count -
+ཁྱུ་	N -	n.count -
+ཁྱུ་མཆོག་	n.count -
+ཁྱུང་	n.count -
+ཁྱུང་ཆེན་	n.count -
+ཁྱུང་པོ་རྣལ་འབྱོར་	n.prop -
+ཁྱུང་སྡིང་	n.prop -
+ཁྱེད་	p.pers -
+ཁྱེད་ཅག་	p.pers -
+ཁྱེད་པ་	n.v.invar -
+ཁྱེམ་	n.count -
+ཁྱེའུ	n.count -
+ཁྱེའུ་	n.count -
+ཁྱེར་	v.fut.v.past -	v.imp -	v.past -
+ཁྱེར་བ	n.v.fut -
+ཁྱེར་བ་	n.v.fut.n.v.pres -
+ཁྱོ་	n.count -
+ཁྱོད་	p.pers -
+ཁྱོལ་བ་	n.v.past -
+ཁྲ	n.count -
+ཁྲ་ཧོར་པ	N -
+ཁྲག་	n.mass -
+ཁྲག་ཅན་	adj -
+ཁྲག་རྒྱུན་	N -
+ཁྲབ་ཅན་	adj -
+ཁྲལ་	n.count -
+ཁྲི	num.card -
+ཁྲི་	n.count -	num.card -
+ཁྲི་གཅེས་	N -
+ཁྲི་གདུགས་	n.count -
+ཁྲི་གནམ་ལྡེ་འོད་སྲུངས་	n.prop -
+ཁྲི་གཙུག་ལྡེ་བཙན་	n.prop -
+ཁྲི་དཔལ་འཁོར་བཙན་	n.prop -
+ཁྲི་དཔལ་འཁོར་ལྡེ་	n.prop -
+ཁྲི་དཔལ་སྲོང་ངེ་	n.prop -
+ཁྲི་བཀྲ་ཤིས་བརྩེགས་པ་དཔལ་	n.prop -
+ཁྲི་བཙུན་	n.prop -
+ཁྲི་ལྡེ་སྲོང་བཙན་	n.prop -
+ཁྲི་སྐྱིད་ལྡེ་ཉི་མ་མགོན་	n.prop -
+ཁྲི་སྲོང་ལྡེ་བཙན་	n.prop -
+ཁྲིད	v.fut.v.past -
+ཁྲིད་	V -	v.fut.v.past -	v.imp -	v.past -
+ཁྲིད་པ་	n.v.fut.n.v.past -
+ཁྲིམས་	n.count -
+ཁྲུ་གང་བ་	adj -
+ཁྲུང་ཁྲུང་	n.count -
+ཁྲུས་	n.count -
+ཁྲེལ་བ	n.v.fut.n.v.pres -
+ཁྲོ	v.fut.v.pres -
+ཁྲོ་	v.fut.v.pres -
+ཁྲོ་རྫོང་	n.count -
+ཁྲོད་	n.rel -
+ཁྲོན་པ	n.count -
+ཁྲོན་པ་	n.count -
+ཁྲོལ་	v.invar -
+ཁྲོལ་བ	n.v.past -
+ཁྲོས་	v.past -
+ཁྲོས་པ་	n.v.past -
+ག	p.interrog -
+ག་	d.det -	p.interrog -
+ག་ཆད་	Adv -
+ག་བུར་	N -
+ག་རེ་	p.interrog -
+ག་ལེ་	adj -
+ག་ཤེད་	n.count -
+གང་	adj -	p.interrog -	v.invar -
+གང་གཱ་	n.prop -
+གང་ན་བ་	n.count -
+གང་བ	n.v.invar -
+གང་བ་	n.v.invar -
+གང་བྱོ	adj -
+གང་ཟག་	n.count -
+གངས་	n.mass -
+གངས་ཅན་	adj -
+གངས་ཆུ་	n.count -
+གངས་རི	n.count -
+གངས་རི་	n.count -
+གཅགས	v.fut.v.past -
+གཅགས་པ	n.v.invar -
+གཅད་	v.fut -
+གཅན་གཟན་	n.count -
+གཅིག	num.card -
+གཅིག་	num.card -
+གཅིག་པ་	adj -
+གཅིག་པུ	adj -
+གཅིག་པུ་	adj -
+གཅིག་པོ་	adj -
+གཅིག་ཤོས་	P -
+གཅུ་	v.fut.v.pres -
+གཅུང་	n.count -
+གཅེན་	n.count -
+གཅེས་པ	n.v.invar -
+གཅེས་པ་	n.v.invar -
+གཅེས་བཏུས	adj -
+གཅོད	N -	v.pres -
+གཅོད་	v.pres -
+གཅོད་པ	n.v.pres -
+གཅོད་པ་	n.v.pres -
+གཅོད་ཡུལ་	N -
+གཉགས་	n.count -
+གཉན་པོ་	N -
+གཉལ་ལོ་རོ་	n.prop -
+གཉིད་	n.count -
+གཉིས	num.card -
+གཉིས་	num.card -
+གཉིས་པ	num.ord -
+གཉིས་པ་	num.ord -
+གཉིས་བ་	num.ord -
+གཉིས་མེད་	adj -
+གཉིས་ལྡན་	VN -	adj -
+གཉིས་སྐྱེས་	N -
+གཉུག་མ	adj -
+གཉེན	N -
+གཉེན་	n.count -
+གཉེན་པོ་	n.count -
+གཉེར་	v.invar -
+གཉེར་བ	n.v.fut.n.v.pres -
+གཉེར་བྱ་	VN -
+གཉྫི་ར་	N -
+གཏད་	v.fut.v.past -	v.past -
+གཏད་རྒྱ་	N -
+གཏན་	n.count -
+གཏམ་	n.count -
+གཏམ་ངན་	n.count -
+གཏམ་རྒྱུད་	n.count -
+གཏམ་རྗེས་	N -
+གཏི་མུག་	n.count -
+གཏིང་	n.count -
+གཏིང་ཟབ་པོ་	adj -
+གཏིབས་	n.count -
+གཏུགས་	v.past.v.pres -
+གཏུན་	n.count -
+གཏུབས་	v.past -
+གཏུམ་པ་	n.v.invar -
+གཏུམ་མོ་	n.count -
+གཏུམས་	v.fut.v.past -	v.past -
+གཏེར	n.count -
+གཏེར་	n.count -
+གཏེར་ཁ	n.count -
+གཏེར་ཁ་	n.count -
+གཏེར་ཆེན་	N -
+གཏེར་ཕྲན་	N -
+གཏེར་བདག་གླིང་པ་	n.prop -
+གཏེར་མ་	n.count -
+གཏེར་འབྱིན་	N -
+གཏེར་སྟོན་	N -
+གཏོགས	v.past -
+གཏོགས་	v.past -
+གཏོགས་པ	VN -	n.v.past -
+གཏོགས་པ་	VN -
+གཏོང་	v.pres -
+གཏོང་གྲོགས་	VN -
+གཏོང་བ	n.v.pres -
+གཏོང་བ་	n.v.pres -
+གཏོར	v.invar -
+གཏོར་ལེན་	n.count -
+གཏོལ་	n.count -
+གདགས་	v.fut -
+གདགས་པ་	n.v.fut -
+གདན་	n.count -
+གདན་ས	n.count -
+གདན་ས་	n.count -
+གདབ་	v.fut -
+གདམས་	N -	n.count -
+གདམས་ངག་	n.count -
+གདམས་པ	n.v.fut.n.v.past -
+གདམས་པ་	n.v.fut.n.v.past -
+གདམས་བཅུད་	N -
+གདའ	v.fut.v.pres -	v.invar -
+གདའ་	v.fut.v.pres -	v.invar -
+གདའ་བ	n.v.fut.n.v.pres -	n.v.invar -
+གདའ་བ་	n.v.invar -
+གདུག་པ་ཅན་	adj -
+གདུག་རྩུབ་	N -
+གདུགས་	n.count -
+གདུགས་རྒྱལ་མཚན་	n.count -
+གདུང་བ་	n.v.fut.n.v.pres -
+གདུང་བརྒྱུད་	n.count -
+གདུང་མ་	N -
+གདུང་རབས་	n.count -
+གདུང་རྒྱུད	N -
+གདུངས	v.past -
+གདུངས་	v.past -
+གདུལ་	v.fut -
+གདུལ་བྱ	n.count -
+གདུལ་བྱ་	n.count -
+གདོང་	n.count -
+གདོང་དམར་ཅན་	n.count -
+གདོང་འབུམ་པ	N -
+གདོད་	adv.temp -
+གདོན་	n.count -
+གདོལ་པ	n.count -
+གདོལ་པ་ཅན་	n.count -
+གདོས་	N -
+གན་ཇི་ར་	N -
+གན་རྐྱལ་	n.count -
+གནག་པ	n.v.invar -
+གནག་རྫི་	N -
+གནང་	v.fut.v.pres -	v.invar -	v.past -	v.past.v.pres -
+གནང་ཆུང་	N -
+གནང་དོན་	N -
+གནང་བ	n.v.fut.n.v.pres -	n.v.invar -
+གནང་བ་	n.v.fut.n.v.pres -	n.v.invar -
+གནང་ཚུལ་	n.v.invar -
+གནང་ལུགས་	n.v.fut.n.v.pres -
+གནད་	n.count -
+གནམ་	n.count -
+གནམ་ས་	n.count -
+གནས	v.invar -
+གནས་	n.count -	v.fut.v.pres -	v.invar -
+གནས་དུས་	n.count -
+གནས་པ	n.v.invar -
+གནས་པ་	n.v.fut.n.v.pres -	n.v.invar -
+གནས་བརྟན་	n.count -
+གནས་བརྟན་པ	n.prop -
+གནས་བརྟན་པ་	n.count -
+གནས་མ་བུ་པ	N -
+གནས་མོ་	n.count -
+གནས་ལུགས་	n.v.invar -
+གནས་ལེན་	VN -
+གནུབས་	N -
+གནུབས་ཆུང་	N -
+གནོང་འགྱོད་	n.count -
+གནོད	V -	v.invar -
+གནོད་	v.invar -
+གནོད་པ	n.v.invar -
+གནོད་པ་	n.v.invar -
+གམ	cv.ques -
+གམ་	cv.ques -	n.rel -
+གཙང་	N -	adj -	n.prop -	v.pres -
+གཙང་ཁང་	N -
+གཙང་པ་	N -
+གཙང་བ	n.v.pres -
+གཙང་མ	adj -	n.prop -
+གཙང་མ་	adj -
+གཙང་རོང་	n.prop -
+གཙང་སྦྲ་	n.count -
+གཙུག་	n.count -
+གཙུག་ཏོར་ཅན་	n.prop -
+གཙུག་ལག་ཁང་	n.count -
+གཙེ་བ་	n.v.fut.n.v.pres -
+གཙེས་པ	n.v.past -
+གཙེས་པ་	n.v.past -
+གཙོ	adj -	n.count -
+གཙོ་	n.count -
+གཙོ་བོ	adj -
+གཙོ་བོ་	adj -
+གཙོས་	En -
+གཞན	d.det -
+གཞན་	d.det -
+གཞན་གནོད་	N -
+གཞན་དོན་	n.count -
+གཞན་མ་	P -
+གཞན་ཡང་	Intr -
+གཞའ་ཚོན་	N -
+གཞལ་བ	n.v.fut -
+གཞལ་མེད་	VN -
+གཞལ་ཡས་	adj -
+གཞི	n.count -
+གཞི་	n.count -
+གཞི་བདག་	n.count -
+གཞིགས	V -
+གཞིས་	n.count -
+གཞུ་	n.count -
+གཞུག	v.fut -
+གཞུང་	n.count -
+གཞུང་གདམས་ངག་མན་ངག་	n.count -
+གཞུང་ཆུང་	N -
+གཞུང་པ་	N -
+གཞུང་ལུགས་	n.count -
+གཞོན་	adj -
+གཞོན་ནུ	adj -
+གཞོན་ནུ་	adj -
+གཞོན་ནུ་མ་	adj -
+གཞོན་པ	n.count -
+གཞོམ	v.fut.v.pres -
+གཞོམ་པ	n.v.fut.n.v.pres -
+གཟན་	N -
+གཟན་པ་	n.v.past.n.v.pres -
+གཟའ	N -
+གཟའ་སྐར་	N -	n.count -
+གཟི་བརྗིད་	n.count -
+གཟི་མདངས་ཅན	adj -
+གཟི་འོད་	N -
+གཟི་ལུང་	N -
+གཟིག་ལྤགས་	N -
+གཟིགས་	v.invar -	v.past.v.pres -
+གཟིགས་པ	n.v.invar -
+གཟིགས་པ་	n.v.invar -
+གཟིགས་མ་ཕུལ་བ	VN -
+གཟིགས་རྟོག་	N -
+གཟིགས་ས་	n.v.invar -
+གཟིངས	v.past -
+གཟིམ་ཁང་	n.count -
+གཟིམ་མལ་	n.count -
+གཟིམ་ལམ་	n.count -
+གཟིམས་ཁང་	n.count -
+གཟིར་	v.invar -
+གཟུ་ལུམས་	n.count -
+གཟུག་གེ་བ་	adj -
+གཟུགས་	n.count -
+གཟུགས་བརྙན་	n.count -
+གཟུགས་སྐུ་	n.count -
+གཟུང་	v.fut -
+གཟུང་བ་	n.v.fut -
+གཟུངས་	n.count -
+གཟུར་གནས་	n.count -
+གཡང་	n.count -
+གཡའ་	n.count -
+གཡར	v.invar -
+གཡར་	v.invar -
+གཡས་	AdvPrefix -
+གཡས་པ	adj -
+གཡས་པ་	adj -
+གཡས་ཕྱོགས་	n.count -
+གཡས་ཞར་མ་	N -
+གཡས་རུ་	n.count -
+གཡས་སྟག་དོང་	N -
+གཡུ་	n.count -
+གཡུ་ཆུང་	N -
+གཡུ་མཁར་	N -
+གཡུ་འབྲུག་	n.count -
+གཡུ་འོད་	n.count -	n.prop -
+གཡུ་སྦྲང་	N -
+གཡུག་	v.fut.v.pres -
+གཡུང་དྲུང་རྒྱལ་མཚན་	n.prop -
+གཡུང་སྟོན་	N -
+གཡུང་སྟོན་ཁྲོ་རྒྱལ་	n.prop -
+གཡུལ	N -
+གཡུལ་	n.count -
+གཡུལ་ངོ	n.count -
+གཡེང་	v.fut.v.pres -
+གཡེང་བ	n.v.fut.n.v.pres -
+གཡེལ་བ་	n.v.fut.n.v.pres -
+གཡོ་ཐབས་	n.count -
+གཡོ་དགེ་འབྱུང་	n.prop -
+གཡོ་བ	n.v.fut.n.v.pres -
+གཡོ་བྱེད་	N -
+གཡོ་མེད་	adj -
+གཡོ་འགུལ་	n.count -
+གཡོ་སྒྱུ	N -
+གཡོ་སྒྱུ་	n.count -
+གཡོག་	n.count -
+གཡོགས་	V -	v.past -
+གཡོགས་པ	n.v.past -
+གཡོན་	n.count -
+གཡོན་ཅན་	adj -
+གཡོན་པ་	adj -
+གཡོར་	V -
+གཡོར་གཙང་	N -
+གཡོས་	v.past -
+གཡོས་པ་	n.v.past -
+གར	N -
+གར་མ་	adj -
+གར་སླ་འབྲིང་	adj -
+གལ་	adv.proclausal -
+གལ་ཆེན་	N -
+གཤགས་པ་	n.v.invar -
+གཤའ	V -
+གཤར་བ་	n.v.fut.n.v.pres -
+གཤིན་རྗེ	n.prop -
+གཤིས་	N -
+གཤེ	v.invar -
+གཤེ་	v.invar -	v.past.v.pres -
+གཤེགས་	v.fut.v.pres -	v.imp -	v.invar -	v.past.v.pres -
+གཤེགས་པ	n.v.invar -
+གཤེགས་པ་	n.v.invar -
+གཤོག་པ	N -
+གཤོག་འགྲིགས་	VN -
+གཤོག་རྒྱངས་	n.count -
+གཤོག་རྩལ་	n.count -
+གཤོག་སྔོན་པོ་	adj -
+གཤོང་བུ་	N -
+གས་	v.past.v.pres -
+གསང་	n.count -	v.invar -
+གསང་ཁ་	n.count -
+གསང་གྲོས་	N -
+གསང་བ	n.v.invar -
+གསང་བ་	n.v.invar -
+གསང་བདག་	N -
+གསང་བདེ་འཇིགས་	N -
+གསང་མཚན་	n.count -
+གསང་འདུས་	n.prop -
+གསང་སྐོར་	n.count -
+གསང་སྔགས་	n.count -
+གསང་སྔགས་བླ་མེད་རྡོ་རྗེ་ཐེག་པ་	n.count -
+གསད་པ	n.v.fut -
+གསན་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+གསན་པ	n.v.past.n.v.pres -
+གསན་པ་	n.v.past.n.v.pres -
+གསར་མ	adj -
+གསར་མ་	adj -
+གསར་རྙིང་	adj -
+གསལ	v.fut.v.pres -
+གསལ་	v.fut.v.pres -
+གསལ་པོ་	adj -
+གསལ་བ	n.v.fut.n.v.pres -
+གསལ་བ་	n.v.fut.n.v.pres -
+གསལ་ཤིང་	N -
+གསུག་	VN -
+གསུང་	V -	n.count -	v.invar -
+གསུང་ངག་	n.count -
+གསུང་དབྱངས་	N -
+གསུང་པ	n.v.fut.n.v.pres -
+གསུང་པ་	n.v.fut.n.v.pres -
+གསུང་བ	n.v.fut.n.v.pres -
+གསུང་བ་	n.v.fut.n.v.pres -
+གསུང་བབ་	N -
+གསུང་ཚབ་	N -
+གསུང་ཡིག་	n.count -
+གསུང་རབ་	n.count -
+གསུང་ལུགས	n.count -
+གསུང་ལུགས་	n.v.invar -
+གསུངས	v.past -
+གསུངས་	v.past -
+གསུངས་པ	n.v.past -
+གསུངས་པ་	n.v.past -
+གསུམ	num.card -
+གསུམ་	num.card -
+གསུམ་ཀ	p.indef -
+གསུམ་པ	num.ord -
+གསུམ་པ་	num.ord -
+གསུམ་པོ་	num.card -
+གསུམ་ལྡན་	VN -
+གསེར་	n.mass -
+གསེར་ཁྲབ་	n.count -
+གསེར་གཡུ་	n.mass -
+གསེར་ཆོས་	n.count -
+གསེར་ཉ་	N -
+གསེར་ཐུབ་	n.prop -
+གསེར་དབྱིག	n.prop -
+གསེར་དབྱིག་	n.prop -
+གསེར་མདོག་	N -
+གསེར་མདོག་ཅན་	N -
+གསེར་མིག་	N -
+གསེར་རྨོག་	N -
+གསེར་ལུང་	N -
+གསེར་སྐྱེམས་	N -
+གསེར་སྒ་	N -
+གསེར་སྲབ་	n.count -
+གསོ	v.fut.v.pres -
+གསོ་བ་	n.v.fut.n.v.pres -
+གསོག་	VN -	v.fut.v.pres -
+གསོག་པ	n.v.fut.n.v.pres -
+གསོག་པ་	n.v.fut.n.v.pres -
+གསོད	v.pres -
+གསོད་	v.pres -
+གསོད་པ	n.v.pres -
+གསོད་མི་	n.v.pres -
+གསོན	v.invar -
+གསོན་	V -	VN -	v.invar -
+གསོན་པ	n.v.past.n.v.pres -
+གསོལ	V -	v.invar -
+གསོལ་	n.count -	v.fut.v.pres -	v.invar -	v.past.v.pres -
+གསོལ་པ	n.v.past.n.v.pres -
+གསོལ་པ་	n.v.past.n.v.pres -
+གསོལ་བ	n.v.fut.n.v.pres -
+གསོལ་བ་	n.v.fut.n.v.pres -
+གསོས་	v.imp -	v.past -
+གསོས་པ	n.v.past -
+གསོས་པ་	n.v.past -
+གི	case.gen -	cv.gen -
+གི་	case.gen -	cv.cont -	cv.gen -
+གིན་	cv.cont -
+གིམ་ཕག་	N -
+གིས	case.agn -	cv.agn -
+གིས་	case.agn -	cv.agn -
+གུ་རུ་	N -
+གུང་ཐང་	n.prop -
+གུམ་	v.past -
+གུས་པ་	n.v.invar -
+གེ་སར་	n.count -	n.prop -
+གེགས་	n.count -
+གེང་ཝང་	N -
+གོ	F -	Fin -	cv.fin -
+གོ་	cv.fin -	n.count -	v.invar -	v.past -
+གོ་ཁ་	N -
+གོ་ཆ་	n.count -
+གོ་དོན་	N -
+གོ་བ	n.v.invar -
+གོ་བ་	n.v.invar -
+གོ་མི་	neg -
+གོ་འཕང་	n.count -
+གོ་ས་	N -
+གོང་	n.count -	n.rel -
+གོང་མ་	adj -
+གོམ་པ་	n.count -
+གོམས་པ	n.v.invar -
+གོའུ་	N -	n.count -
+གོའུ་ཏ་མ	n.prop -
+གོའུ་ཏ་མ་	n.prop -
+གོའུ་ཏམ་	n.prop -
+གོས་	n.count -	n.mass -
+གོས་ཆེན་	N -
+གོས་དཀར་ཅན	adj -
+གོས་དམར་ཅན་	N -	adj -
+གོས་དར་	n.mass -
+གོས་པ་	n.v.past -
+གོས་ཚགས་	n.count -
+གོས་ལྗང་	N -
+གོས་སེར་ཅན་	adj -
+གཽ་ཏ་མ་	n.prop -
+གྱ་གྱུ	N -
+གྱང་རིམ་	N -
+གྱད་རྡོ་	N -
+གྱི	case.gen -	cv.agn -	cv.gen -
+གྱི་	case.gen -	cv.gen -
+གྱིན་	cv.cont -
+གྱིས	case.agn -	cv.agn -	v.imp -
+གྱིས་	AdvSuffix -	case.agn -	cv.agn -	v.imp -
+གྱུར	v.past -
+གྱུར་	v.past -
+གྱུར་པ	n.v.past -
+གྱུར་པ་	n.v.past -
+གྱུར་བ	n.v.past -
+གྱེན་	n.count -
+གྱེས་	v.past -
+གྱེས་པ་	n.v.past.n.v.pres -
+གྱོན་	v.past.v.pres -
+གྱོས་པོ	n.count -
+གྲག	v.invar -
+གྲགས	v.invar -
+གྲགས་	v.invar -
+གྲགས་པ	n.v.invar -
+གྲགས་པ་	n.v.invar -
+གྲགས་པ་རྒྱལ་མཚན་	n.prop -
+གྲགས་པའི་བླ་	n.prop -
+གྲགས་བ་	n.v.invar -
+གྲང་	v.invar -
+གྲངས་	n.count -
+གྲངས་མེད	adj -
+གྲངས་མེད་	adj -
+གྲངས་མེད་པ་	adj -
+གྲལ་	n.count -
+གྲལ་པ་	n.count -
+གྲི་	n.count -
+གྲི་ཁ་	N -
+གྲིམས	v.past -
+གྲུ་	n.count -
+གྲུ་གཙང་	n.count -
+གྲུ་གསུམ་	n.count -
+གྲུ་གསུམ་པ་	adj -
+གྲུ་ཆེན་	n.count -
+གྲུ་བཞི་	adj -
+གྲུ་འཛིན་	N -
+གྲུབ་	v.past -
+གྲུབ་ཆེན་	n.count -
+གྲུབ་ཐོབ	n.count -
+གྲུབ་ཐོབ་	n.count -
+གྲུབ་པ	n.v.past -
+གྲུབ་པ་	n.v.past -
+གྲུབ་མཐའ་	n.count -
+གྲོ་	V -
+གྲོ་བོ་ལུང་	n.prop -
+གྲོ་ལམ་	n.count -
+གྲོག་པོ་	N -
+གྲོག་མ་	n.count -
+གྲོག་མཁར་བ་	n.prop -
+གྲོག་མོ་	N -
+གྲོག་ལྡན་	adj -
+གྲོགས	n.count -
+གྲོགས་	n.count -
+གྲོགས་པ	VN -
+གྲོགས་པ་	N -
+གྲོང་	n.count -
+གྲོང་ཁྱེར	n.count -
+གྲོང་ཁྱེར་	n.count -
+གྲོན་པ་	n.v.past.n.v.pres -
+གྲོལ་	v.fut.v.pres -	v.invar -	v.past -
+གྲོལ་བ	n.v.fut.n.v.pres -	n.v.past -
+གྲོལ་བ་	n.v.fut.n.v.pres -	n.v.past -
+གྲོས	n.count -
+གྲོས་	n.count -
+གྲྭ་པ་	n.count -
+གྲྭལ་	N -
+གླ་	n.count -
+གླ་རྩི་	N -
+གླང་	N -	n.count -
+གླང་ཆེན་	n.count -
+གླང་དར་མ་	n.prop -
+གླང་པོ་	n.count -
+གླང་པོ་ཆེ	n.count -
+གླིང་	n.count -
+གླིང་པ	n.prop -
+གླིང་པ་	adj -
+གླིང་ཕྲན་	n.count -
+གླུ་	n.count -
+གླུ་དབྱངས་	n.count -
+གླུ་སྙན་	N -
+གླེགས་བམ་	n.count -
+གླེང་	v.fut.v.pres -
+གླེང་མོ་	n.count -
+གློ་གཡས་	N -
+གློ་བུ	adv.temp -
+གློག་	n.count -
+གློག་འགྱུ་	n.count -
+གློག་སྐྱ་	N -
+ང	p.pers -
+ང་	p.pers -
+ང་རོ་	n.count -
+ང་རྒྱལ་	n.count -
+ངག་	n.count -
+ངག་རིག་	VN -
+ངང་	V -	n.count -	n.rel -
+ངང་ཐུང་	N -
+ངང་པ	N -
+ངང་པ་	N -
+ངང་མོ	N -
+ངང་མོ་	N -
+ངན་	VN -
+ངན་གཡོ་	n.count -
+ངན་པ	n.v.past.n.v.pres -
+ངན་པ་	n.v.past.n.v.pres -
+ངན་པོ་	adj -
+ངན་ལས་	n.count -
+ངན་སོང་	n.count -
+ངན་སྐྱུགས་	n.count -
+ངམ	cv.ques -
+ངམ་	cv.ques -
+ངར་	N -
+ངར་རྒོད་	VN -
+ངལ་	v.invar -	v.past.v.pres -
+ངལ་དུབ་	n.count -
+ངལ་བ	n.v.fut.n.v.pres -
+ངལ་བ་	n.v.fut.n.v.pres -
+ངུ	v.fut.v.pres -
+ངུ་	V -	n.count -	v.fut.v.pres -
+ངུ་བ་	n.v.fut.n.v.pres -
+ངུར་སྨྲིག་	n.mass -
+ངུས	v.past -
+ངུས་	v.past -
+ངུས་པ	n.v.past -
+ངུས་པ་	n.v.past -
+ངེ་	cv.ques -
+ངེ་བ་	VN -
+ངེད་	p.pers -
+ངེས	Adv -
+ངེས་	v.past -
+ངེས་པ	n.v.invar -
+ངེས་པ་	n.v.invar -
+ངེས་འབྱུང་	n.count -
+ངེས་ལེགས་	n.count -
+ངོ	cv.fin -
+ངོ་	cv.fin -	n.count -
+ངོ་ཆེ་	n.count -
+ངོ་ཆེན་	n.count -
+ངོ་བསྲུང་	N -
+ངོ་བོ་	n.count -
+ངོ་མཚར་	adj -
+ངོ་མཚར་ཆེ་	adj -
+ངོ་ཚ་	n.count -
+ངོ་ཚར་	N -
+ངོ་འཛུམ་	n.count -
+ངོ་ལོག་	N -
+ངོགས	N -
+ངོགས་	n.count -
+ངོམས	V -	v.fut.v.pres -
+ངོམས་	v.fut.v.pres -
+ངོར་ཆེན་	N -
+ངོས་	n.count -
+ཅ་ཅོ་	n.count -
+ཅང་ཤེས་	N -
+ཅན	Soc -
+ཅན་	Soc -
+ཅལ་འདྲོགས་	adv.mim -
+ཅི	p.interrog -
+ཅི་	p.interrog -
+ཅི་རིགས་པ	Adv -
+ཅིག	cv.imp -
+ཅིག་	cv.imp -	d.indef -
+ཅིག་ཅར་	adv.temp -
+ཅིང	cv.impf -
+ཅིང་	cv.impf -
+ཅིང༌	cv.impf -
+ཅུ་	num.card -
+ཅུང་	adv.intense -	dunno -
+ཅུང་ཟད་	adj -	adv.intense -	d.plural -	n.count -
+ཅེ་སྤྱང་	n.count -
+ཅེས་	cl.quot -
+ཅེས་པ	cl.quot -
+ཅེས་པ་	cl.quot -
+ཅོ་	N -
+ཅོ་འདྲི་	N -
+ཅོད་པན་	n.count -
+ཅོལ་ཆུང་	N -
+ཆ	n.count -
+ཆ་	n.count -	v.fut.v.pres -
+ཆ་བ	n.v.fut.n.v.pres -
+ཆ་བ་	n.v.fut.n.v.pres -
+ཆ་བརྒྱད་	adj -
+ཆ་བྱད་	n.count -
+ཆ་འགྲིག་	VN -
+ཆ་ལུགས་	n.count -
+ཆ་ལྡན་	adj -
+ཆག་	v.invar -	v.past.v.pres -
+ཆག་པ་	n.v.invar -	n.v.past -
+ཆགས་	V -	v.invar -	v.past.v.pres -
+ཆགས་པ	n.v.fut.n.v.pres -	n.v.invar -
+ཆགས་པ་	n.v.invar -
+ཆང་	n.count -	n.mass -
+ཆང་ཚོང་	n.count -
+ཆང་ཚོང་མ	n.count -
+ཆང་ཚོང་མ་	n.count -
+ཆད	v.invar -
+ཆད་	v.invar -	v.past.v.pres -
+ཆད་པ་	n.v.invar -	n.v.past -
+ཆད་མདོ་	n.count -
+ཆབ་	n.count -
+ཆར་	n.count -
+ཆར་ཁེབས་	n.count -
+ཆར་ཆུ་	n.count -
+ཆར་འདོད་བྱེའུ་	N -
+ཆས་	n.count -	v.invar -	v.past.v.pres -
+ཆས་པ	n.v.invar -
+ཆས་པ་	n.v.invar -
+ཆིག་	num.card -
+ཆིངས་	v.past -
+ཆིབས་	v.pres -
+ཆུ	n.mass -
+ཆུ་	n.count -	n.mass -
+ཆུ་ཀླུང་	n.count -
+ཆུ་གཏེར་	n.count -
+ཆུ་གཙང་	N -
+ཆུ་ཐིགས་	n.count -
+ཆུ་དྭངས་	n.count -
+ཆུ་ཕྲན་	N -
+ཆུ་བོ་	n.count -
+ཆུ་མ་	N -
+ཆུ་མ་ཞིང་	N -
+ཆུ་མེ་ཤིང་	n.mass -
+ཆུ་ཚགས་	N -
+ཆུ་ཟླ་	N -
+ཆུ་འགྲམ་	n.count -
+ཆུ་རྒྱུན་	n.count -
+ཆུ་ལོག་	n.count -
+ཆུ་ཤིང་	N -
+ཆུ་ཤེལ་	N -
+ཆུ་སེར་	N -
+ཆུ་སྐྱེས་	VN -
+ཆུ་སྟོད་	N -
+ཆུག	V -	v.imp -
+ཆུག་	V -	v.fut.v.pres -	v.imp -	v.pres -
+ཆུང	adj -
+ཆུང་	v.invar -	v.past.v.pres -	v.pres -
+ཆུང་ངུ	adj -
+ཆུང་ངུ་	adj -
+ཆུང་ངུ་མ་	adj -
+ཆུང་བརྒྱད་	N -
+ཆུང་མ	n.count -
+ཆུང་མ་	n.count -
+ཆུང་འདྲིས་	VN -
+ཆུང་རྒྱུད་	N -
+ཆུད་	v.invar -
+ཆུན་པོ་	N -
+ཆུམ་པ་	n.v.invar -
+ཆེ	v.pres -
+ཆེ་	v.pres -
+ཆེ་གེ་མོ་	adj -
+ཆེ་ཆུང་	adj -	n.count -
+ཆེ་བ	n.v.pres -
+ཆེ་བ་	n.v.pres -
+ཆེ་བཞི་	N -
+ཆེ་འདོད་	N -
+ཆེ་འདོན	n.count -
+ཆེ་འདོན་	n.count -
+ཆེ་རབ་	adj -
+ཆེ་རྟགས་	N -
+ཆེད་	n.rel -
+ཆེན་པོ	adj -
+ཆེན་པོ་	adj -
+ཆེན་མོ་	adj -
+ཆེས་	adv.intense -	v.fut.v.pres -	v.past -
+ཆེས་པ	n.v.invar -
+ཆེས་པ་	n.v.invar -	n.v.past -
+ཆོ་ག་	n.count -
+ཆོ་ངེས་	n.count -
+ཆོ་རིགས་	n.count -
+ཆོག	v.invar -
+ཆོག་	v.imp -	v.invar -
+ཆོག་པ	n.v.fut.n.v.pres -	n.v.invar -
+ཆོག་པ་	n.v.invar -
+ཆོད	v.fut.v.pres -
+ཆོད་	v.imp -	v.invar -	v.past -	v.past.v.pres -
+ཆོད་པ	n.v.invar -
+ཆོས	n.count -
+ཆོས་	n.count -
+ཆོས་གོས་	n.count -
+ཆོས་གྲྭ་	n.count -
+ཆོས་ཉིད་	n.count -
+ཆོས་ཕྲན་ཚེགས་	n.count -
+ཆོས་བརྒྱུད	N -
+ཆོས་བརྒྱུད་	n.count -
+ཆོས་བརྩོན་	N -
+ཆོས་མཚམས	n.count -
+ཆོས་མཚམས་	n.count -
+ཆོས་མཛོད་	N -
+ཆོས་ཚིག་	n.count -
+ཆོས་འཁོར་	n.count -
+ཆོས་འབྱུང་	n.count -
+ཆོས་འབྲེལ་	n.count -
+ཆོས་རྒྱགས་	n.count -
+ཆོས་རྒྱལ་	n.count -
+ཆོས་རྗེ་	n.count -
+ཆོས་རྡོར	N -
+ཆོས་རྡོར་	N -
+ཆོས་ལུགས་	n.count -
+ཆོས་ལྡན་	VN -
+ཆོས་སྐལ་	n.count -
+ཆོས་སྐུ་	n.count -
+ཆོས་སྐོར་	n.count -
+ཆོས་སྐྱོང་	n.count -
+ཆོས་སྟོན་	n.count -
+ཆོས་སྲུངས་	N -
+ཇ་	n.mass -
+ཇག་ཆོམ་	N -
+ཇི་	p.interrog -
+ཇི་ཙམ་	p.interrog -
+ཇི་ལྟ་	adj -
+ཇི་སྲིད་	p.interrog -
+ཇུ་རྩེ་	N -
+ཇེ་མང་	adj -
+ཇོ་བོ་	n.count -
+ཇོ་བོ་རྗེ	n.prop -
+ཇོ་མོ	n.count -
+ཇོ་མོ་	n.count -
+ཇོ་སྲས་	n.count -
+ཉ་	n.count -
+ཉ་གང་	N -
+ཉག་ཕྲན་	n.count -
+ཉན་	v.invar -
+ཉན་ཐོས་	n.count -
+ཉན་པ་	n.v.pres -
+ཉན་རང་	n.count -
+ཉམ་	n.count -
+ཉམ་ཆུང་	adj -
+ཉམས	v.invar -
+ཉམས་	n.count -	v.fut.v.pres -	v.invar -	v.past -
+ཉམས་པ	n.v.fut.n.v.pres -	n.v.invar -	n.v.past -
+ཉམས་པ་	n.v.invar -	n.v.past -
+ཉམས་མྱོང་	n.count -
+ཉམས་རྟོགས་	n.count -
+ཉམས་ལེན་	n.count -
+ཉམས་སྣང་	n.count -
+ཉལ་	v.fut.v.pres -	v.invar -
+ཉལ་བ་	n.v.fut.n.v.pres -
+ཉལ་འགྲོ་	N -
+ཉི་	n.count -
+ཉི་མ	n.count -
+ཉི་མ་	n.count -
+ཉི་མ་ལ་སྟོད་	n.prop -
+ཉི་ཟླ་	n.count -
+ཉི་འོག་	n.prop -
+ཉི་འོད་	n.count -
+ཉི་ཤུ་	num.card -
+ཉིད	d.emph -
+ཉིད་	d.emph -
+ཉིན	n.count -
+ཉིན་	adv.temp -	n.count -
+ཉིན་པ	n.count -
+ཉིན་མོ	n.count -
+ཉིན་ཞག་	n.count -
+ཉིན་ལམ་	N -
+ཉིལ་	v.invar -
+ཉིས་	num.card -
+ཉུང་ངུ	adj -
+ཉུང་ངུ་	adj -
+ཉུང་བསྡུས་	adj -
+ཉུང༌	adj -
+ཉེ	v.fut.v.pres -
+ཉེ་གནས་	n.count -
+ཉེ་བ	n.v.invar -
+ཉེ་བ་	n.v.invar -
+ཉེ་བ་འཁོར་	N -
+ཉེ་བརྒྱུད	N -
+ཉེ་བརྒྱུད་	N -	n.count -
+ཉེ་འཁོར་	n.count -
+ཉེ་རིང་	adj -
+ཉེ་ལམ	n.count -
+ཉེ་ལམ་	n.count -
+ཉེན་	v.invar -
+ཉེར་	num.card -
+ཉེར་འཚོར་	N -
+ཉེས	v.invar -
+ཉེས་	F -	VN -	n.count -	v.invar -	v.past -
+ཉེས་པ	n.v.invar -	n.v.past -
+ཉེས་པ་	n.v.invar -
+ཉེས་མེད་	VN -
+ཉེས་ལྟུང་	n.count -
+ཉེས་སྤྱོད་	n.count -
+ཉོ་	v.fut.v.pres -
+ཉོ་ཚོང་	n.count -
+ཉོན	v.imp -
+ཉོན་	v.imp -
+ཉོན་མོངས་	n.count -
+ཉོས	v.past -
+ཉྭ་ཆབ་	n.count -
+ཌ་པོ་	N -
+ཌཱ་ཀི་	n.count -
+ཌོམ་བི་ཧེ་རུ་ཀ་	n.prop -
+ཏ་རེ	cv.are -
+ཏ་ལ	N -
+ཏནྟྲ་སྡེ་	N -
+ཏི་ར་	n.count -
+ཏིང་ངེ་འཛིན་	n.count -
+ཏིང་ངེ་འཛིན་བཟང་པོ་	n.prop -
+ཏིང་འཛིན་	n.count -
+ཏིན་ཏུ་	N -
+ཏུ	case.term -	cv.term -
+ཏུ་	case.term -	cv.term -
+ཏེ	cv.sem -
+ཏེ་	cv.sem -
+ཏེ་བོ	adv.intense -
+ཏེ་ལོ་པ	n.prop -
+ཏེ་ལོ་པ་	N -
+ཏོ	cv.fin -
+ཏོ་	cv.fin -
+ཏོག་དཀར་	v.past -
+ཐ་	n.count -
+ཐ་ག་པ	n.count -
+ཐ་ག་པ་	n.count -
+ཐ་གྲུ་	N -
+ཐ་ཆུང་	adj -
+ཐ་དད་	adj -
+ཐ་མ	adj -	n.rel -
+ཐ་མ་	adj -
+ཐ་མལ་	adj -
+ཐ་ལ་	adv.mim -
+ཐ་ཤལ་	adj -
+ཐག་	n.count -	v.aux -
+ཐག་པ	n.v.aux -
+ཐག་པ་	n.v.aux -
+ཐག་རིང་	adj -
+ཐགས་	n.count -
+ཐང་	n.count -
+ཐང་བརྡལ་མ་	N -
+ཐང་སྟོང་རྒྱལ་པོ་	n.prop -
+ཐད་	n.rel -
+ཐབས་	n.count -
+ཐབས་ཤེས་	n.count -
+ཐབས་ཤེས་དབྱིངས་སྦྱོར་	n.prop -
+ཐམ་ཐུམ་རྨི་ལམ་	n.count -
+ཐམ་པ་	num.card -
+ཐམས་ཅད་	d.plural -
+ཐམས་ཅད་འདོད་	n.prop -
+ཐམས་ཅད་སྐྱོབ་པ་	N -
+ཐམས་པ	n.v.invar -
+ཐར་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+ཐར་པ་	n.v.past.n.v.pres -
+ཐར་བ	n.v.fut.n.v.pres -
+ཐལ	v.fut.v.past -
+ཐལ་	v.fut -	v.fut.v.past -
+ཐལ་ཀར་	adj -
+ཐལ་བ	n.v.fut -
+ཐལ་མོ་	n.count -
+ཐིག་	n.count -
+ཐིག་ལེ་	n.count -
+ཐིགས་པ	n.v.invar -
+ཐིགས་པ་	n.v.invar -
+ཐིང་བ་	n.v.fut.n.v.pres -
+ཐིབས་	V -
+ཐིམ་	v.invar -
+ཐིམ་པ	n.v.invar -
+ཐུ	v.fut.v.pres -
+ཐུ་བ་	n.count -
+ཐུ་ལེ་བ་	adj -
+ཐུག	v.invar -
+ཐུག་	V -	v.past.v.pres -
+ཐུག་པ	n.v.invar -
+ཐུག་པ་	n.mass -	n.v.invar -
+ཐུག་པོ་	adj -
+ཐུགས་	n.count -
+ཐུགས་ཁྲེལ་	n.count -
+ཐུགས་གཏུམ་པོ་	adj -
+ཐུགས་གཏུམ་མེ་བ་	adj -
+ཐུགས་གཏེར་	N -
+ཐུགས་ངོ་	N -
+ཐུགས་ཉམས་	n.count -
+ཐུགས་དགོངས་	n.count -
+ཐུགས་དམ་	n.count -
+ཐུགས་དྲན་	n.count -
+ཐུགས་བཅུད་	n.count -
+ཐུགས་བཞེད་	n.count -
+ཐུགས་བསམ་	n.count -
+ཐུགས་བྲེལ་	n.count -
+ཐུགས་བློ་	N -
+ཐུགས་རྒྱལ་	n.count -
+ཐུགས་རྒྱུད་	n.count -
+ཐུགས་རྗེ	n.count -
+ཐུགས་རྗེ་	n.count -
+ཐུགས་རྗེ་ཅན་	adj -
+ཐུགས་སྲས་	n.count -
+ཐུང་	v.pres -
+ཐུང་བ	n.v.invar -
+ཐུད་རྐྱལ་	N -
+ཐུན་	n.count -
+ཐུན་མཚམས་	N -
+ཐུན་མོང་	adj -
+ཐུན་མོང་བ	adj -
+ཐུན་མོང་བ་	adj -
+ཐུབ	V -	v.fut.v.pres -	v.past -
+ཐུབ་	v.fut.v.pres -	v.invar -
+ཐུབ་པ	n.v.invar -
+ཐུབ་པ་	n.v.past -
+ཐུར་	n.count -
+ཐུལ་བ་ཡེ་ཤེས་རྒྱལ་མཚན་	n.prop -
+ཐེ་ཚོམ་	n.count -
+ཐེ་རེག་	n.count -
+ཐེག་	v.invar -
+ཐེག་ཆེན་	n.count -
+ཐེག་དགུ	n.count -
+ཐེག་དམན་	n.count -
+ཐེག་པ་	n.count -
+ཐེང་མ་	adj -
+ཐེབས་པ	n.v.past -
+ཐེབས་པ་	n.v.invar -
+ཐོ་བ་	n.v.invar -
+ཐོ་རང་	Adv -
+ཐོ་རངས་	adv.temp -
+ཐོ་རེངས་	N -
+ཐོ་ལེ་བ་	adj -
+ཐོག་	n.count -	n.rel -
+ཐོག་ཐག་	adv.intense -
+ཐོག་བརྩེགས་	N -
+ཐོག་མ	n.count -	n.rel -
+ཐོག་མ་	adj -
+ཐོག་ཟེར་	N -
+ཐོག་སོ་	n.count -
+ཐོགས་	VN -	n.count -	v.invar -	v.past.v.pres -
+ཐོགས་པ	n.v.invar -
+ཐོགས་པ་	n.v.invar -
+ཐོགས་པོ་	adj -
+ཐོང་	n.count -	v.imp -
+ཐོངས	v.imp -
+ཐོངས་	v.imp -	v.past -
+ཐོངས་པ	n.v.imp -
+ཐོངས་པ་	n.v.imp -
+ཐོད་པ་	n.count -
+ཐོད་པ་ཅན་	n.count -
+ཐོད་ཕོར་	n.count -
+ཐོན	V -	v.fut.v.past -
+ཐོན་	V -	n.count -	v.fut -	v.fut.v.past -	v.imp -	v.past -
+ཐོན་པ	n.v.past -
+ཐོན་པ་	n.v.past -
+ཐོབ	V -	v.fut.v.pres -	v.invar -	v.past -
+ཐོབ་	v.fut.v.pres -	v.invar -	v.past -	v.past.v.pres -
+ཐོབ་པ	n.v.fut.n.v.pres -	n.v.invar -
+ཐོབ་པ་	n.v.fut.n.v.pres -	n.v.invar -	n.v.past -
+ཐོབ་བྱ་	N -
+ཐོབ་རྒྱལ	N -
+ཐོལ་	AdvPrefix -
+ཐོས	v.invar -
+ཐོས་	v.invar -	v.past -	v.past.v.pres -
+ཐོས་ཀློག་	N -
+ཐོས་པ	n.v.invar -	n.v.past -
+ཐོས་པ་	n.v.invar -
+ཐོས་པ་དགའ་	n.prop -
+ཐོས་མང་	N -
+ཐོས་སྒྲོག་	N -
+ད་	adv.temp -
+ད་ཐེངས་	Adv -
+ད་དུང་	adv.temp -
+ད་རུང་	adv.temp -
+ད་རེས་	Adv -
+ད་རྨ་མདོ་སྡེ་	n.prop -
+དཀའ	v.past.v.pres -
+དཀའ་	v.invar -
+དཀའ་ཆེན་	n.count -
+དཀའ་ཐུབ་	n.count -
+དཀའ་ཕྲན་	n.count -
+དཀའ་བ	n.v.invar -
+དཀའ་བ་	n.v.aux -	n.v.invar -
+དཀའ་མོ་	adj -
+དཀའ་ལས་	n.count -
+དཀའ་སྤྱད་	n.count -
+དཀར	adj -
+དཀར་གསལ་	VN -
+དཀར་པོ	adj -
+དཀར་པོ་	adj -
+དཀར་བ་	n.v.fut.n.v.pres -
+དཀར་མོ	n.prop -
+དཀར་མོ་	adj -
+དཀོན་	v.fut -
+དཀོན་མཆོག་	n.count -
+དཀོན་མཆོག་སྤྲིན་	n.prop -
+དཀྱིལ་	n.rel -
+དཀྱིལ་འཁོར་	n.count -
+དཀྲིས་	v.past -
+དཀྲུག་པ	n.v.fut.n.v.pres -
+དག	d.plural -
+དག་	d.plural -	v.invar -
+དག་པ	n.v.invar -
+དག་པ་	n.v.fut.n.v.past -
+དག་བྱེད་	N -
+དགང་	v.fut -
+དགང་བ	n.v.fut -
+དགའ	v.invar -
+དགའ་	V -	n.count -	v.fut.v.pres -	v.invar -
+དགའ་བ	n.v.fut.n.v.pres -	n.v.invar -
+དགའ་བ་	n.v.fut.n.v.pres -	n.v.invar -	n.v.past -
+དགའ་བ་བྱེད་	N -
+དགའ་བདེ་	n.count -
+དགའ་མ་	N -
+དགའ་མགུ་	N -
+དགའ་མོ་	adj -
+དགའ་རབ་	adj -
+དགའ་རབ་རྡོ་རྗེ་	n.prop -
+དགའ་ལྡན་	n.prop -
+དགའ་སྟོན་	n.count -
+དགའ་སྤྲོ་	n.count -
+དགར་	v.fut.v.pres -
+དགུ	num.card -
+དགུ་	num.card -
+དགུ་ཅོག་	d.plural -
+དགུ་ཐོག་	adj -
+དགུ་པ	num.ord -
+དགུ་པ་	num.ord -
+དགུག་པ	n.v.fut -
+དགུང་	n.count -
+དགུང་ནུབ་	n.count -
+དགུན་	adv.temp -
+དགེ་	n.count -	v.past.v.pres -
+དགེ་བ	n.v.invar -
+དགེ་བ་	n.v.fut.n.v.pres -	n.v.invar -
+དགེ་བ་གསལ་	N -
+དགེ་འདུན་	n.count -
+དགེ་སྦྱོང་	n.count -
+དགེ་སློང་	n.count -
+དགེས་བ	n.v.invar -
+དགོངས་	v.invar -	v.past.v.pres -
+དགོངས་ཉམས་	N -
+དགོངས་དོན་	N -
+དགོངས་པ	n.v.invar -
+དགོངས་པ་	n.v.invar -
+དགོངས་པ་རབ་གསལ་	n.prop -
+དགོད་	v.fut.v.pres -
+དགོན་པ་	n.count -
+དགོན་སྡེ་	N -
+དགོས	v.aux -	v.fut.v.pres -	v.invar -
+དགོས་	v.aux -	v.fut.v.pres -	v.invar -
+དགོས་པ	n.v.aux -	n.v.invar -
+དགོས་པ་	n.v.aux -	n.v.invar -
+དགོས་རྒྱུ་	n.v.invar -
+དགྱེས་	v.invar -	v.past.v.pres -
+དགྱེས་པ	n.v.invar -
+དགྱེས་པ་	n.v.invar -
+དགྱེས་པ་རྡོ་རྗེ	n.prop -
+དགྱེས་པ་རྡོ་རྗེ་	n.prop -
+དགྲ་	n.count -
+དགྲ་བཅོམ་	n.count -
+དགྲ་བཅོམ་པ	n.count -
+དགྲ་བཅོམ་པ་	n.count -
+དགྲ་བོ	n.count -
+དགྲ་བོ་	n.count -
+དགྲ་བླ་	N -
+དགྲ་འདུལ་	n.count -
+དགྲ་ལྷ་	n.count -
+དང	case.ass -	cv.ass -
+དང་	case.ass -	cv.ass -	v.invar -
+དང་པོ	num.ord -
+དང་པོ་	num.ord -
+དང་བ	n.v.invar -
+དང༌	case.ass -
+དངངས་	v.past -
+དངུལ་	n.mass -
+དངུལ་ཆུ་	n.mass -
+དངུལ་དཀར་	N -
+དངོས་	AdvPrefix -	P -	n.count -
+དངོས་གྲུབ་	n.count -
+དངོས་ཉམས་	N -
+དངོས་པོ	n.count -
+དངོས་པོ་	n.count -
+དངོས་སྣང་	n.count -
+དངོས་སློབ	n.count -
+དད་	v.invar -	v.past.v.pres -
+དད་གུས་	n.count -
+དད་དམ་	N -
+དད་པ	n.v.invar -
+དད་པ་	n.v.invar -	n.v.past -
+དད་ལོག་	N -
+དཔག་	n.count -	v.fut -
+དཔག་ཚད་	n.count -
+དཔང་པོ་	n.count -
+དཔའ	v.invar -
+དཔའ་	n.count -
+དཔའ་བ	n.v.invar -
+དཔའ་བརྟན་	N -
+དཔའ་བོ་	n.count -
+དཔའ་མོ་	n.count -
+དཔའ་ཞིང་	N -
+དཔལ་	n.count -
+དཔལ་ཁ་	N -
+དཔལ་ཁུད་	n.prop -
+དཔལ་ཐོ་ལིང་	N -
+དཔལ་བརྩེགས་	N -
+དཔལ་བེའུ་	n.count -
+དཔལ་བྲག་དམར་	n.count -
+དཔལ་ལྡན་	adj -
+དཔལ་ལྡེ	n.prop -
+དཔུང་	n.count -
+དཔུང་བཟང་	N -
+དཔེ་ཆ་	n.count -
+དཔོག	v.pres -
+དཔོགས	v.imp -
+དཔོན་	n.count -
+དཔོན་པོ	n.count -
+དཔོན་རབས་	N -
+དཔོན་སློབ་	n.count -
+དཔྱད་	v.fut.v.past -
+དཔྱད་པ་	n.v.fut.n.v.past -
+དཔྱིད་ཁ་	adv.temp -
+དཔྱིད་དཔལ་	n.count -
+དཔྱིད་ཟླ་	n.count -
+དཔྱོད	v.pres -
+དཔྱོད་	v.pres -
+དཔྱོད་པ	n.v.pres -
+དཔྱོད་པ་	n.v.pres -
+དཔྲལ་བ	n.count -
+དཔྲལ་བ་	n.count -
+དབང་	PpPrefix -	n.count -	v.invar -
+དབང་གྲལ་	n.count -
+དབང་ངེ་	N -
+དབང་ཐང་	n.count -
+དབང་པོ	n.count -
+དབང་པོ་	n.count -
+དབང་བ་	n.v.invar -
+དབང་བཤད་	N -
+དབང་བསྐུར་	n.count -
+དབང་བསྒྱུར་	n.count -
+དབང་མེད་	adj -
+དབང་མོ་ཆེ་	n.count -
+དབང་ཡོན་	n.count -
+དབུ་	n.count -
+དབུ་ཐོད་	n.count -
+དབུ་ཕྲེང་	N -
+དབུ་མ་	n.prop -
+དབུ་ཞྭ་	n.count -
+དབུ་འཕང་	N -
+དབུགས་	n.count -
+དབུལ་	N -	v.invar -
+དབུལ་པོ་	adj -
+དབུལ་བ་	n.v.fut.n.v.pres -
+དབུལ་མོ་	adj -
+དབུས་	n.count -	n.rel -
+དབུས་གཙང་	n.prop -
+དབུས་པ་	n.count -
+དབེན་པ	n.v.past.n.v.pres -
+དབེན་ས་	N -
+དབྱངས་	n.count -
+དབྱངས་ཅན་	N -	n.prop -
+དབྱངས་ཅན་མ་	N -
+དབྱར་	adv.temp -
+དབྱར་གནས་	n.count -
+དབྱར་ཟླ་	n.count -
+དབྱིག་པ་ཅན་	n.prop -
+དབྱིངས་	n.count -
+དབྱིངས་སྦྱོར་	N -
+དབྱུག་གུ	N -
+དབྱུག་པ་	n.count -
+དབྱུང་བ	n.v.fut.n.v.past -
+དབྱེ	v.fut.v.pres -
+དབྱེ་	v.fut -
+དབྱེ་སྒོ་	n.count -
+དབྱེར་	n.count -
+དམ	F -	cv.ques -
+དམ་	cv.ques -	n.count -
+དམ་ཁ་	n.count -
+དམ་ཆོས་	n.count -
+དམ་པ	n.v.invar -
+དམ་པ་	n.v.invar -
+དམ་པོ་	adj -
+དམ་ཚིག་	n.count -
+དམ་ཚིག་ཅན	adj -
+དམ་ཚིག་ཅན་	adj -
+དམ་རྫས་	n.count -
+དམག་	n.count -
+དམག་མི་	n.count -
+དམངས་	n.count -
+དམན་	adj -	v.invar -
+དམན་པ	n.v.past.n.v.pres -
+དམན་པ་	n.v.past.n.v.pres -
+དམའ་	v.fut.v.pres -
+དམར་ཆུང་	N -
+དམར་པོ	adj -
+དམར་པོ་	adj -
+དམར་བ་	n.v.fut.n.v.pres -
+དམར་བན་	N -
+དམར་མོ་	adj -
+དམར་སེར་ཅན	N -
+དམུས་ལོང་	n.count -
+དམོད་པ་	n.v.invar -
+དར་	n.count -	n.mass -	v.fut.v.pres -	v.invar -
+དར་ཀྱི་ལིང་	N -
+དར་ཁ་	N -
+དར་དིར་	adv.mim -
+དར་བ	n.v.fut.n.v.pres -
+དར་བ་	n.v.fut.n.v.pres -
+དར་མ་མདོ་སྡེ་	n.prop -
+དར་ཚོན་	N -
+དར་འཕྲུ་	N -
+དར་འབོལ་	N -
+དར་ཡུག་	n.count -
+དར་ལུང་	N -
+དར་སྐུད་	n.count -
+དལ་	AdvPrefix -	n.count -	v.past -
+དལ་འགྲོ་མ	N -
+དས་པ	VN -
+དཱི་པམ་ཀ་ར་	n.prop -
+དི་	P -
+དུ	case.term -	cv.term -
+དུ་	case.term -	cv.term -
+དུ་བ་	n.count -
+དུ་མ་	adj -
+དུག་	n.count -
+དུག་ཅན་	adj -
+དུག་པ	VN -
+དུག་མདའ་	N -
+དུང་	n.count -
+དུད་	n.count -	v.invar -
+དུད་འགྲོ	n.count -
+དུད་འགྲོ་	n.count -
+དུབ་	V -
+དུམ་བུ	n.count -
+དུམ་བུ་	n.count -
+དུར་	n.count -
+དུར་ཁྲོད་	n.count -
+དུལ	v.fut.v.pres -
+དུལ་བ	n.v.fut.n.v.pres -
+དུལ་བ་	n.v.fut.n.v.pres -
+དུས	n.rel -
+དུས་	VN -	n.count -	n.rel -
+དུས་གསུམ་སངས་རྒྱས་	n.count -
+དུས་བབས་	N -
+དུས་མཉམ་	PpPrefix -
+དུས་མཐའ་	N -
+དུས་ཚིགས་	n.count -
+དུས་ཚེ་	N -
+དུས་ཚེས་	N -
+དུས་ཚོད་	n.count -
+དུས་ཞབས་པ་	N -
+དུས་འཁོར་	n.count -
+དུས་སྐབས་	N -
+དུས་སྦྱོར་	N -
+དེ	cv.sem -	d.dem -
+དེ་	cv.sem -	d.dem -
+དེ་ཁོན་ཉིད་	N -
+དེ་དུས་	P -
+དེ་དོན་	P -
+དེ་བ	adv.proclausal -
+དེ་བཞིན་གཤེགས་པ	n.count -
+དེ་བཞིན་གཤེགས་པ་	n.count -
+དེ་བཞིན་ཉིད	n.count -
+དེ་བར་	P -
+དེ་བར་ལ་	P -
+དེ་ཡང་	Intr -
+དེ་རིང་	adv.temp -
+དེ་ལུགས་	P -
+དེ་ལྟ་བས་	Intr -
+དེ་སྲིད་	Adv -
+དེང་	adv.temp -
+དེང་སང་	adv.temp -
+དེངས་པ	n.v.past -
+དེངས་པ་	n.v.past -
+དེད་	v.invar -	v.past.v.pres -
+དེབས་	V -
+དོ	cv.fin -
+དོ་	P -	cv.fin -
+དོ་ནུབ་	adv.temp -
+དོ་ཤལ་	N -
+དོ་ཤལ་ཅན་	adj -
+དོ་ཧ་	N -
+དོགས་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+དོགས་པ	n.v.invar -
+དོགས་པ་	n.v.invar -
+དོང་	v.fut.v.past -
+དོང་བ་	n.v.fut.n.v.past -
+དོང་ཙེ་	n.count -
+དོང་རྩེ་	n.count -
+དོན	n.count -
+དོན་	PpPrefix -	n.count -
+དོན་གཟིགས་རྒྱལ་	n.prop -
+དོན་མཐུན་	n.count -
+དོན་མེད་	adj -
+དོན་མེད་པ	adj -
+དོན་རྫོགས་	N -
+དོན་ལྡན་	adj -
+དོར	v.fut.v.past -
+དོར་	V -	v.fut.v.past -
+དོར་བ	n.v.fut -
+དོར་བ་	n.v.fut -
+དོལ་	n.prop -
+དོལ་བོ་	N -
+དྭགས་ཀོང་ཡར་ལུངས་	n.prop -
+དྭགས་པོ་	N -
+དྭངས་ཆ་	N -
+དྭངས་མ	adj -
+དྭངས་མ་	adj -
+དྲ་	n.rel -
+དྲ་བ	n.count -
+དྲ་བ་	n.count -
+དྲག	v.invar -
+དྲག་	v.fut.v.pres -	v.invar -
+དྲག་པོ	adj -
+དྲག་པོ་	adj -
+དྲག་ལས་	N -
+དྲག་ཤུལ་	N -
+དྲགས་	v.past -
+དྲགས་པ	n.v.past -
+དྲང་	adj -	v.fut -
+དྲང་པོ	adj -
+དྲང་པོ་	adj -
+དྲང་སྲོང་	n.count -
+དྲངས	v.past -
+དྲངས་	v.past -
+དྲངས་པ	n.v.past -
+དྲངས་པ་	n.v.past -
+དྲན	v.fut.v.pres -
+དྲན་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+དྲན་པ	n.v.past.n.v.pres -
+དྲན་པ་	n.v.past.n.v.pres -
+དྲན་པོ་	adj -
+དྲལ་བ་	n.v.fut -
+དྲས་	v.past.v.pres -
+དྲི	v.fut -
+དྲི་	n.count -
+དྲི་ངན་	n.count -
+དྲི་བཞོན་	N -
+དྲི་བཟང་	V -
+དྲི་མ་	n.count -
+དྲི་མ་མེད་པ	N -
+དྲི་མེད་	adj -
+དྲི་ཞིམ་	N -
+དྲི་ཟ	n.count -
+དྲི་རྒྱུ་	n.v.fut -
+དྲི་ལྡན་མེ་ཏོག་	n.count -
+དྲིན་	n.count -
+དྲིལ	v.fut.v.past -
+དྲིལ་	V -
+དྲིལ་བ་	n.v.fut -
+དྲིས་	v.imp -	v.past -
+དྲིས་པ	n.v.past -
+དྲིས་པ་	n.v.past -
+དྲུག་	num.card -
+དྲུག་ཅུ་	num.card -
+དྲུག་དཀར་	N -
+དྲུག་དམར་ཆེ་	adj -
+དྲུག་པ	num.ord -
+དྲུག་པ་	num.ord -
+དྲུང་	n.rel -
+དྲེག་	n.count -
+དྲེགས་	VN -
+དྲེགས་པ	n.v.invar -
+དྲོ་	n.count -
+དྲོངས་	v.imp -
+དྲོད་	n.count -
+དྲོད་གཤེར་	N -
+དྲོད་ཆུང་	n.count -
+དྲོན་མོ	adj -
+དྲོན་མོ་	adj -
+ན	case.loc -	cv.loc -
+ན་	case.loc -	cv.loc -	v.invar -
+ན་ཆུང་	n.count -
+ན་ཆུང་མ་	adj -
+ན་བ	n.v.invar -
+ན་བ་	n.v.invar -
+ན་བཟའ་	n.count -
+ན་མོ	Inter -
+ན་ཚ་	n.count -
+ན་རེ	case.nare -
+ན་རེ་	case.nare -
+ནག་	v.invar -
+ནག་ཅན་	adj -
+ནག་ཐུམ་	N -
+ནག་པོ་	adj -
+ནག་ཚོ་	n.prop -
+ནག་ལོག་	N -
+ནགས་	n.count -
+ནགས་གསེབ	n.count -
+ནགས་ཚལ་	n.count -
+ནགས་ཤུག་	N -
+ནང་	adj -	d.dem -	n.count -	n.rel -
+ནང་གསེས་	N -	n.count -
+ནང་པ	adv.temp -
+ནང་པ་	n.count -
+ནང་མ་	neg -
+ནང་མི་	n.count -
+ནང་འཛིངས་	N -
+ནང་རོལ་	n.count -
+ནང་རྒྱུད་	n.count -
+ནང་ཤོད་	PpPrefix -
+ནངས་	adv.temp -
+ནངས་པ	adv.temp -
+ནད་བུ་	N -
+ནད་ཡམས་	n.count -
+ནན་	n.count -
+ནན་ཏ	adv.intense -
+ནམ	cv.ques -
+ནམ་	cv.ques -	p.interrog -
+ནམ་མཁའ	n.count -
+ནམ་མཁའ་	n.count -
+ནམ་མཁའ་ལྡིང་	punc -
+ནམ་ཟླ	N -
+ནམ་ཟླ་	N -	n.count -
+ནར་མ	adj -
+ནས	case.ela -	cv.ela -
+ནས་	case.ela -	cv.ela -	n.mass -
+ནཱ་རོ	n.prop -
+ནཱ་རོ་	n.prop -
+ནཱ་རོ་པ	n.prop -
+ནཱ་རོ་པ་	n.prop -
+ནི	cl.focus -
+ནི་	cl.focus -
+ནི་གུ་མ་	N -
+ནིར	N -
+ནུ་བོ	n.count -
+ནུ་བོ་	n.count -
+ནུ་མ་	n.count -
+ནུ་འབུར་	N -
+ནུ་ལྡན་	VN -
+ནུ་སོར་	N -
+ནུབ་	adv.temp -	n.count -	v.fut.v.pres -
+ནུབ་པ	n.v.past -
+ནུབ་པ་	n.v.fut.n.v.pres -
+ནུབ་ཕྱོགས་	n.count -
+ནུབ་བྱང་	N -
+ནུབ་མོ་	n.count -
+ནུས	v.aux -	v.invar -
+ནུས་	VN -	v.aux -	v.fut.v.pres -	v.invar -
+ནུས་པ	n.v.aux -	n.v.fut.n.v.pres -	n.v.invar -
+ནུས་པ་	n.v.aux -	n.v.invar -
+ནུས་ལྡན་	adj -
+ནེ་ཙོ	n.count -
+ནེ་ཙོ་	n.count -
+ནཻ་རཉྫ་ན	N -
+ནོ	cv.fin -
+ནོ་	cv.fin -
+ནོག་	N -
+ནོད་	v.invar -	v.past.v.pres -
+ནོན་པ	n.v.past.n.v.pres -
+ནོར་	n.mass -
+ནོར་བ	n.v.past -
+ནོར་བ་	n.v.past -
+ནོར་བདག	N -
+ནོར་བུ	n.mass -
+ནོར་བུ་	n.mass -
+ནོར་མེད་	adj -
+ནོར་མེད་རྒྱན་	n.count -
+ནོར་འཁྲུལ་	n.count -
+ནོར་འཛིན་	N -
+ནོར་རྫས་	n.count -	n.prop -
+ནྱ་གྲོ་དྷ་	n.prop -
+པགས་པ་	n.count -
+པང་ཀོང་	N -
+པཎ་གྲུབ	N -
+པཎ་ཆེན་	n.count -
+པཎྜི་ཏ	n.count -
+པཎྜི་ཏ་	n.count -
+པད་མ་	n.count -
+པད་མཚོ་	N -
+པད་ཚལ་	N -
+པད་འབྱུང་	N -
+པདྨ་	n.count -
+པདྨ་བཀའ་ཐང་	n.prop -
+པདྨ་འབྱུང་གནས་	n.prop -
+པདྨ་འོད་	n.count -
+པདྨ་རཱ་ག་	n.mass -
+པདྨ་སཾ་བྷ་ཝ་	n.prop -
+པདྨའི་བླ་	n.prop -
+པདྨའི་རྩ་ལག་	n.prop -
+པདྨོ་	n.prop -
+པས་	case.comp -
+པི་ཤ་ཙི	N -
+པིར་	N -
+པུཎྱ་ཤྲཱི་	N -
+པུས་མོ་	n.count -
+པོ་ཏ་ལ་	n.prop -
+པྲ་	N -
+ཕ	d.dem -
+ཕ་	n.count -
+ཕ་གུ་	N -
+ཕ་དམ་པ་	N -
+ཕ་དམ་པ་སངས་རྒྱས་	n.prop -
+ཕ་ནོར་	n.count -
+ཕ་མ	n.count -
+ཕ་མ་	n.count -
+ཕ་མེས་	n.count -
+ཕ་ཚན་	n.count -
+ཕ་རོལ་	n.count -
+ཕ་རོལ་ཏུ་ཕྱིན་པ་	n.count -
+ཕ་རྒྱུད་	n.count -
+ཕ་རྒྱུད་མ་རྒྱུད་	n.count -
+ཕག་	n.count -
+ཕག་ནོར་	n.count -
+ཕག་པ་	N -
+ཕངས་	V -
+ཕངས་པ་	n.v.invar -
+ཕན་	n.count -	v.fut.v.pres -	v.invar -	v.past -
+ཕན་པ	n.v.past.n.v.pres -
+ཕན་པ་	n.v.past.n.v.pres -
+ཕན་ཡོན་	n.count -
+ཕབ	v.past -
+ཕབ་	v.past -
+ཕབ་པ	n.v.past -
+ཕབ་པ་	n.v.past -
+ཕབས་	N -
+ཕམ་པ་	n.v.fut.n.v.past -
+ཕར་ཕྱིན་	n.count -
+ཕལ་ཆེ	adj -
+ཕལ་ཆེན་པ	N -
+ཕལ་ཆེན་པ་	n.prop -
+ཕལ་པ	adj -
+ཕལ་པ་	VN -
+ཕལ་བ་	VN -
+ཕལ་མོ་ཆེ་	adj -
+ཕུ	n.count -
+ཕུ་	N -	n.count -
+ཕུ་ནུ་	n.count -
+ཕུ་བོ་	n.count -
+ཕུག་	n.count -
+ཕུག་པ	n.count -
+ཕུག་རོན་	n.count -
+ཕུགས་	Adv -	v.past -
+ཕུང་	v.past -
+ཕུང་ཁམས་	n.count -
+ཕུང་པོ་	n.count -
+ཕུད	V -
+ཕུད་	n.count -	v.past.v.pres -
+ཕུད་པ་	n.v.invar -
+ཕུན་སུམ་ཚོགས་	n.count -
+ཕུན་སུམ་ཚོགས་པ་	adj -
+ཕུབ	v.past.v.pres -
+ཕུར་པ་	n.count -
+ཕུལ	v.past -
+ཕུལ་	v.imp -	v.past -
+ཕུལ་བ	n.v.past -
+ཕུལ་བ་	n.v.past -
+ཕེབས་	v.invar -	v.past.v.pres -
+ཕེབས་པ	n.v.invar -
+ཕེར་བ	n.v.past -
+ཕོ་	n.count -
+ཕོ་གཅོད་	N -
+ཕོ་ཉ་པ	N -
+ཕོ་བྲང་	n.count -
+ཕོ་མོ་	n.count -
+ཕོག	v.invar -
+ཕོག་	v.past.v.pres -
+ཕོག་པ	n.v.invar -
+ཕོགས་	N -
+ཕོངས་	v.invar -
+ཕོངས་པ	n.v.invar -
+ཕོངས་པ་	n.v.invar -
+ཕོབ་	v.imp -
+ཕྱག	n.count -
+ཕྱག་	n.count -
+ཕྱག་དབང་	n.count -
+ཕྱག་དབྱུག་	n.count -
+ཕྱག་དར་ཁྲོད་	n.count -
+ཕྱག་ན་རྡོ་རྗེ	n.prop -
+ཕྱག་ཕྱི	n.count -
+ཕྱག་ཕྱི་	n.count -
+ཕྱག་བརྒྱ་པ་	adj -
+ཕྱག་མཛུབ་	n.count -
+ཕྱག་འདེབས་	N -
+ཕྱག་འབུལ་	n.count -
+ཕྱག་འབེབས་	n.count -
+ཕྱག་འཚལ་སྒང་	n.prop -
+ཕྱག་རེག་	N -
+ཕྱག་རྒྱ	n.count -
+ཕྱག་རྒྱ་	n.count -
+ཕྱག་རྟགས	n.count -
+ཕྱག་རྟགས་	n.count -
+ཕྱག་རྟེན་	n.count -
+ཕྱག་རྫས་	n.count -
+ཕྱག་ལན་	n.count -
+ཕྱགས་སྡིགས་	N -
+ཕྱར་	v.past -
+ཕྱི	Adv -	adv.temp -	d.dem -	n.count -	n.rel -
+ཕྱི་	N -	adj -	n.count -
+ཕྱི་ཉིན་	adv.temp -
+ཕྱི་ཐན་	n.count -
+ཕྱི་དར་	n.count -
+ཕྱི་དུས་	Adv -
+ཕྱི་ནང་	n.count -
+ཕྱི་ཕྱི	adv.temp -
+ཕྱི་བུ་	N -
+ཕྱི་མ	adj -
+ཕྱི་མ་	adj -
+ཕྱི་མོ་	n.count -
+ཕྱི་འགྱུར་	N -
+ཕྱི་འཇུག་	N -
+ཕྱི་རབས་	N -
+ཕྱི་རོལ་	n.count -
+ཕྱི་རྒྱུད་	n.count -
+ཕྱི་རྗེས་	N -
+ཕྱི་ལོ་	N -
+ཕྱིན	v.past -
+ཕྱིན་	v.past -
+ཕྱིན་ཅི་མ་ལོག་པ	VN -
+ཕྱིན་ཅི་མ་ལོག་པ་	VN -
+ཕྱིན་ཆད་	adv.dir -
+ཕྱིན་ཏེ་ལོ་ཤུ་ཤ	n.prop -
+ཕྱིན་ཏེ་ལོ་ཤུ་ཤ་	n.prop -
+ཕྱིན་པ	n.v.past -
+ཕྱིན་པ་	n.v.past -
+ཕྱིར་ཡང	Pp -
+ཕྱིས་བྱོན་	VN -
+ཕྱུག་	v.invar -
+ཕྱུག་པོ་	adj -
+ཕྱུགས་	n.count -
+ཕྱུགས་ཁྱུ་	n.count -
+ཕྱུགས་ནད་	n.count -
+ཕྱུགས་ལུག་	n.count -
+ཕྱུང་	v.past -
+ཕྱུང་བ	n.v.past -
+ཕྱུང་བ་	n.v.past -
+ཕྱུངས་	v.imp -
+ཕྱེ	v.past -
+ཕྱེ་	n.count -	v.past -
+ཕྱེ་བ	n.v.past -
+ཕྱེ་བ་	n.v.past -
+ཕྱེ་མ་ལེབ་	N -
+ཕྱེ་སྒྱེ་	n.count -
+ཕྱེད	v.invar -
+ཕྱེད་	n.count -	num.card -
+ཕྱེས་	v.past -
+ཕྱེས་པ་	n.v.past -
+ཕྱོགས	v.invar -
+ཕྱོགས་	n.count -	n.rel -
+ཕྱོགས་མེད་	adj -
+ཕྲ་མ	N -
+ཕྲ་མོ་	adj -
+ཕྲ་ཚོམ་	N -
+ཕྲག	num.card -
+ཕྲག་	n.count -	num.card -
+ཕྲག་པ་	n.count -
+ཕྲད་	v.fut.v.past -	v.past -
+ཕྲད་པ	n.v.fut.n.v.past -	n.v.past -
+ཕྲིན་	n.count -
+ཕྲིན་ལས་	n.count -
+ཕྲུ་	N -	n.count -
+ཕྲུག་གུ་	n.count -
+ཕྲེང་	n.count -
+ཕྲེང་བ་	n.count -
+ཕྲོགས	V -	v.past -
+བ་	V -	n.count -
+བ་ཀུ་ལ་	N -
+བ་ཡི	VN -
+བ་ལང་	n.count -
+བ་སུ་མི་ཏྲ་	n.prop -
+བ་སྤུ་	n.mass -
+བཀག་	v.past -
+བཀང་	v.past -
+བཀང་བ	n.v.past -
+བཀབ་	v.past -
+བཀབ་པ	n.v.past -
+བཀའ	N -	n.count -
+བཀའ་	n.count -
+བཀའ་གདམས་	n.prop -
+བཀའ་དྲིན་	n.count -
+བཀའ་དྲིན་ཅན་	adj -
+བཀའ་བཀྱོན་	n.count -
+བཀའ་བབས་	n.count -
+བཀའ་བརྒྱུད་	n.prop -
+བཀའ་བརྒྱུད་བླ་མ	n.count -
+བཀའ་བསྡུ་	N -	n.count -
+བཀའ་མ	N -
+བཀའ་མ་	N -
+བཀའ་འདུས་	n.count -
+བཀའ་རྒྱ་	n.count -
+བཀའ་རྟགས་	n.count -
+བཀའ་ལུང་	n.count -
+བཀའ་ཤོག་	n.count -
+བཀའ་སྩལ་པ	N -
+བཀའ་སྲོལ་	n.count -
+བཀུག་པ་	n.v.fut.n.v.past -
+བཀུམ	v.past -
+བཀུམ་	v.past -
+བཀུར	v.invar -
+བཀུར་	v.fut.v.pres -	v.past -
+བཀུར་བ	n.v.fut.n.v.pres -
+བཀུར་བ་	n.v.fut.n.v.pres -
+བཀུར་སྟི་	n.count -
+བཀོད	v.past -
+བཀོད་	v.past -
+བཀོད་པ་	n.v.past -
+བཀོལ་བ	n.v.fut.n.v.pres -
+བཀོལ་བ་	n.v.fut.n.v.pres -
+བཀྱེད་	v.past -
+བཀྱོན་པ་	n.v.past.n.v.pres -
+བཀྲ	v.past.v.pres -
+བཀྲ་	v.past.v.pres -
+བཀྲ་ཤིས་	n.count -
+བཀྲ་ཤིས་མགོན	n.prop -
+བཀྲ་ཤིས་མགོན་	n.prop -
+བཀྲག་	N -
+བཀྲུས་པ	n.v.past -
+བཀྲེན	V -
+བཀྲེས་	v.invar -
+བཀྲེས་པ	n.v.invar -
+བཀྲེས་པ་	n.v.invar -
+བཀྲོངས་	v.past -
+བཀྲོལ་	v.past -
+བཀླགས་པ	n.v.past -
+བག་མ་	n.count -
+བག་ཟོན་	adj -
+བག་ཡོད་	VN -
+བག་ཡོད་པ་	adj -
+བགེགས་	n.count -
+བགོ་བ་	n.count -
+བགོས་	v.past -
+བགྱི	v.fut -
+བགྱི་བ་	n.v.fut -
+བགྱིད་པ་	n.v.pres -
+བགྱིས་	v.past -
+བགྱིས་པ་	n.v.past -
+བགྲང་	v.fut.v.pres -
+བགྲོད་པ	n.v.invar -
+བགྲོད་པ་	n.v.invar -
+བགྲོས་	v.past -
+བང་བ་	n.count -
+བང་མཛོད་	n.count -
+བཅག་	v.fut.v.past -
+བཅག་པ	n.v.fut.n.v.past -
+བཅག་པ་	n.v.fut.n.v.past -
+བཅང་	v.fut -
+བཅད་	v.past -
+བཅད་པ	n.v.past -
+བཅད་པ་	n.v.past -
+བཅས	v.invar -	v.past -
+བཅས་	En -	d.det -	v.invar -	v.past -	v.past.v.pres -
+བཅས་པ	n.v.invar -
+བཅས་པ་	n.v.invar -
+བཅིངས་	v.past -
+བཅིངས་པ་	n.v.past -
+བཅུ	num.card -
+བཅུ་	num.card -
+བཅུ་ཐོག་	n.count -
+བཅུ་པ	num.ord -
+བཅུག	v.past -
+བཅུག་	v.past -
+བཅུག་པ	n.v.past -
+བཅུག་པ་	n.v.past -
+བཅུད་	V -	n.count -
+བཅོ་	num.card -
+བཅོམ	v.fut.v.past -
+བཅོམ་	v.fut.v.past -	v.past -
+བཅོམ་པ	n.v.fut.n.v.past -
+བཅོམ་པ་	n.v.fut.n.v.past -
+བཅོམ་ལྡན་འདས	n.count -
+བཅོམ་ལྡན་འདས་	n.count -
+བཅོལ་	v.fut -
+བཅོལ་བ	n.v.fut -
+བཅོལ་བ་	n.v.fut -	n.v.past -
+བཅོས	v.past -
+བཅོས་	v.fut.v.past -	v.past -
+བཅོས་མ	n.count -
+བཏགས	v.past -
+བཏགས་	v.past -
+བཏགས་པ	n.v.past -
+བཏང	v.past -
+བཏང་	v.past -
+བཏང་བ	n.v.past -
+བཏང་བ་	n.v.past -
+བཏབ་	v.past -
+བཏབ་པ	n.v.past -
+བཏབ་པ་	n.v.past -
+བཏིང་	v.past -
+བཏིང་བ་	n.v.past -
+བཏིངས་	v.past -
+བཏིངས་པ་	n.v.past -
+བཏུང་	v.fut -
+བཏུང་བ་	n.v.fut -
+བཏུད་	v.fut.v.past -	v.past -
+བཏུབ་	v.fut.v.pres -
+བཏུལ	v.past -
+བཏུལ་	v.past -
+བཏུས	v.past -
+བཏུས་པ	n.v.past -
+བཏེག་	v.fut.v.past -	v.past -
+བཏོད་	v.past -
+བཏོན	v.past -
+བཏོན་	v.past -
+བཏོན་པ	n.v.past -
+བཏོན་པ་	n.v.past -
+བད་	v.invar -	v.past.v.pres -
+བད་པ་	n.v.invar -
+བདག	p.pers -
+བདག་	p.pers -
+བདག་ཅག་	p.pers -
+བདག་ཉིད་	n.count -
+བདག་པོ་	n.count -
+བདག་མེད་	n.count -
+བདག་མེད་མ་	n.prop -
+བདའ་བ་	n.v.invar -
+བདས་པ	n.v.past -
+བདུད་	n.count -
+བདུད་རྩི་	n.count -
+བདུད་རྩི་མོ་	n.prop -
+བདུད་རྩི་ཟས་	n.prop -
+བདུན	num.card -
+བདུན་	num.card -
+བདུན་ཐོག་	n.count -
+བདུན་པ་	num.ord -
+བདུན་པོ་	num.card -
+བདུན་ཕྲག་	N -
+བདུན་ལྡན་	VN -
+བདེ	v.invar -
+བདེ་	n.count -	v.invar -
+བདེ་གཤེགས་འདུས་པ་	N -
+བདེ་ཆེན་	n.count -
+བདེ་ཐབས་	n.count -
+བདེ་དགྱེས་གསང་	N -
+བདེ་བ	n.v.invar -
+བདེ་བ་	n.v.invar -
+བདེ་བྱེད་	n.count -
+བདེ་མཆོག་	n.prop -
+བདེ་མཛད་	N -
+བདེ་འགྲོ་	N -
+བདེ་འབྱུང་	N -
+བདེ་ལེགས་	n.count -
+བདེ་སྐྱིད་	n.count -
+བདེ་སྐྱོང་	N -
+བདེན	v.invar -
+བདེན་	n.count -	v.fut.v.pres -	v.past.v.pres -
+བདེན་པ	n.v.past.n.v.pres -
+བདེན་པ་	n.v.past.n.v.pres -
+བདེན་བཞི	N -
+བདེན་ཚིག་	n.count -
+བདོ་བ	n.v.invar -
+བདོག་པ	n.v.invar -
+བདོག་པ་	n.v.fut.n.v.pres -	n.v.invar -
+བན་ཆུང་	n.count -
+བནྡེ་	N -	n.count -
+བབ་	v.fut.v.past -	v.past -
+བབ་ཅོལ་	N -
+བབ་པ	n.v.past -
+བབས	v.past -
+བབས་	AdvPrefix -	v.past -
+བབས་པ་	n.v.past -
+བབས་ཚུལ་	n.v.past -
+བབས་སོ་	n.count -
+བམ་	cv.ques -
+བཙན་ཁང་	n.count -
+བཙན་ཐབས་	n.count -
+བཙན་པ	n.v.past.n.v.pres -
+བཙན་པ་	n.v.past.n.v.pres -
+བཙན་པོ	adj -
+བཙལ	v.fut.v.past -
+བཙལ་	v.fut -	v.fut.v.past -	v.past -
+བཙལ་བ	n.v.fut -
+བཙལ་བ་	n.v.fut -
+བཙལ་ས་	n.v.fut.n.v.past -
+བཙས	v.past -
+བཙས་	v.past -
+བཙུགས	v.past -
+བཙུགས་	v.past -
+བཙུགས་པ	n.v.past -
+བཙུན་པ	n.count -
+བཙུན་པ་	n.count -
+བཙུན་མོ	n.count -
+བཙུན་མོ་	n.count -
+བཙེས་པ	n.v.past -
+བཙོག་པ	n.v.fut.n.v.past -
+བཙོགས་པ	n.v.past -
+བཙོང་	v.fut -
+བཙོངས་པ	n.v.past -
+བཙོན་	n.count -
+བཙོས་པ་	n.v.past -
+བཞག	v.past -
+བཞག་	V -	v.past -
+བཞག་པ	n.v.past.n.v.pres -
+བཞག་པ་	n.v.past.n.v.pres -
+བཞད་གད་	n.count -
+བཞད་པ་རྡོ་རྗེ་	n.prop -
+བཞམས་	v.past -
+བཞི	num.card -
+བཞི་	num.card -
+བཞི་པ	num.ord -
+བཞི་པ་	num.ord -
+བཞི་འདུས་	N -
+བཞི་ལྡན་	adj -
+བཞིན	n.rel -
+བཞིན་	n.rel -
+བཞིན་པ་	Link -
+བཞིན་བ་	Link -
+བཞུ་	v.fut.v.pres -
+བཞུགས	v.invar -
+བཞུགས་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+བཞུགས་གདན་	n.count -
+བཞུགས་པ	n.v.fut.n.v.pres -	n.v.invar -
+བཞུགས་པ་	n.v.invar -
+བཞུགས་ས་	VN -
+བཞེངས	v.past -
+བཞེངས་	v.past -
+བཞེངས་པ་	n.v.past -
+བཞེད	v.invar -
+བཞེད་	v.invar -
+བཞེད་གཞུང་	n.count -
+བཞེད་དགོངས་	n.count -
+བཞེད་པ་	n.v.invar -
+བཞེད་ཚུལ་	n.v.invar -
+བཞེས	v.invar -
+བཞེས་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+བཞེས་པ་	n.v.invar -
+བཞེས་སྐོང་	VN -
+བཞོན་པ	N -
+བཞོན་པ་	n.v.past -
+བཟང་	n.count -	v.invar -
+བཟང་ངན་	adj -
+བཟང་དབང་པོ	N -
+བཟང་པོ	adj -
+བཟང་པོ་	adj -
+བཟང་བ	n.v.invar -
+བཟང་བ་	n.v.invar -
+བཟང་མོ	adj -
+བཟང་མོ་	n.count -
+བཟངས་	V -
+བཟད་	VN -
+བཟད་པ་	n.v.fut.n.v.pres -
+བཟའ་	n.count -	n.mass -	v.fut -
+བཟའ་བ་	n.v.fut -
+བཟའ་བཏུང་	n.mass -
+བཟི	v.past -
+བཟི་	v.past.v.pres -
+བཟི་བ་	n.v.invar -
+བཟི་བེར་རེ་བ་	adj -
+བཟུང་	v.past -
+བཟུང་བ	n.v.past -
+བཟུང་བ་	n.v.past -
+བཟོ	v.fut.v.pres -
+བཟོ་	N -
+བཟོད་	V -	v.past -
+བཟོད་པ	n.v.fut.n.v.pres -	n.v.invar -	n.v.past -
+བཟོད་སྲན་	N -
+བཟླས་	v.fut.v.past -
+བཟླས་བརྗོད་	VN -
+བཟློག་	v.fut.v.past -
+བཟློག་རྟགས་	N -
+བའ་	Quant -
+བར་	Adv -	PpPrefix -	d.dem -	n.count -	n.rel -
+བར་ཆད་	n.count -
+བར་བ	Adv -
+བར་བྱོན་	VN -
+བར་འགའ་	Adv -
+བརྐམ་པ་	n.v.invar -
+བརྐུས་པ་	n.v.past -
+བརྒལ་	v.past -
+བརྒྱ	num.card -
+བརྒྱ་	num.card -
+བརྒྱ་བྱིན་	n.prop -
+བརྒྱ་ལམ་	adj -
+བརྒྱང་	v.fut.v.pres -
+བརྒྱད	num.card -
+བརྒྱད་	num.card -
+བརྒྱད་པ	num.ord -
+བརྒྱད་པ་	num.ord -
+བརྒྱད་པོ་	num.card -
+བརྒྱད་སྟོང་པ་	n.prop -
+བརྒྱན	v.fut.v.past -
+བརྒྱན་	v.fut.v.past -
+བརྒྱན་པ	n.v.past -
+བརྒྱན་པ་	n.v.past -
+བརྒྱབ	v.fut.v.past -
+བརྒྱབ་	v.past -
+བརྒྱབ་པ	n.v.fut.n.v.past -
+བརྒྱབས་པ	n.v.past -
+བརྒྱལ་	v.fut.v.pres -	v.invar -
+བརྒྱལ་བ་	n.v.fut.n.v.pres -
+བརྒྱུགས	v.past -
+བརྒྱུད	v.invar -
+བརྒྱུད་	n.count -	v.invar -
+བརྒྱུད་པ་	n.v.invar -
+བརྒྱུད་འཛིན་	n.count -
+བརྒྱུད་སྲོལ་	N -
+བརྔ་	v.fut -
+བརྔན་པ	n.v.past -
+བརྗིད་པ་	n.v.invar -
+བརྗེད	v.invar -
+བརྗེད་	v.past -
+བརྗེད་པ	n.v.fut.n.v.pres -	n.v.past -
+བརྗོད་	n.count -	v.fut -	v.fut.v.past -	v.past -
+བརྗོད་པ	n.v.fut.n.v.past -
+བརྗོད་པ་	n.v.fut.n.v.past -
+བརྗོད་བྱ་	n.count -
+བརྗོད་རྒྱུ་	n.v.fut -
+བརྙ་	v.fut -
+བརྙས	v.past -
+བརྙས་	v.invar -
+བརྙས་པ་	n.v.past -
+བརྙེས	v.fut.v.past -
+བརྙེས་པ་	n.v.fut.n.v.past -
+བརྟག་	v.fut.v.past -
+བརྟག་གཉིས་	n.prop -
+བརྟག་པ་	n.v.fut.n.v.past -
+བརྟགས་	v.past -
+བརྟགས་པ	n.v.past -
+བརྟན་	v.invar -
+བརྟན་པ	n.v.fut -	n.v.past -
+བརྟེན་	v.fut -	v.fut.v.past -	v.past -
+བརྟེན་པ་	n.v.past -
+བརྟེན་བྱ་	n.count -
+བརྡ་	n.count -
+བརྡ་དོན་	n.count -
+བརྡ་སྐད་	n.count -
+བརྡབ་	v.fut.v.pres -
+བརྡབས	v.past -
+བརྡབས་	v.past -
+བརྡབས་པ	n.v.past -
+བརྡར	v.fut.v.past -
+བརྡལ	v.fut.v.past -
+བརྡུགས་	v.past -
+བརྡུང་	v.fut -
+བརྡུངས	v.past -
+བརྡུངས་	v.past -
+བརྡུངས་པ་	n.v.past -
+བརྡོལ	v.fut.v.past -
+བརྣངས་	v.past -
+བརྩད་	v.fut.v.past -
+བརྩམས	v.past -
+བརྩམས་	v.past -
+བརྩམས་པ	n.v.past -
+བརྩི་བ་	n.v.fut -
+བརྩིག་པ	n.v.fut -
+བརྩིགས	v.past -
+བརྩིགས་	v.past -
+བརྩིགས་པ	n.v.past -
+བརྩིགས་པ་	n.v.past -
+བརྩེ་	v.fut.v.pres -
+བརྩེ་བ	n.v.invar -
+བརྩེགས་པ	n.v.past -
+བརྩེས་པ	n.v.past -
+བརྩེས་པ་	n.v.past -
+བརྩོད་	V -
+བརྩོན་པ	n.v.past.n.v.pres -
+བརྩོན་པ་	n.v.past.n.v.pres -
+བརྩོན་འགྲུས་	n.count -
+བརྩོན་འགྲུས་ཆེ་	n.count -
+བརྩོན་འགྲུས་སུ་	N -
+བརྫངས	v.past -
+བརྫངས་	v.past -
+བརྫངས་པ་	n.v.past -
+བརྫུན་	n.count -	v.fut -
+བརྫུས་	v.past -
+བརླག	v.invar -
+བརླག་	v.invar -
+བརླག་པ	n.v.invar -
+བརླག་པ་	n.v.invar -
+བརླབ་པ	n.v.fut -
+བརླབས	v.past -
+བརླབས་པ	n.v.past -
+བརླིང་	v.fut -
+བརླིང་བ	n.v.fut -
+བལ་པོ	n.prop -
+བལ་པོ་	n.prop -
+བལ་བོད་མཚམས་	n.count -
+བལ་སྟན་	N -
+བལྟ	v.fut -
+བལྟ་	v.fut -
+བལྟ་བ་	n.v.fut -
+བལྟམས	v.invar -
+བལྟམས་པ	n.v.invar -
+བལྟམས་པ་	n.v.invar -
+བལྟས	v.past -
+བལྟས་	v.past -
+བལྟས་པ	n.v.past -
+བལྟས་པ་	n.v.past -
+བཤད	v.fut.v.past -
+བཤད་	v.fut.v.past -
+བཤད་པ	n.v.fut.n.v.past -
+བཤད་པ་	n.v.fut.n.v.past -
+བཤད་ས་	VN -
+བཤད་སྒྲུབ་	n.count -
+བཤད་སྲོལ་	N -
+བཤམས་	v.past -
+བཤམས་པ་	n.v.past -
+བཤལ་	v.past.v.pres -
+བཤིག	v.past -
+བཤིག་	v.past -
+བཤིག་པ	n.v.past -
+བཤིག་པ་	n.v.past -
+བཤིགས་	v.invar -	v.past.v.pres -
+བཤིགས་པ	n.v.past -
+བཤིགས་པ་	n.v.invar -
+བཤུམས་	v.past -
+བཤེས་གཉེན་	n.count -
+བཤོལ་	n.count -	v.invar -
+བས	case.comp -
+བས་	case.comp -
+བསགས་	v.past -
+བསགས་པ	n.v.past -
+བསགས་པ་	n.v.past -
+བསད	v.past -
+བསད་	v.past -
+བསད་པ་	n.v.past -
+བསད་ཚད་	VN -
+བསབ་པ་	n.v.fut -
+བསམ	v.fut -
+བསམ་	n.count -	v.fut -
+བསམ་གཏན་	n.count -
+བསམ་ངན་	n.count -
+བསམ་པ་	n.v.fut -
+བསམ་བྱུང་	N -
+བསམ་བློ་	n.count -
+བསམ་མནོ་	n.count -
+བསམ་འགྲུབ་	N -
+བསམ་སྦྱོར་	n.count -
+བསམས་	v.past -
+བསམས་པ	n.v.past -
+བསལ་	v.fut.v.past -
+བསལ་བ་	n.v.fut -
+བསིངས་	v.past -
+བསིལ་	v.fut.v.pres -	v.invar -
+བསིལ་གྲིབ་	n.count -
+བསུ་ཆང་	n.mass -
+བསུ་བ་	n.v.fut.n.v.pres -
+བསུ་མ་	n.count -
+བསུ་མཁན་	n.v.fut.n.v.pres -
+བསུང་	N -
+བསུབ་རྒྱུ་	n.v.fut -
+བསུབས་	v.past -
+བསེ་རུ་	n.count -
+བསེར་བུ་	n.count -
+བསོ་བ	n.v.invar -
+བསོགས་	v.past -
+བསོད་ནམས	N -
+བསོད་ནམས་	n.count -
+བསོད་ནམས་སྟོབས་རྒྱལ་	n.prop -
+བསོད་སྙམས་	N -
+བསོད་སྙོམས་	n.count -
+བསྐལ་པ་	n.count -
+བསྐུར	v.fut.v.past -
+བསྐུར་	v.fut -	v.fut.v.past -	v.past -
+བསྐུར་བ	n.v.fut -
+བསྐུར་བ་	n.v.fut.n.v.pres -	n.v.past -
+བསྐུལ་	v.past -
+བསྐུལ་བ	n.v.fut -
+བསྐུལ་བ་	n.v.fut -
+བསྐུལ་བ་པོ་	n.count -
+བསྐུལ་མ་	N -	n.count -
+བསྐོ	v.fut -
+བསྐོར	v.fut.v.past -
+བསྐོར་	v.fut -	v.fut.v.past -	v.past -
+བསྐོར་བ	n.v.fut -
+བསྐོལ་	v.past -
+བསྐོལ་བ་	n.v.fut -
+བསྐོས་	v.past -
+བསྐོས་པ་	n.v.past -
+བསྐྱང་	v.fut -
+བསྐྱངས་	v.past -
+བསྐྱངས་པ	n.v.past -
+བསྐྱངས་པ་	n.v.past -
+བསྐྱབས	V -
+བསྐྱབས་	v.invar -	v.past.v.pres -
+བསྐྱལ	v.fut.v.past -
+བསྐྱལ་	v.fut -	v.past -
+བསྐྱལ་བ	n.v.fut -
+བསྐྱས་	v.past -
+བསྐྱིལ	v.fut.v.past -
+བསྐྱུར་བ་	n.v.fut -
+བསྐྱེད	v.fut.v.past -
+བསྐྱེད་	v.fut.v.past -	v.past -
+བསྐྱེད་པ	n.v.fut.n.v.past -
+བསྐྱེད་རྫོགས་	n.count -
+བསྐྱེལ་	v.fut.v.past -
+བསྐྱོད་པ	n.v.fut.n.v.past -
+བསྐྱོད་པ་	n.v.fut.n.v.past -
+བསྐྱོན	v.fut.v.past -
+བསྒུག་	v.fut -
+བསྒོ	v.fut -
+བསྒོ་	v.imp -	v.past.v.pres -
+བསྒོ་བ་	n.v.invar -
+བསྒོངས་	v.past -
+བསྒོམ་	v.fut -
+བསྒོམ་པ་	n.v.fut.n.v.pres -
+བསྒོམས་	v.past -
+བསྒོམས་པ	n.v.past -
+བསྒོས་	v.past -
+བསྒྱུར	v.fut.v.past -
+བསྒྱུར་	v.fut -	v.fut.v.past -	v.past -
+བསྒྱུར་བ	n.v.fut -
+བསྒྱུར་བ་	n.v.fut -	n.v.past -
+བསྒྱེལ་	v.fut -
+བསྒྲགས	v.past -
+བསྒྲགས་	v.past -
+བསྒྲལ་བ	n.v.fut -
+བསྒྲིག་	v.fut -
+བསྒྲིགས་	v.past -
+བསྒྲིམས་པ་	n.v.past -
+བསྒྲིལ་	v.fut.v.past -
+བསྒྲིལ་བ་	n.v.fut -
+བསྒྲུབ	v.fut -
+བསྒྲུབ་	v.fut -
+བསྒྲུབ་པ	n.v.fut -
+བསྒྲུབ་པ་	n.v.fut.n.v.past -
+བསྒྲུབ་བྱ་	n.v.fut -
+བསྒྲུབས	v.past -
+བསྒྲུབས་	v.past -
+བསྒྲུབས་པ	n.v.past -
+བསྒྲུབས་པ་	n.v.past -
+བསྒྲོགས་	v.past -
+བསྔགས་	v.invar -	v.past.v.pres -
+བསྔལ་	v.fut -	v.fut.v.past -
+བསྔོ་བ་	n.v.fut -
+བསྙད་	v.invar -
+བསྙལ་	v.fut.v.past -
+བསྙལ་བ	n.v.fut -
+བསྙལ་བ་	n.v.fut -
+བསྙེན་པ	n.v.past.n.v.pres -
+བསྙེན་པ་	n.v.past -
+བསྙེན་སྒྲུབ་	n.count -
+བསྙེལ་	v.invar -
+བསྙོད་	v.fut.v.past -
+བསྙོད་པ	n.v.invar -
+བསྟད	v.fut.v.past -
+བསྟན	v.fut.v.past -
+བསྟན་	n.count -	v.fut -	v.fut.v.past -	v.past -
+བསྟན་པ	n.v.past -
+བསྟན་པ་	n.v.past -
+བསྟན་བཅོས	N -
+བསྟན་བཅོས་	n.count -
+བསྟན་མ	VN -
+བསྟན་མ་	VN -
+བསྟབས	v.past -
+བསྟར་བ	n.v.fut.n.v.pres -
+བསྟི་བ	n.v.fut.n.v.pres -
+བསྟུན་	v.invar -	v.past -
+བསྟེན	v.fut.v.past -
+བསྟེན་	v.fut.v.past -	v.past -
+བསྟེན་པ	n.v.past -
+བསྟེན་པ་	n.v.past -
+བསྟོད་	v.invar -
+བསྟོད་པ	n.v.invar -
+བསྡད	v.fut.v.past -
+བསྡད་	v.fut.v.past -	v.past -
+བསྡད་པ	n.v.fut.n.v.past -
+བསྡད་པ་	n.v.fut.n.v.past -
+བསྡད་རིན་	n.count -
+བསྡད་རྒྱུ་	n.v.fut.n.v.past -
+བསྡུ་	v.fut -
+བསྡུ་བ	n.v.fut -
+བསྡུ་བ་	n.v.fut -
+བསྡུས	v.past -
+བསྡུས་	v.past -
+བསྡུས་པ	n.v.past -
+བསྡུས་པ་	n.v.past -
+བསྡུས་ཚུལ་	n.v.past -
+བསྡེབས་	v.past -
+བསྡོགས་པ་	n.v.past -
+བསྡོམས་	v.past -
+བསྣམས་	v.past -
+བསྣུན	v.fut.v.past -
+བསྣུན་པ	n.v.past -
+བསྣུན་པ་	n.v.past -
+བསྣུབས་	v.past -
+བསྣོལ་	v.fut.v.past -
+བསྲང་	v.fut -
+བསྲངས་	v.past -
+བསྲིང་བ་	n.v.fut -
+བསྲུང་	v.fut -
+བསྲུང་བ་པ་	N -
+བསྲུང་བྱ	n.count -
+བསྲུང་བྱ་	N -
+བསྲུངས་	v.past -
+བསྲུངས་པ	n.v.past -
+བསྲུངས་པ་	n.v.past -
+བསྲུན་	v.fut -
+བསྲེགས་	V -	v.past -
+བསྲོས་	v.past -
+བསླང་བ་	n.v.fut.n.v.past -
+བསླངས	v.past -
+བསླངས་	v.past -
+བསླངས་པ	n.v.past -
+བསླད་	V -
+བསླབ	v.fut -
+བསླབ་	v.fut -
+བསླབ་པ་	n.v.fut -
+བསླབ་ཚིགས་	n.count -
+བསླབས་	v.past -
+བསླབས་པ	n.v.past -
+བསླུས་	v.past -
+བསླུས་པ་	n.v.past -
+བི་ཀྲ་མ་ཤཱི་ལ	n.prop -
+བི་མ་ལ་སྭ་བྷ་བ་	n.prop -
+བི་རཱུ་བ་	N -
+བུ	n.count -
+བུ་	n.count -
+བུ་ཆུང་	n.count -
+བུ་ཆེན་	n.count -
+བུ་ཆེན་སློབ་མ་	n.count -
+བུ་ཕོ	n.count -
+བུ་ཕོ་	n.count -
+བུ་མོ	n.count -
+བུ་མོ་	n.count -
+བུ་ཚ་	n.count -
+བུ་ཡུག་	N -
+བུ་རམ་	N -
+བུ་སློབ་	n.count -
+བུག་སྒོ་	n.count -
+བུང་བ་	n.count -
+བུད་མེད་	n.count -
+བུབས་	n.count -
+བུམ་པ་	n.count -
+བུམ་བཟང་	N -
+བུར་ཆང་	N -
+བུས་	VQuant -	v.past -
+བེ་རེ་	N -
+བེའུ	N -
+བཻ་རོ་ཙ་ན	n.prop -
+བཻ་རོ་ཙ་ན་རཀྵི་ཏ་	n.prop -
+བོ	cv.fin -
+བོ་	cv.fin -	v.past.v.pres -
+བོ་དྷི་སཏྭ་	N -
+བོང་བུ་	n.count -
+བོད་	n.count -	n.prop -
+བོད་གཙང་	n.prop -
+བོད་འབངས་	N -
+བོན་པོ	n.count -
+བོར	v.past -
+བོར་	V -	v.imp -
+བོར་བ	n.v.fut.n.v.pres -
+བོས	V -
+བོས་	v.imp -	v.past -
+བོས་པ་	n.v.past -
+བྱ	v.fut -
+བྱ་	n.count -	v.fut -
+བྱ་ཐབས་	n.count -
+བྱ་དཀའ་	n.count -
+བྱ་དགའ་	n.count -
+བྱ་དམར་	N -
+བྱ་ན་	n.count -
+བྱ་བ	n.v.fut -
+བྱ་བ་	n.v.fut -
+བྱ་རོག་	n.count -
+བྱ་རྒྱུད་	N -
+བྱ་རྩོལ་	N -
+བྱ་སྤྱོད་རྣལ་འབྱོར་	N -
+བྱང་	n.count -
+བྱང་ཆུབ་	n.count -
+བྱང་ཆུབ་སེམས་དཔའ་	n.count -
+བྱང་ཆུབ་སྙིང་པོ་	n.prop -
+བྱང་ཕྱོགས་	n.count -
+བྱང་སེམས་	n.count -
+བྱང་སྒོ་	N -
+བྱད་གཟུགས་	n.count -
+བྱམས་	V -
+བྱམས་པ	n.v.invar -
+བྱམས་པ་	N -	VN -	n.prop -	n.v.invar -
+བྱམས་པོ་	adj -
+བྱམས་བརྩེ	n.count -
+བྱས	v.past -
+བྱས་	v.past -
+བྱས་པ	n.v.past -
+བྱས་པ་	n.v.past -
+བྱས་བ	n.v.past -
+བྱི་	v.invar -
+བྱི་དོར་	n.count -
+བྱི་བ	n.count -
+བྱི་བ་	n.count -	n.v.invar -
+བྱི་རུ་	N -
+བྱི་ལ་	N -
+བྱིན	v.past -
+བྱིན་	n.count -	v.imp -	v.past -
+བྱིན་པ	n.v.past -
+བྱིན་པ་	n.v.past -
+བྱིན་རླབས་	n.count -
+བྱིའུ་	n.count -
+བྱིས་པ་	n.count -
+བྱུག་པ་	N -
+བྱུགས་	V -
+བྱུང་	N -	v.past -
+བྱུང་ཆུབ་འོད	n.prop -
+བྱུང་བ	n.v.past -
+བྱུང་བ་	n.v.past -
+བྱུང་ཚད་	n.v.past -
+བྱུང་ཚུལ	n.v.past -
+བྱུང་ཚུལ་	n.v.past -
+བྱུང་ཡང་	N -
+བྱུང་རྒྱལ	N -
+བྱེ་བ	num.card -
+བྱེ་བ་	num.card -
+བྱེ་བྲལ་	n.count -
+བྱེད	v.pres -
+བྱེད་	v.pres -
+བྱེད་གྲབས་	n.v.pres -
+བྱེད་པ	n.v.pres -
+བྱེད་པ་	n.v.pres -
+བྱེད་པ་པོ་	n.count -
+བྱེད་མཁན་	n.v.pres -
+བྱེད་ཚུལ་	n.v.pres -
+བྱེད་ལུགས་	n.v.pres -
+བྱེའུ་	n.count -
+བྱེར་བ་	n.v.fut.n.v.pres -
+བྱོན	V -	v.past -
+བྱོན་	v.fut.v.past -	v.past -
+བྱོན་པ	n.v.past -
+བྱོན་པ་	n.v.past -
+བྱོན་ཚུལ་	n.v.past -
+བྱོན་རྒྱུ	n.v.fut -
+བྱོས་	v.imp -
+བྲག་སྲིན་མོ་	n.count -
+བྲང་	n.count -
+བྲང་འགྲོ་	N -
+བྲན	N -
+བྲན་	n.count -
+བྲན་གཡོག་	N -
+བྲན་བཟངས་	N -
+བྲན་མོ་	n.count -
+བྲབས་པ་	n.v.past -
+བྲམ་ཟེ	n.count -
+བྲམ་ཟེ་	n.count -
+བྲལ	v.fut.v.past -
+བྲལ་	v.invar -
+བྲལ་བ	n.v.fut.n.v.pres -
+བྲལ་བ་	n.v.fut -
+བྲིན	v.invar -
+བྲིན་པ་	N -
+བྲིས་	V -	v.past -
+བྲིས་པ	n.v.past -
+བྲིས་པ་	n.v.past -
+བྲུན་	n.count -
+བྲུལ་ཚོ་	N -
+བྲེ་བོ་ཆེ་	n.count -
+བྲེ་མོ	n.prop -
+བྲེགས་	v.past -
+བྲེའོ་ཟས	n.prop -
+བྲེལ་	v.fut.v.pres -
+བྲོ	v.invar -
+བྲོ་	v.invar -
+བྲོ་གར་	N -
+བྲོ་བ་	n.v.invar -
+བྲོས	v.past -
+བྲོས་	v.past -
+བྲོས་པ	n.v.past -
+བྲོས་པ་	n.v.past -
+བླ	v.invar -
+བླ་	n.count -
+བླ་གཏེར་	N -
+བླ་ཆེན་	n.count -	n.prop -
+བླ་མ	n.count -
+བླ་མ་	n.count -
+བླ་མེད་	adj -
+བླ་མེད་གསུང་	N -
+བླག་མེད་པ་	adj -
+བླག་ཤ་	N -
+བླང་	v.fut -
+བླངས	v.past -
+བླངས་	v.past -
+བླངས་པ	n.v.past -
+བླངས་པ་	n.v.past -
+བླུགས	v.past -
+བླུགས་	v.past -
+བླུན་པོ	adj -	n.count -
+བླུན་པོ་	adj -
+བླུན་རྟགས་	N -
+བློ	n.count -
+བློ་	n.count -
+བློ་ཁོག་	n.count -
+བློ་གསལ་རྒྱ་མཚོ་	n.prop -
+བློ་གྲོས་	n.count -
+བློ་ངན	n.count -
+བློ་ངན་	n.count -
+བློ་ཆུང་	n.count -
+བློ་བཟང་	N -
+བློ་བཟང་གྲགས་བ་	n.prop -
+བློ་རྒྱ་	N -
+བློ་རྣོ་	adj -
+བློ་ལྡན་	adj -
+བློ་ལྡན་ཤེས་རབ་	n.prop -
+བློན་	n.count -
+བློན་ཆེན་	N -
+བློན་པོ་	n.count -
+བློན་རབས་	N -
+མ	d.dem -
+མ་	P -	n.count -	neg -
+མ་ག་དྷ་	n.prop -
+མ་གཅིག་ལབ་སྒྲོན་	n.prop -
+མ་གཤིན་	N -
+མ་གསང་	n.count -
+མ་དཔྱད་པ་ལས་	punc -
+མ་རིག་གཉིད་	n.count -
+མ་རྒྱུད་	n.count -
+མ་ལ་ཡ་	n.prop -
+མ་ལི་ཀ	N -
+མ་སྐྱེས	N -
+མ་སྐྱེས་དགྲ	n.prop -
+མ་སྨད	N -
+མ་སྨད་	n.count -
+མ་ཧཱ	N -
+མ་ཧཱ་ཡོ་ག་	N -
+མཁན་པོ	n.count -
+མཁན་པོ་	n.count -
+མཁན་སློབ་ཆོས་གསུམ་	N -
+མཁའ་	n.count -
+མཁའ་འགྲོ	n.count -
+མཁའ་འགྲོ་	n.count -
+མཁའ་ལྡིང་	N -
+མཁར་	n.count -
+མཁར་ཆུང་བ་	N -
+མཁར་ལས་	n.count -
+མཁས	v.invar -
+མཁས་	n.count -	v.invar -	v.past.v.pres -
+མཁས་གྲུབ་	n.count -
+མཁས་པ	n.v.invar -
+མཁས་པ་	n.count -	n.v.invar -
+མཁས་པོ་	adj -
+མཁས་མ་	adj -
+མཁྱེན	v.invar -
+མཁྱེན་	v.imp -	v.invar -	v.past.v.pres -
+མཁྱེན་པ	n.v.past.n.v.pres -
+མཁྱེན་པ་	n.v.past.n.v.pres -
+མག་པ	n.count -
+མག་པ་	N -	n.count -
+མགུ་	v.fut.v.pres -	v.invar -
+མགུ་བ	n.v.invar -
+མགུར	n.count -
+མགུར་	n.count -
+མགུར་གླུ་	n.count -
+མགུར་ཆེན་	n.count -
+མགུལ་	n.count -
+མགོ་	n.count -
+མགོ་བོ	n.count -
+མགོ་བོ་	n.count -
+མགོ་མ་	n.count -
+མགོ་འཕང་	N -
+མགོ་རྒོད	VN -
+མགོ་སྐྱེས་	N -
+མགོན་	n.count -
+མགོན་པོ་	n.count -
+མགོན་མེད་ཟས་སྦྱིན	n.prop -
+མགོན་མེད་ཟས་སྦྱིན་	n.prop -
+མགྱོགས	v.past -
+མགྱོགས་	VN -	v.past -
+མགྱོགས་པ	n.v.past -
+མགྲིན་	n.count -
+མགྲིན་པ་	n.count -
+མགྲིན་བཅུ་	n.prop -
+མགྲོན་ཁ་	N -
+མང་	v.pres -
+མང་ཐོས་	n.count -
+མང་པོ	adj -
+མང་པོ་	adj -
+མང་པོས་བཀུར་བ	N -
+མང་པོས་བཀུར་བ་པ་	N -
+མང་བ	n.v.pres -
+མང་བ་	n.v.pres -
+མང་ཡུལ་	n.prop -
+མང་རབ་	adj -
+མངག་གཞུག་མ་	N -
+མངའ་	n.count -	v.invar -
+མངའ་གསོལ་	n.count -
+མངའ་ཐང་	N -
+མངའ་རིས་	n.prop -
+མངལ་	n.count -
+མངལ་བཟང་	N -
+མངོན་	AdvPrefix -	v.fut.v.pres -	v.invar -
+མངོན་པ	n.v.past.n.v.pres -	n.v.pres -
+མངོན་པ་	n.v.past.n.v.pres -
+མངོན་བྱུང་	n.prop -
+མངོན་མཐོ་	n.count -
+མངོན་རྟོགས་	n.count -
+མངོན་སུམ་	n.count -
+མཆི	v.fut.v.pres -
+མཆི་	v.fut.v.pres -
+མཆི་བ་	n.v.fut.n.v.pres -
+མཆི་མ་	n.count -
+མཆིལ་པ	N -
+མཆིལ་ལྷྭམ་	N -
+མཆིས	v.past -
+མཆིས་	v.invar -	v.past -
+མཆིས་པ	n.v.invar -	n.v.past -
+མཆུ	n.count -
+མཆུ་	n.count -
+མཆུ་ནད་	n.count -
+མཆེ་བ་	n.count -
+མཆེ་བ་དྲུག་པ་	adj -
+མཆེད་	n.count -
+མཆེད་ཟླ་	N -
+མཆོག	F -	adj -
+མཆོག་	adj -
+མཆོག་དམན་	adj -
+མཆོག་སྦྱིན་	N -
+མཆོང་བ་	n.v.fut.n.v.pres -
+མཆོངས་	v.past -
+མཆོངས་པ	n.v.past -
+མཆོངས་པ་	n.v.past -
+མཆོད	v.invar -
+མཆོད་	v.invar -
+མཆོད་ཁང་	n.count -
+མཆོད་གནས་	n.count -
+མཆོད་པ	n.v.invar -
+མཆོད་པ་	n.v.invar -
+མཆོད་ཚིག་	N -
+མཆོད་ཡོན་	N -
+མཆོད་རྟེན་	n.count -
+མཇལ	v.invar -
+མཇལ་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+མཇལ་བ་	n.v.fut.n.v.pres -
+མཇལ་ཚུལ	n.v.invar -
+མཇུག་	V -	n.rel -
+མཇུག་མ་	n.count -
+མཇུག་སྒྲོ་	N -
+མཉན་དུ་ཡོད་པ་	n.prop -
+མཉན་ཡོད་	n.prop -
+མཉམ་	v.fut.v.pres -	v.invar -
+མཉམ་པ	n.v.invar -
+མཉམ་པོ	adj -
+མཉམ་པོ་	adj -
+མཉམ་མེད་	adj -
+མཉེས་	v.imp -	v.invar -
+མཉེས་པོ་	adj -
+མཐ	n.count -	n.rel -
+མཐའ	n.count -
+མཐའ་	n.count -
+མཐའ་དག་	d.plural -
+མཐའ་མ	n.count -
+མཐའ་མ་	n.count -
+མཐའ་འཁོབ་	n.count -
+མཐའ་ཡས་པ་	adj -
+མཐར་ཐུག་	VN -
+མཐར་ཕྱིན་	adj -
+མཐིལ་	n.count -
+མཐུ	n.count -
+མཐུ་	n.count -
+མཐུ་ཆེ	adj -
+མཐུ་ཆེན	n.prop -
+མཐུ་ཆེན་	n.prop -
+མཐུ་ཡིས	Pp -
+མཐུ་རྩལ་	n.count -
+མཐུན་	v.fut.v.pres -
+མཐུན་པ	n.v.past.n.v.pres -
+མཐུན་པ་	n.v.past.n.v.pres -	n.v.pres -
+མཐུན་བ་	n.v.fut.n.v.pres -
+མཐུན་རྐྱེན་	n.count -
+མཐོ	v.invar -
+མཐོ་	v.invar -
+མཐོ་བ་	n.v.invar -
+མཐོ་རིས་	n.count -
+མཐོ་ལྡན་	adj -
+མཐོང་	V -	v.fut.v.pres -	v.invar -	v.past -	v.past.v.pres -
+མཐོང་གྲོལ་རྟེན་	n.count -
+མཐོང་ཐོས་དྲན་རེག་	N -
+མཐོང་བ	n.v.invar -	n.v.past -
+མཐོང་བ་	n.v.fut.n.v.pres -	n.v.invar -
+མཐོང༌	V -
+མཐོངས་	n.count -
+མཐོན་པོ	adj -
+མད་	v.invar -
+མདང་	adv.temp -
+མདངས་	Adv -	n.count -
+མདངས་བཀྲ་	N -
+མདངས་བཟང་	N -
+མདའ་	n.count -
+མདའ་དར་	N -
+མདའ་ལྟོང་	n.count -
+མདུང་	n.count -
+མདུང་ཐུང་	N -
+མདུད་པ་	n.count -
+མདུན་	n.count -	n.rel -
+མདུན་བསྐྱེད་	VN -
+མདུན་ས	N -
+མདུན་སོ་	n.count -
+མདོ	n.count -
+མདོ་	n.count -
+མདོ་ཁམས་	N -
+མདོ་ཙམ་	Adv -
+མདོ་ལུགས་	n.count -
+མདོ་སྒྱུ་སེམས་གསུམ་	N -
+མདོ་སྔགས་	n.count -
+མདོ་སྡེ	n.count -
+མདོ་སྡེ་	n.count -
+མདོ་སྡེ་འབུམ་	n.prop -
+མདོ་སྨད་	n.prop -
+མདོག་	n.count -
+མདོག་ནག་	N -
+མདོར་བསྡུས	adj -
+མདོར་བསྡུས་	adj -
+མན་ངག་	n.count -
+མན་ཆད་	adv.dir -
+མནན་	v.fut.v.past -	v.past -
+མནན་པ་	n.v.past -
+མནབས	v.past -
+མནའ་	n.count -
+མནའ་མ་	n.count -
+མནའ་རི་	n.count -
+མནར་བ་	n.v.fut.n.v.pres -
+མནལ་	n.count -
+མནལ་བ	n.v.fut.n.v.pres -
+མནལ་ལམ་	n.count -
+མནོག་ཆུང་	N -
+མམ་	cv.ques -
+མཚན	VN -
+མཚན་	n.count -
+མཚན་གཞི་	n.count -
+མཚན་ཉིད་	n.count -
+མཚན་བཅས་	adj -
+མཚན་མ་	n.count -
+མཚན་མེད་	adj -
+མཚན་མོ་	adv.temp -
+མཚན་ལྡན་	adj -
+མཚན་ལྡན་མ་	adj -
+མཚམས	Pp -
+མཚམས་	n.count -
+མཚར་	N -	n.count -	v.fut.v.pres -
+མཚར་ལུགས་	VN -
+མཚུངས	v.invar -
+མཚུངས་	VN -
+མཚུངས་པ་	n.v.invar -
+མཚུངས་ལྡན་	VN -
+མཚུར་སྟོན་	n.prop -
+མཚོ་མོ་	N -
+མཚོ་སྐྱེས་ཞབས་	N -
+མཚོ་སྐྱེས་རྡོ་རྗེ་	N -
+མཚོན་	n.count -	v.invar -
+མཚོན་ཆ་	n.count -
+མཚོན་པ	n.v.past.n.v.pres -
+མཚོན་པ་	n.v.past.n.v.pres -
+མཛངས་	adj -
+མཛངས་པ	n.v.invar -
+མཛངས་མ	adj -
+མཛད	v.invar -
+མཛད་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+མཛད་པ	n.v.invar -
+མཛད་པ་	n.v.invar -
+མཛའ་	N -	v.fut.v.pres -
+མཛའ་བ་	n.v.invar -
+མཛའ་བོ་	n.count -
+མཛུབ་	V -
+མཛེས	v.invar -
+མཛེས་	adj -	v.fut.v.pres -	v.invar -
+མཛེས་པ	n.v.invar -
+མཛེས་པ་	n.prop -	n.v.invar -
+མཛེས་མ་	adj -
+མཛོ་རྟ་	n.count -
+མཛོད	v.imp -
+མཛོད་	n.count -	v.imp -
+མར་	n.mass -
+མར་ཁུ་	N -
+མར་པ	n.prop -
+མར་པ་	n.prop -
+མར་པ་ལོ་ཙཱ་	n.prop -
+མར་མེ	n.count -
+མར་མེ་	n.count -
+མར་མེ་མཛད	N -
+མར་མེ་མཛད་	n.count -
+མར་ཟུར་	N -
+མར་ལྟང་	N -
+མལ་ཆེན་	N -
+མི	n.count -
+མི་	n.count -	neg -
+མི་ངན་	n.count -
+མི་ཆེན་	n.count -
+མི་ཉམས་	VN -
+མི་དགེ	n.count -
+མི་དགེ་	n.count -
+མི་དབང་	N -
+མི་ནད་	n.count -
+མི་ཕན་	n.count -
+མི་ཕམ་པ་	N -
+མི་བརྡ་	n.count -
+མི་མཇལ་	VN -
+མི་མཇེད་	N -	n.prop -
+མི་འཇིགས་	n.count -
+མི་འདུག	N -
+མི་རབས་	N -	n.count -
+མི་རོ་	n.count -
+མི་རྒན་	n.count -
+མི་ལ་	n.prop -
+མི་ལ་རས་པ	n.prop -
+མི་ལ་རྡོ་རྗེ་རྒྱལ་མཚན་	n.prop -
+མི་ལུས་	n.count -
+མི་ཤ་བོ་	adj -
+མིག	n.count -
+མིག་	n.count -
+མིག་ཡངས་	N -
+མིག་ལྡན་	adj -
+མིག་སྟོང་	n.count -
+མིང་	n.count -
+མིང་པོ་	n.count -
+མིན	v.cop.neg -
+མིན་	v.cop.neg -
+མིན་པ	n.v.pres -
+མིན་པ་	n.v.past.n.v.pres -
+མུ་ཁྱུད་	N -
+མུ་གེ་	n.count -
+མུ་ཏིག་	n.count -
+མུ་སྟེགས་	n.count -
+མུ་སྟེགས་ཅན་	n.count -
+མུ་སྟེགས་པ་	N -	n.count -
+མུག་	v.invar -
+མུག་པ	n.v.invar -
+མུན་ཁུང་	n.count -
+མུན་ནག་	adj -
+མུན་པ་	n.count -
+མུན་བསྐལ་	n.count -
+མེ་	n.count -
+མེ་ཏོག་	n.count -
+མེ་དྲོད་	N -
+མེ་མཆོད་	n.count -
+མེ་རོ་	n.count -
+མེ་རླུང་	n.count -
+མེ་ལོང་	n.count -
+མེ་ལྕེ་	n.count -
+མེད	v.neg -
+མེད་	v.neg -
+མེད་པ	n.v.neg -
+མེད་པ་	n.v.neg -
+མེད་ས་	n.v.neg -
+མེར་བ་	n.v.fut.n.v.pres -
+མེས་སྟོན་	n.count -	n.prop -
+མཻ་ཏྲི་	n.prop -
+མཻ་ཏྲི་པ་	n.prop -
+མོ	cv.fin -
+མོ་	adj -	cv.fin -	n.count -
+མོ་གཅོད་	N -
+མོད	v.aux -
+མོད་	n.count -	v.aux -
+མོན་	n.prop -
+མོན་པ	N -
+མོས་གུས་	n.count -
+མོས་པ	n.v.invar -
+མོས་པ་	n.v.invar -
+མྱ་ངན་	n.count -
+མྱ་ངན་མེད་	n.prop -
+མྱ་ངན་ལས་འདས་པ	N -
+མྱང་བ	n.v.fut -
+མྱང་འདས་	n.count -
+མྱུ་གུ་	n.count -
+མྱུར་	v.pres -
+མྱུར་བ	n.v.pres -
+མྱུལ་	v.fut.v.pres -
+མྱོང་	v.fut.v.pres -	v.invar -	v.past -	v.past.v.pres -
+མྱོང་གྲོལ་	N -
+མྱོང་བ	n.v.invar -
+མྱོང་བ་	n.v.invar -
+མྱོང༌	V -
+མྱོས་	v.invar -
+མྱོས་ཆུ་	N -
+མྱོས་པ་	n.v.invar -
+ཙ་	n.rel -
+ཙ་རི	N -
+ཙན་དན་	n.mass -
+ཙནྡ་ནགས་	n.count -
+ཙནྡན་	N -
+ཙནྡན་དྲི	n.count -
+ཙབ་ཙོབ་	adv.mim -
+ཙམ	d.tsam -
+ཙམ་	d.tsam -
+ཙུ་ཏ	n.prop -
+ཙེ་ལྡེ	N -
+ཙེལ་པོ་	n.count -
+ཙོག་བུ་	n.count -
+ཙོང་ཁ་པ་	N -
+ཚ་བ	n.v.invar -
+ཚ་བ་	n.v.invar -
+ཚ་བོ	n.count -
+ཚ་ཞང་	n.count -
+ཚ་ཟེར་	n.count -
+ཚ་ལ་	n.count -
+ཚ་ལམ་	n.count -
+ཚགས་	N -
+ཚང་	n.count -	v.invar -	v.past -
+ཚང་བ	n.v.invar -
+ཚང་ར་	n.count -
+ཚངས་དབྱངས་རྒྱ་མཚོ	n.prop -
+ཚངས་པ	VN -	n.prop -
+ཚངས་བྱིན་	n.count -
+ཚངས་སྐུད་ཅན	adj -
+ཚད	v.past -
+ཚད་	n.count -	v.invar -	v.past -
+ཚད་པ་	n.v.invar -
+ཚད་མེད	adj -
+ཚད་མེད་པ་	adj -
+ཚར་	n.count -	v.fut.v.pres -	v.invar -	v.past.v.pres -
+ཚར་ཆེན་	N -
+ཚར་བ	n.v.past -
+ཚར་བ་	n.v.fut.n.v.pres -
+ཚར་ལོ་	N -
+ཚལ་	n.count -
+ཚལ་བ་	n.count -
+ཚིག	n.count -
+ཚིག་	n.count -
+ཚིགས་བཅད་	n.count -
+ཚིགས་སུ་བཅད་པ་	N -
+ཚིམ	v.fut.v.pres -
+ཚིམ་པ	n.v.fut.n.v.pres -
+ཚུ	d.dem -
+ཚུགས	v.invar -
+ཚུགས་	v.fut.v.pres -	v.imp -	v.past.v.pres -
+ཚུན་	n.rel -
+ཚུན་ཆད་	adv.dir -
+ཚུར་སྟོན་	n.prop -
+ཚུལ	n.count -
+ཚུལ་	n.count -
+ཚུལ་ཁྲིམས་	n.count -
+ཚུལ་ཁྲིམས་རྒྱལ་བ་	n.prop -
+ཚུལ་ཁྲིམས་ཤེས་རབ་	n.prop -
+ཚེ	n.count -	n.rel -
+ཚེ་	n.count -	n.rel -
+ཚེ་དཔག་མེད་	n.prop -
+ཚེ་སྟོད་	n.count -
+ཚེ་སྲོག་	n.count -
+ཚེགས་	n.count -
+ཚེར་ཕུང་	n.count -
+ཚེར་མ	n.count -
+ཚེས་	n.count -
+ཚོ་	N -	d.plural -
+ཚོགས་	n.count -
+ཚོགས་ཁྲོམ་	n.count -
+ཚོགས་གཏོར་	n.count -
+ཚོགས་གྲལ་	n.count -
+ཚོགས་ཅན་མ་	N -
+ཚོགས་པ་	n.v.invar -
+ཚོགས་བཤད་	N -
+ཚོགས་མཆོད་	n.count -
+ཚོགས་འཁོར་	n.count -
+ཚོགས་ལྡན་	VN -
+ཚོགས་སྐལ་	n.count -
+ཚོང་གེ་	N -
+ཚོང་འདུས་	n.count -
+ཚོད་	n.count -
+ཚོན་	n.count -
+ཚོན་པོ་	N -
+ཚོར	v.fut.v.pres -
+ཚོར་	v.invar -	v.past -	v.past.v.pres -
+ཚོར་བ་	n.v.fut.n.v.pres -
+ཚོལ	v.fut -
+ཚོལ་	v.fut.v.pres -	v.invar -
+ཚོལ་བ	n.v.fut.n.v.pres -
+ཚོལ་བ་	n.v.fut.n.v.pres -
+ཛ་ལན་དྷ་ར	n.prop -
+ཛ་ཧུ་	N -
+ཛམ་གླིང་	n.count -
+ཛམ་བུ	n.count -
+ཛམ་བུ་	N -
+ཛི་ན་མི་ཏྲ་	n.prop -
+ཛྙཱ་ན་ཤྲཱི་	n.prop -
+ཛྙཱ་ན་སེ་ན་	N -
+ཝ་ལེ་	adv.mim -
+ཝ་སུ་མི་ཏྲ་	n.prop -
+ཝ་སྐྱེས་	N -
+ཝཱ་རཱ་ཎ་སཱི	n.prop -
+ཝེར་མ་	N -
+ཞག་	n.count -
+ཞགས་པ	n.count -
+ཞགས་པ་	n.count -
+ཞང་ཞོང་	n.prop -
+ཞན་པ	n.v.pres -
+ཞན་པོ་	adj -
+ཞབས	n.count -
+ཞབས་	n.count -
+ཞབས་ཏོག་	n.count -
+ཞབས་ཐོ	N -
+ཞབས་ཐོ་	N -
+ཞབས་ཕྱི་	n.count -
+ཞབས་མཐིལ་	n.count -
+ཞབས་རྗེས་	n.count -
+ཞལ་	n.count -
+ཞལ་ཆེ་	n.count -
+ཞལ་ཆེ་པ	N -
+ཞལ་ཏ་	n.count -
+ཞལ་བ་	N -
+ཞལ་བཅོས་	n.count -
+ཞལ་བཞེས་	n.count -
+ཞལ་ཟས་	n.count -
+ཞལ་འཛུམ་	n.count -
+ཞལ་རས	n.count -
+ཞལ་རས་	n.count -
+ཞལ་ལུ་	n.count -
+ཞལ་ལུང་	N -
+ཞལ་སློབ་	N -
+ཞི	v.invar -
+ཞི་	v.invar -
+ཞི་ཁྲོ་	adj -
+ཞི་བ	n.v.invar -
+ཞི་བ་	n.v.invar -
+ཞི་བ་བཟང་པོ་	n.prop -
+ཞི་བ་རྡོ་རྗེ་དབྱིངས་	n.prop -
+ཞི་བྱེད་	n.count -
+ཞིག	cv.imp -	d.indef -
+ཞིག་	adj -	cv.imp -	d.indef -
+ཞིང	cv.impf -	n.count -
+ཞིང་	cv.impf -	n.count -
+ཞིང་ཁམས་	n.count -
+ཞིང་པ	n.count -
+ཞིང་པ་	n.count -
+ཞིང་ལས་	n.count -
+ཞིང་ས་	n.count -
+ཞིང༌	cv.impf -	n.count -
+ཞིབ་	v.invar -
+ཞིབ་པ	n.v.invar -
+ཞིམ་	V -	v.invar -
+ཞིམ་པ	VN -
+ཞུ	v.fut.v.pres -
+ཞུ་	v.fut.v.pres -	v.past -
+ཞུ་གྲོགས་	VN -
+ཞུ་དོན་	n.count -
+ཞུ་བ་	n.v.fut.n.v.pres -
+ཞུ་བ་པོ	n.count -
+ཞུ་མཁན་	n.v.fut.n.v.pres -
+ཞུ་འབུལ་	n.count -
+ཞུ་སྐབས་	VN -
+ཞུགས	v.past -
+ཞུགས་	v.past -
+ཞུགས་པ	n.v.past -
+ཞུགས་པ་	n.v.invar -
+ཞུམ་	v.invar -
+ཞུས	v.past -
+ཞུས་	V -	v.imp -	v.past -
+ཞུས་པ	n.v.past -
+ཞུས་པ་	n.v.past -
+ཞེ་	cl.quot -
+ཞེ་སྡང་	n.count -
+ཞེ་སྡང་བ	VN -
+ཞེན་	V -
+ཞེས	cl.quot -
+ཞེས་	cl.quot -
+ཞེས་པ	cl.quot -
+ཞེས་པ་	cl.quot -
+ཞེས་བ་	cl.quot -
+ཞོ་	n.count -
+ཞོག	v.imp -
+ཞོག་	v.imp -
+ཞོར་	n.rel -
+ཞོལ་	n.count -
+ཞོལ་མོ་	adj -	n.count -
+ཟ	v.pres -
+ཟ་	N -	V -	v.pres -
+ཟ་བ	n.v.fut.n.v.pres -	n.v.pres -
+ཟ་བ་	VN -
+ཟ་མ་	n.count -
+ཟ་འོག་	n.mass -
+ཟ་ས	VN -
+ཟ་ཧོར་	n.prop -
+ཟག་པ་	n.count -
+ཟག་མེད་	adj -
+ཟངས་	n.count -	n.mass -
+ཟངས་ཆུང་	n.count -
+ཟད	v.past -
+ཟད་	v.invar -	v.past -
+ཟད་པ	n.v.invar -
+ཟད་པ་	n.v.invar -
+ཟད་མཐའ་	N -
+ཟད་ས་	VN -
+ཟན་	n.count -	n.mass -
+ཟབ་	v.pres -
+ཟབ་ཁྱད་	adj -
+ཟབ་ཁྱད་ཅན་	adj -
+ཟབ་གཏེར་	N -
+ཟབ་ཆོས་	n.count -
+ཟབ་དོན་	n.count -
+ཟབ་པ་	n.v.pres -
+ཟབ་མོ	adj -
+ཟབ་མོ་	adj -
+ཟས་	n.count -
+ཟས་གཙང་	n.prop -
+ཟས་གཙང་མ་	n.prop -
+ཟས་དཀར	n.prop -
+ཟས་ནོར་	n.mass -
+ཟིང་	v.invar -
+ཟིན	v.invar -
+ཟིན་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+ཟིན་པ་	n.v.past -	n.v.past.n.v.pres -	n.v.pres -
+ཟིམ་མེ་	adj -
+ཟིལ་	n.count -
+ཟིལ་བ་	N -
+ཟུག་པ	n.v.invar -
+ཟུག་པ་	n.v.invar -
+ཟུག་རྔུ	n.count -
+ཟུང་	v.imp -	v.past -
+ཟུང་འཇུག་	n.count -
+ཟུངས་	v.imp -
+ཟུམ་	v.invar -
+ཟུར་	n.count -
+ཟུར་ཆག་	n.prop -
+ཟུར་མིག་	n.count -
+ཟེགས་མ་	N -
+ཟེར	n.count -	v.invar -
+ཟེར་	n.count -	v.fut.v.pres -	v.invar -	v.past.v.pres -
+ཟེར་བ	n.v.fut.n.v.pres -
+ཟེར་བ་	n.v.fut.n.v.pres -
+ཟོ་	v.imp -
+ཟོང་	N -
+ཟོལ་	N -
+ཟོས་	V -	v.past -
+ཟོས་པ	n.v.past -
+ཟོས་པ་	n.v.past -
+ཟླ་	n.count -
+ཟླ་གམ	n.count -
+ཟླ་གམ་	adj -
+ཟླ་གཞོན་	N -
+ཟླ་དཀར་	N -
+ཟླ་བ	n.count -
+ཟླ་བ་	n.count -
+ཟླ་འོད་	n.count -
+ཟླུམ་པོ	adj -
+ཟླུམ་པོ་	adj -
+ཟློས་གར་	n.count -
+འཁང༌	punc -
+འཁམས་	v.invar -	v.past.v.pres -
+འཁམས་པ	n.v.invar -
+འཁར་བ་	n.count -
+འཁུན་	v.invar -
+འཁུར	v.fut.v.pres -
+འཁོད་	v.invar -
+འཁོད་པ	n.v.invar -
+འཁོན་པ	n.v.past.n.v.pres -
+འཁོར	v.invar -
+འཁོར་	n.count -	v.fut.v.pres -	v.invar -	v.past -	v.past.v.pres -
+འཁོར་གཡོག་	N -
+འཁོར་བ	n.count -	n.v.fut.n.v.pres -
+འཁོར་བ་	n.count -
+འཁོར་བ་འཇིག་	n.prop -
+འཁོར་ཚོགས་	n.count -
+འཁོར་འདབ་	N -
+འཁོར་ལོ	n.count -
+འཁོར་ལོ་	n.count -
+འཁོར་ལོས་སྒྱུར་	n.count -
+འཁྱམ	v.fut.v.pres -
+འཁྱམས་	v.past -
+འཁྱིལ	v.invar -
+འཁྱིལ་བ	n.v.fut.n.v.pres -
+འཁྱུག	V -
+འཁྱུད་པ	n.v.invar -
+འཁྱུད་པ་	n.v.invar -
+འཁྱེར་	v.fut.v.pres -
+འཁྱོག་པ	n.v.invar -
+འཁྲབས་	v.past -
+འཁྲི་ཤིང་	N -
+འཁྲིག་པ	n.v.invar -
+འཁྲིགས་པ་ཡིས	punc -
+འཁྲིད་པ	n.v.fut.n.v.pres -
+འཁྲིས་	v.invar -
+འཁྲུག	v.invar -
+འཁྲུགས	v.imp -	v.past -
+འཁྲུགས་	v.invar -
+འཁྲུགས་པ	n.v.past -
+འཁྲུངས་	v.past.v.pres -
+འཁྲུངས་པ་	n.v.past.n.v.pres -
+འཁྲུངས་ཡུལ་	n.count -
+འཁྲུངས་ལོ་	n.count -
+འཁྲུངས་ས་	VN -
+འཁྲུལ	v.invar -	v.past -
+འཁྲུལ་པ	n.v.past.n.v.pres -
+འཁྲུལ་པ་	n.v.past.n.v.pres -
+འཁྲོལ་བ་	n.v.fut.n.v.pres -
+འག	d.plural -
+འགགས་	v.past -
+འགའ	d.plural -
+འགའ་	d.plural -
+འགའ་རེ་	P -
+འགལ་	v.fut.v.pres -	v.invar -
+འགལ་དུམ་	N -
+འགུགས་ལུགས་	N -
+འགུམ་	v.fut.v.pres -
+འགུམ་པ	n.v.fut.n.v.pres -
+འགེངས་	v.pres -
+འགེམས	v.invar -
+འགོག་པ་	n.v.pres -
+འགོང	v.fut.v.pres -
+འགོད་པ	n.v.past.n.v.pres -
+འགོད་པ་	n.v.past.n.v.pres -
+འགྱིང་བ	n.v.invar -
+འགྱིངས་པ་	n.v.past -
+འགྱུ་བ་	n.v.fut.n.v.pres -
+འགྱུར	v.fut.v.pres -
+འགྱུར་	n.count -	v.fut.v.pres -
+འགྱུར་བ	n.v.fut.n.v.pres -
+འགྱུར་བ་	n.v.fut.n.v.pres -
+འགྱེད་	v.invar -
+འགྱེལ་	v.past.v.pres -
+འགྱེལ་བ	n.v.fut.n.v.pres -
+འགྱོད་	v.past.v.pres -
+འགྱོད་པ་	n.v.invar -
+འགྱོད་བརྡལ་	VN -
+འགྲངས་	v.past -
+འགྲངས་པ	n.v.past -
+འགྲན་ཟླ་	n.count -
+འགྲམ་	n.count -
+འགྲམ་པ་	n.v.fut -
+འགྲམ་ལྕག་	n.count -
+འགྲམས་	v.past.v.pres -
+འགྲིག་	v.fut.v.pres -
+འགྲིགས་	v.past -
+འགྲིབ་པ་	n.v.invar -
+འགྲིམས་	v.past -
+འགྲུབ་པ་	n.v.fut.n.v.pres -
+འགྲེ་	v.fut.v.pres -
+འགྲེམས་	v.past.v.pres -
+འགྲེལ་བ་	n.v.pres -
+འགྲོ	v.fut.v.pres -
+འགྲོ་	n.count -	v.fut.v.pres -
+འགྲོ་གྲབས་	n.v.fut.n.v.pres -
+འགྲོ་དོན་	n.count -
+འགྲོ་བ	n.v.fut.n.v.pres -
+འགྲོ་བ་	VN -	n.count -	n.v.fut.n.v.pres -
+འགྲོ་མགོན་	n.count -
+འགྲོ་འོང་	n.count -
+འགྲོ་ས་	n.v.fut.n.v.pres -
+འགྲོགས་	v.invar -	v.past.v.pres -
+འགྲོགས་པ་	n.v.invar -
+འགྲོགས་འདྲིས་	VN -
+འགྲོས་	N -
+འང་	cl.focus -
+འཆག་	v.fut.v.pres -	v.invar -
+འཆག་པ	n.v.fut.n.v.pres -
+འཆག་པ་	n.v.fut.n.v.pres -
+འཆད་	v.fut.v.pres -
+འཆད་ཉན་	n.count -
+འཆད་པ་པོ་	n.count -
+འཆར་ཁ	N -
+འཆར་དོན་	n.count -
+འཆར་བ	n.v.fut.n.v.pres -
+འཆར་རྒྱུ་	n.v.fut -
+འཆལ་	v.fut.v.pres -
+འཆལ་པོ་	adj -
+འཆི	v.fut.v.pres -
+འཆི་	v.fut.v.pres -
+འཆི་ཐང་	N -
+འཆི་བ	n.v.fut.n.v.pres -
+འཆི་བ་	n.v.fut.n.v.pres -
+འཆི་མེད་	adj -	n.count -
+འཆུགས་	v.past -
+འཆུར་	v.fut.v.pres -
+འཆོར	v.fut.v.pres -
+འཆོར་བ	n.v.fut.n.v.pres -
+འཆོར་བ་	n.v.fut.n.v.pres -
+འཇམ་དཔལ་	n.prop -
+འཇམ་དཔལ་གྲགས་པ་	n.prop -
+འཇམ་དཔལ་དབྱངས་	n.prop -
+འཇམ་མགོན་	N -
+འཇའ་	N -
+འཇའ་ཚོན་	n.count -
+འཇའ་རིས་	N -
+འཇའ་ལུས་	n.count -
+འཇིག་	v.invar -
+འཇིག་པ	n.v.invar -
+འཇིག་པ་	n.v.invar -
+འཇིག་རྟེན་	n.count -
+འཇིགས	v.invar -
+འཇིགས་	n.count -	v.invar -
+འཇིགས་པ་	n.v.invar -
+འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་	n.prop -
+འཇིགས་མེད་	n.prop -
+འཇིགས་སྐྲག་	n.count -
+འཇིགས་སྡེ་	N -
+འཇིམ་པ་	n.mass -
+འཇུ་བ	n.v.fut.n.v.pres -
+འཇུག	v.pres -
+འཇུག་	v.pres -
+འཇུག་པ	VN -
+འཇུག་པ་	VN -
+འཇུག་སྒོ་	n.count -
+འཇུངས་པ	adj -
+འཇུངས་པ་	adj -
+འཇོ་བ་	n.v.invar -
+འཇོ་སྟེགས	n.count -
+འཇོམས	v.pres -
+འཇོལ་མོ	n.count -
+འཐག་	v.invar -
+འཐག་པ་	n.v.invar -
+འཐབ་	v.invar -
+འཐབ་རྩོད་	n.count -
+འཐབ་ས	N -
+འཐབས་	v.past -
+འཐམ	v.fut.v.pres -
+འཐུ	v.fut.v.pres -
+འཐུ་	v.fut.v.pres -
+འཐུང་	v.pres -
+འཐུང་བ་	n.v.pres -
+འཐུང་ལྷག་	N -
+འཐུངས་	v.past -
+འཐོགས་	v.past -
+འཐོབ	v.fut.v.pres -
+འཐོབ་པ	n.v.fut.n.v.pres -
+འཐོར་རླུང་	n.count -
+འདག་	n.mass -	v.fut.v.pres -
+འདན་ཀ་	N -
+འདན་མ	n.count -
+འདན་མ་	N -	n.count -
+འདན་སྲས་	N -	n.count -
+འདབ་ཆགས་	N -
+འདབ་དྲུག་	N -	adj -
+འདབ་མ་	n.count -
+འདམ་	n.count -
+འདམ་བུ་	n.count -
+འདམ་སྟེགས་	N -
+འདའ	v.fut.v.pres -
+འདའ་བ	n.v.fut.n.v.pres -
+འདའ་ས་	VN -
+འདར་བ	n.v.fut.n.v.pres -
+འདར་བ་	n.v.fut.n.v.pres -
+འདས་	v.past -
+འདས་པ	n.v.past -
+འདས་པ་	n.v.past -
+འདི	d.dem -
+འདི་	d.dem -
+འདི་པ་	P -
+འདིང་	v.pres -
+འདུ	v.fut.v.pres -
+འདུ་བ	n.v.fut.n.v.pres -
+འདུ་བ་	n.v.fut.n.v.pres -
+འདུ་ཤེས་	n.count -
+འདུག	v.fut.v.pres -	v.invar -
+འདུག་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+འདུག་པ	n.v.fut.n.v.pres -	n.v.invar -
+འདུག་པ་	n.v.fut.n.v.pres -	n.v.invar -
+འདུད	v.fut.v.pres -
+འདུད་པ	n.v.fut.n.v.pres -
+འདུན་མ	N -
+འདུལ	v.pres -
+འདུལ་བ	n.v.pres -
+འདུལ་བ་	n.v.pres -
+འདུལ་བྱ	n.count -
+འདུལ་མདོ	N -
+འདུལ་སྐྱོང་	N -
+འདུས	v.past -
+འདུས་	v.past -
+འདུས་པ	n.v.past -
+འདུས་མདོ་	n.count -
+འདེགས་	v.pres -
+འདེང་	V -	v.fut.v.pres -
+འདེད་པ	n.v.fut.n.v.pres -
+འདེད་མ་	N -
+འདེབས	v.pres -
+འདེབས་	v.pres -
+འདེབས་པ	n.v.pres -
+འདེབས་པ་	n.v.pres -
+འདོ་ལི་	n.count -
+འདོགས་པ་	n.v.pres -
+འདོང་	v.imp -
+འདོད	v.invar -	v.past -
+འདོད་	V -	n.count -	v.aux -	v.fut.v.pres -	v.invar -
+འདོད་ཆགས་	n.count -
+འདོད་ཆེན་	N -	n.count -
+འདོད་པ	n.v.invar -
+འདོད་པ་	n.v.invar -
+འདོད་འཇོ་བ་	n.count -
+འདོད་ཡོན་	n.count -
+འདོན	v.pres -
+འདོན་	v.pres -
+འདོན་པ	n.v.pres -
+འདོན་པ་	n.v.pres -
+འདོམ་	v.invar -
+འདོམས	V -
+འདོར	v.fut.v.pres -
+འདོར་	v.fut.v.pres -
+འདྲ	n.rel -	v.fut.v.pres -	v.invar -
+འདྲ་	V -	n.rel -	v.invar -
+འདྲ་བ	n.v.invar -
+འདྲ་བ་	n.v.fut.n.v.pres -	n.v.invar -
+འདྲ་མ་	adj -
+འདྲ་མོ་	adj -
+འདྲ་ས་	VN -
+འདྲལ་	v.pres -
+འདྲི	v.pres -
+འདྲིལ་བ	n.v.fut.n.v.pres -
+འདྲིས་པ	n.v.invar -
+འདྲེད་	v.past.v.pres -
+འདྲེན་	VN -	v.pres -
+འདྲེན་པ	n.v.pres -
+འདྲེན་མི་	n.v.pres -
+འདྲེན་ཚུལ་	n.v.pres -
+འདྲེས་ཁྱེར་	N -
+འདྲེས་པ	n.v.invar -
+འདྲེས་པ་	n.v.invar -
+འདྲོང་བ	n.v.fut.n.v.pres -
+འཕགས	v.fut.v.past -
+འཕགས་ཆེན་	N -
+འཕགས་པ	n.v.invar -
+འཕགས་པ་	n.v.invar -
+འཕགས་ཡུལ་	n.count -
+འཕགས་རྒྱལ་	n.count -
+འཕང་	n.count -
+འཕངས	v.past -
+འཕངས་པ	n.v.past -
+འཕངས་པ་	n.v.past -
+འཕན་ཟེལ་	adj -
+འཕུང་	v.fut.v.pres -
+འཕུར་	v.fut.v.pres -
+འཕུར་དགུ་	VN -
+འཕེན	v.pres -
+འཕེལ	v.invar -
+འཕེལ་	v.fut.v.pres -	v.invar -
+འཕེལ་བ	n.v.fut.n.v.pres -
+འཕེལ་བ་	n.v.fut.n.v.pres -
+འཕོ་བ་	n.v.invar -
+འཕོས	v.past -
+འཕོས་	v.past -
+འཕོས་པ	n.v.past -
+འཕོས་པ་	n.v.past -
+འཕྱ་བ་	n.v.fut.n.v.pres -
+འཕྱང་	v.invar -
+འཕྱང་འཕྲུལ་ཅན་	adj -
+འཕྱན་པ	n.v.past.n.v.pres -
+འཕྱར་	v.fut.v.pres -
+འཕྱར་བ་	n.v.fut.n.v.pres -
+འཕྱིད	v.fut.v.pres -
+འཕྱུར་བ་	n.v.fut.n.v.pres -
+འཕྲད་	v.fut.v.pres -
+འཕྲད་ལུགས་	VN -
+འཕྲལ་	AdvPrefix -	n.rel -
+འཕྲིན་	n.count -
+འཕྲིན་ཡིག་	n.count -
+འཕྲུལ་འཁོར་	n.count -
+འཕྲེང་བ་	n.v.invar -
+འཕྲོ་	adv.temp -	n.count -	v.pres -
+འཕྲོག་	v.fut.v.pres -
+འཕྲོགས་	V -
+འཕྲོགས་པ་	VN -
+འཕྲོད་སྦྱོར་	n.count -
+འབངས་	n.count -
+འབད་	v.invar -	v.past.v.pres -
+འབད་པ	n.v.invar -
+འབད་མེད་	adj -
+འབབ	v.fut.v.pres -
+འབབ་	v.fut.v.pres -
+འབབ་ཆུ་	n.count -
+འབབ་པ	n.v.fut.n.v.pres -
+འབབ་པ་	n.v.fut.n.v.pres -
+འབབས་	v.past -
+འབའ་	d.det -
+འབར	v.invar -
+འབར་	v.invar -
+འབར་བ	n.v.fut.n.v.pres -
+འབར་བ་	n.v.fut.n.v.pres -
+འབུམ་	num.card -
+འབུམ་པ	N -	n.count -
+འབུམ་མེ་	N -
+འབུར་ཚད་	n.v.invar -
+འབུལ	v.pres -
+འབུལ་	v.pres -
+འབུལ་གྲོགས་	VN -
+འབུལ་བ	n.v.pres -
+འབུལ་བ་	n.v.pres -
+འབེབས་	v.pres -
+འབེབས་སོ་	N -
+འབོག་པ	n.v.invar -
+འབོགས་པ་	n.v.past.n.v.pres -
+འབོད་	v.fut.v.pres -
+འབོད་སྒྲོགས་	N -
+འབྱར་པ་	n.v.past.n.v.pres -
+འབྱིན	v.pres -
+འབྱིན་	v.pres -
+འབྱིན་པ	n.v.pres -
+འབྱིན་པ་	n.v.pres -
+འབྱུང་	v.fut.v.pres -
+འབྱུང་གནས་	n.count -
+འབྱུང་པོ	n.count -
+འབྱུང་པོ་	n.count -
+འབྱུང་བ	n.v.fut.n.v.pres -
+འབྱུང་བ་	n.v.fut.n.v.pres -
+འབྱུང༌	V -
+འབྱེད་	v.pres -
+འབྱོངས་པ་	n.v.past.n.v.pres -
+འབྱོན་	v.fut.v.pres -
+འབྱོན་གྲབས་	n.v.fut.n.v.pres -
+འབྱོན་པ	n.v.pres -
+འབྱོན་པ་	n.v.pres -
+འབྱོར་	VN -	v.fut.v.pres -	v.past.v.pres -
+འབྱོར་པ	n.v.past.n.v.pres -
+འབྱོར་པ་	n.count -
+འབྱོར་ལྡན་	adj -
+འབྱོལ	v.fut.v.pres -
+འབྲང་	v.fut.v.pres -
+འབྲས་	n.mass -
+འབྲས་བུ	n.count -
+འབྲས་བུ་	n.count -
+འབྲས་བུ་རྡོ་རྗེ་ཐེག་པ་	n.count -
+འབྲས་ཡོས་	N -
+འབྲས་སྤྱི་	N -
+འབྲི་	v.fut.v.pres -
+འབྲི་རྗེ་	N -
+འབྲིང་དུ་	N -
+འབྲིང་པོ་	adj -
+འབྲུ་	n.count -
+འབྲུག་	n.count -
+འབྲུག་པ་	N -
+འབྲུག་མོ	N -
+འབྲུག་སྒྲ་	n.count -
+འབྲེག་པ་	n.v.fut.n.v.pres -
+འབྲེལ	v.invar -
+འབྲེལ་པ་	n.v.past.n.v.pres -
+འབྲེལ་བ	n.v.fut.n.v.pres -
+འབྲེལ་བ་	n.v.fut.n.v.pres -
+འབྲོ	v.fut -
+འབྲོག་མི་	n.prop -
+འབྲོམ་	n.prop -
+འབྲོམ་སྟོན་	N -
+འབྲོས	v.fut.v.pres -
+འབྲོས་	v.fut.v.pres -
+འབྲོས་པ	n.v.fut.n.v.pres -
+འམ་	cv.ques -
+འཚང་	v.fut.v.pres -
+འཚམ་པ	n.v.fut.n.v.pres -
+འཚམས་པ	n.v.past -
+འཚལ	v.invar -
+འཚལ་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+འཚལ་བ་	n.v.fut.n.v.pres -
+འཚུབ་མ་	N -
+འཚེ་བ་	n.v.fut.n.v.pres -
+འཚེ་བྱེད་	VN -
+འཚེང་	v.fut.v.pres -
+འཚེར་སྐད་	N -
+འཚོ	v.pres -
+འཚོ་བ	n.v.fut.n.v.pres -
+འཚོ་བ་	n.v.invar -
+འཚོ་བྱེད་	n.count -
+འཚོགས་	v.invar -
+འཚོང་	v.pres -
+འཚོང་བ་	n.v.pres -
+འཚོལ་	v.pres -
+འཚོལ་བ	n.v.pres -
+འཚོལ་བ་	n.v.pres -
+འཛག་	v.fut.v.pres -
+འཛག་པ་	n.v.fut.n.v.pres -
+འཛད	v.fut.v.pres -
+འཛད་པ་	n.v.fut.n.v.pres -
+འཛམ་གླིང་	n.count -
+འཛམ་བུ	n.prop -
+འཛམ་བུ་	n.count -
+འཛམ་བུ་གླིང་	n.count -
+འཛིང་	v.fut.v.pres -
+འཛིངས་པ་	n.v.invar -
+འཛིན	v.pres -
+འཛིན་	VN -	v.pres -
+འཛིན་ཅན	Soc -
+འཛིན་པ	n.v.pres -
+འཛིན་པ་	n.v.pres -
+འཛིན་མ	N -
+འཛིན་མ་	N -	VN -
+འཛིན་རྒྱུ་	VN -
+འཛུམ་	v.invar -
+འཛུམ་དཀར་	N -
+འཛུམ་མདངས་ཅན	adj -
+འཛུར	v.invar -
+འཛུལ་དགུ་	VN -
+འཛེག་	v.fut.v.pres -
+འཛོམས	v.past -
+འཛོམས་པ	n.v.past -
+འཛོམས་པ་	n.v.past -
+འཛོམས་ས་	VN -
+འི	case.gen -
+འི་	case.gen -
+འུ་བུ་ཅག་	p.pers -
+འུག་པ་	N -
+འུར་རྡོ་	n.count -
+འོ	cv.fin -
+འོ་	adv.proclausal -	cv.fin -
+འོ་ཅོག་	P -
+འོ་བརྒྱལ་	n.count -
+འོ་མ་	n.mass -
+འོ་སྐོལ་	p.pers -
+འོག་	n.rel -
+འོག་མ་	adj -
+འོང་	v.fut.v.pres -	v.pres -
+འོང་གྲབས་	VN -
+འོང་བ	n.v.fut.n.v.pres -
+འོང་བ་	n.v.fut.n.v.pres -
+འོངས	v.past -
+འོངས་	v.past -
+འོངས་པ	n.v.past -
+འོངས་པ་	n.v.past -
+འོད་	n.count -
+འོད་གསལ་	n.count -
+འོད་མ	n.count -
+འོད་ཟེར་	n.count -
+འོད་ལྡེ	n.prop -
+འོད་སྲུང་	n.prop -
+འོད་སྲུངས་	n.prop -
+འོན་	adv.proclausal -
+འོན་ཅང་རྡོ་	n.prop -
+འོམ་བུ	N -
+འོས	v.past -
+འོས་	VN -	n.count -	v.fut.v.pres -	v.invar -
+ཡ	d.dem -
+ཡ་གཅིག་	P -
+ཡ་མཚན་	adj -
+ཡ་མཚན་ཅན	adj -
+ཡ་ཟི་	N -
+ཡ་ཡོ	N -
+ཡ་རབས་	n.count -
+ཡ་སོ་ཅན་	adj -
+ཡང	cl.focus -
+ཡང་	adv.proclausal -	cl.focus -
+ཡང་ཐོག་	n.count -
+ཡང་དག་	adj -
+ཡང་དགོན་	n.count -
+ཡང་ཚ་	N -	n.count -
+ཡང་རབ་	adj -
+ཡང་རྩེ་	n.count -
+ཡང་སློབ་	n.count -
+ཡང༌	cl.focus -
+ཡངས་	d.plural -
+ཡངས་པ	adj -
+ཡངས་པ་	adj -
+ཡངས་པ་ཅན་	n.prop -
+ཡན་	adv.dir -
+ཡན་ཆད་	adv.dir -
+ཡན་ལག་	n.count -
+ཡན་ལག་དྲུག་བ་	n.prop -
+ཡབ་	n.count -
+ཡབ་ཡུམ་	n.count -
+ཡབ་སྲས་	n.count -
+ཡར་ངོ	n.count -
+ཡར་ངོ་	N -
+ཡར་འབྲོག་	N -
+ཡར་འབྲོག་པ་	N -	n.count -
+ཡར་རྗེ་	N -
+ཡར་ལུང་	N -
+ཡལ་	v.invar -
+ཡས་ཕོ་	N -
+ཡས་མོ་	n.count -
+ཡི	case.gen -	cv.gen -
+ཡི་	case.gen -	cv.gen -	n.count -
+ཡི་གེ	n.count -
+ཡི་གེ་	n.count -
+ཡི་གེ་ནག་	n.count -
+ཡི་ཆད་	n.count -
+ཡི་དམ་	n.count -
+ཡིག་མཁན་	n.count -
+ཡིད	n.count -
+ཡིད་	n.count -
+ཡིད་འཕྲོག་	adj -
+ཡིན	v.cop -
+ཡིན་	v.cop -
+ཡིན་པ	n.v.cop -
+ཡིན་པ་	n.v.cop -
+ཡིན་ལུགས་	n.v.cop -
+ཡིབ་	v.fut.v.pres -
+ཡིབ་པ་	n.v.fut.n.v.pres -
+ཡིས	case.agn -
+ཡིས་	case.agn -	cv.agn -
+ཡུག་	n.count -
+ཡུང་བ་	n.count -
+ཡུངས་དཀར་	N -
+ཡུད་	n.count -
+ཡུན་	n.count -
+ཡུན་རིང་	n.count -
+ཡུམ་	n.count -
+ཡུམ་བརྟེན་	N -
+ཡུམ་བླ་མ་	n.count -
+ཡུམ་སྲས་	n.count -
+ཡུར་བ	n.v.fut.n.v.pres -
+ཡུར་བ་	n.count -
+ཡུལ་	n.count -
+ཡུལ་ཁམས་	n.count -
+ཡུལ་དབུས་	n.count -
+ཡུལ་ཕྱོགས་	n.count -
+ཡུལ་མི་	n.count -
+ཡུལ་འཁྲུག་	N -
+ཡུས་	n.count -
+ཡེ་	adv.intense -
+ཡེ་ཤེས་	n.count -
+ཡེ་ཤེས་འོད	N -
+ཡེ་ཤེས་འོད་	n.prop -
+ཡེ་ཤེས་ཡོན་ཏན་	N -
+ཡེ་ཤེས་སྡེ་	N -
+ཡེངས་	n.count -
+ཡེར་བ་	n.v.fut.n.v.pres -
+ཡོ་ག་	n.count -
+ཡོག་རྒྱལ	N -
+ཡོང་	v.fut.v.pres -
+ཡོང་དོན་	n.count -
+ཡོང་བ	n.v.invar -
+ཡོངས་	d.plural -
+ཡོངས་རྫོགས་	VN -
+ཡོད	v.invar -
+ཡོད་	v.invar -
+ཡོད་དགུ་	VN -
+ཡོད་པ	n.v.invar -
+ཡོད་པ་	n.v.fut.n.v.pres -	n.v.invar -
+ཡོད་ཚད་	n.v.invar -
+ཡོན་	n.count -
+ཡོན་ཏན་	n.count -
+ཡོན་ཏན་ཆུང་	adj -
+ཡོན་ཏན་བློ་ལྡན་	N -
+ཡོན་ཏན་ལེགས་	n.count -
+ཡོན་བདག་	n.count -
+ཡོལ་	v.invar -
+ཡོལ་བ་	N -
+ཡོས་	n.count -
+ར	case.term -
+ར་	case.term -	cv.term -	n.count -
+ར་མ་	n.count -
+ར་མགོ་	n.count -
+ར་རོ་བ	adj -
+རགས་	v.past -
+རང་	Emph -	P -	d.det -	p.refl -	v.invar -	v.past.v.pres -
+རང་གནས་	n.count -
+རང་གཞུང་	n.count -
+རང་དགའ་	N -
+རང་དབང་	n.count -
+རང་དོན་	n.count -
+རང་བཞིན་	n.count -
+རང་བྱུང་	n.count -
+རང་བྱུང་རྡོ་རྗེ་	n.prop -
+རང་མགོ་	N -
+རང་མཐོང་ཆེ	V -
+རང་མཚང་	N -
+རང་འཁོར་	N -
+རང་འགྲོགས་	VN -
+རང་ཡུལ་	n.count -
+རང་རེ་	p.pers -
+རང་རྐང་	N -
+རང་རྒྱལ་	n.count -
+རང་ལུགས་	n.count -
+རང་ཤར་	adj -
+རང་སེམས་	n.count -
+རང་སྐྱོན་	n.count -
+རང་སྒྲ་	n.count -
+རང་སྲིད་	N -
+རང༌	N -
+རངས་	v.invar -	v.past.v.pres -
+རན་	v.aux -	v.invar -
+རན་པ་	n.v.aux -
+རབ་	adj -	adv.intense -
+རབ་གནས	n.count -
+རབ་གནས་	n.count -
+རབ་གསལ་	n.prop -
+རབ་ཏུ་བྱུང་བ་	VN -
+རབ་ཏུ་བྱེད་པ་	VN -
+རབ་ཏུ་འབྱུང་བ	VN -
+རབ་མཐོང་	N -
+རབ་རྫོགས་	VN -
+རམ	cv.ques -
+རལ་གྲི་	n.count -
+རལ་པ་	n.v.past.n.v.pres -
+རལ་པ་ཅན	adj -
+རས་	n.count -
+རས་ཆུང་	n.prop -
+རས་ཆུང་པ་	n.prop -
+རས་པ་	n.count -
+རས་ཡུག་	n.count -
+རཱ་མ་ཎ	n.prop -
+རཱ་མ་ཎ་	n.prop -
+རི	n.count -
+རི་	n.count -
+རི་ཀླུང་	n.count -
+རི་ཁྲོད་	n.count -
+རི་དགས་	n.count -
+རི་བོ	n.count -
+རི་བོ་	n.count -
+རི་བོང་	n.count -
+རི་བྲགས་	n.count -
+རི་མོ	n.count -
+རི་མོ་	n.count -
+རི་རབ་	n.prop -
+རི་རྒྱུད་	n.count -
+རི་རྩེ་	n.count -
+རི་སུལ་	n.count -
+རི་སྣ་	n.count -
+རི་སྲས་	n.count -
+རིག་པ	n.v.invar -
+རིག་པ་	n.v.invar -
+རིག་བྱེད་	n.prop -
+རིག་འཛིན་	n.count -
+རིག་འཛིན་ཚངས་དབྱངས་རྒྱ་མཚོ	n.prop -
+རིག་རིག་	adv.mim -
+རིག་སྔགས་	N -
+རིག་སྔགས་མཁན་	N -
+རིག་སྟོང་	N -
+རིགས	n.count -
+རིགས་	n.count -	v.fut.v.pres -	v.invar -
+རིགས་ངན་	n.count -
+རིགས་ཅན་	adj -
+རིགས་པ	n.v.invar -
+རིགས་པ་	n.v.fut.n.v.pres -	n.v.invar -
+རིགས་བྱེད་	N -
+རིགས་མཐུན་	n.count -
+རིགས་རྒྱུད་	N -
+རིགས་ལྡན་	n.prop -
+རིང་	Adv -	AdvPrefix -	n.count -	v.invar -	v.past.v.pres -
+རིང་པོ	adj -
+རིང་པོ་	adj -
+རིང་བ་	n.v.invar -
+རིང་བརྒྱུད་	n.count -
+རིང་མོ	adj -
+རིང་མོ་	adj -
+རིང་ལུགས་	N -
+རིངས་པ	VN -
+རིད་པ	n.v.invar -
+རིན་	n.count -
+རིན་ཆེན་	adj -
+རིན་ཆེན་དཔལ་	N -
+རིན་ཆེན་བཟང་པོ	n.prop -
+རིན་ཆེན་བཟང་པོ་	n.prop -
+རིན་ཐང་	n.count -
+རིན་ཐང་ཆེ་བ་	VN -
+རིན་པོ་ཆེ	adj -
+རིན་པོ་ཆེ་	adj -	n.mass -
+རིམ་	n.count -
+རིམ་པ	n.count -
+རིམ་པ་	n.count -
+རིམས་	n.count -
+རིལ་པོ་	adj -
+རུ	case.term -
+རུ་	case.term -	cv.term -	n.count -
+རུ་བཞི་མ་	adj -
+རུང	v.invar -
+རུང་	cv.rung -	d.det -	v.fut.v.pres -	v.invar -
+རུང་བ་	n.v.invar -
+རུས་པ་	n.count -
+རུས་བུ་	n.count -
+རུས་སྦལ་	n.count -
+རེ	d.det -
+རེ་	Emph -	Quant -	d.det -	n.count -	p.indef -	v.invar -	v.past.v.pres -
+རེ་དོགས་	n.count -
+རེ་བ	n.v.invar -
+རེ་བ་	n.v.invar -
+རེ་རེ	p.indef -
+རེ་རེ་	d.det -
+རེག	v.invar -
+རེག་	v.invar -
+རེག་པ	n.v.invar -
+རེག་པ་	n.v.invar -
+རེངས	v.past.v.pres -
+རེངས་པ་	n.v.past.n.v.pres -
+རེད	v.invar -
+རེད་	v.invar -
+རེད།	V -
+རེས་	n.count -
+རོ	cv.fin -
+རོ་	F -	cv.fin -	n.count -
+རོ་འཛིན་	N -	n.count -
+རོ་སྟོད་	n.count -
+རོང་སྟོན་	N -
+རོལ་ཆ་	n.count -
+རོལ་པ	n.v.past.n.v.pres -
+རོལ་པ་	n.v.past.n.v.pres -
+རོལ་བ	n.v.fut.n.v.pres -
+རོལ་བ་	n.v.fut.n.v.pres -
+རོལ་མོ	n.count -
+རོལ་མོ་	n.count -
+རོལ་རྙེད་མ་	N -
+རྐང་	n.count -
+རྐང་གཉིས་པ་	n.count -
+རྐང་གདུབ་	n.count -
+རྐང་ཆག་མ་	adj -
+རྐང་དྲུག་པ	adj -
+རྐང་དྲུག་པ་	adj -
+རྐང་པ་	n.count -
+རྐང་བ་	n.count -
+རྐང་མིག་	n.count -
+རྐང་འཐུང་	n.count -
+རྐང་རྗེས་	N -
+རྐང་ལག་	n.count -
+རྐང་སྟེགས་	N -
+རྐན་	n.count -
+རྐུ	v.pres -
+རྐུ་བ་	n.v.pres -
+རྐུས་	v.imp -
+རྐེད་	n.count -
+རྐེད་པ་	n.count -
+རྐོས་	v.imp -
+རྐྱང་བ	Adv -
+རྐྱེན་	n.count -
+རྐྱོང་	v.pres -
+རྒན་	n.count -
+རྒན་གཞོན་	n.count -
+རྒན་བྱིས་	N -
+རྒན་མོ	adj -
+རྒན་མོ་	adj -
+རྒས་པ	n.v.past -
+རྒས་པ་	n.v.past -
+རྒུད་	v.invar -
+རྒུད་པ་	n.v.invar -
+རྒུན་འབྲུམ་	n.count -
+རྒོད	v.invar -
+རྒོད་པོ་	adj -
+རྒོད་མ་	n.count -
+རྒོད་མ་ཁ་	N -
+རྒྱ	n.count -	v.fut.v.pres -
+རྒྱ་	n.count -	v.fut.v.pres -
+རྒྱ་གར་	n.prop -
+རྒྱ་ཆེན་	adj -
+རྒྱ་བ	n.v.fut.n.v.pres -
+རྒྱ་བ་	n.v.fut.n.v.pres -
+རྒྱ་མཐོངས་	n.count -
+རྒྱ་མཚོ	n.count -
+རྒྱ་མཚོ་	n.count -
+རྒྱ་འདྲེ་	N -
+རྒྱ་སྐྱེགས་	N -
+རྒྱ་སྟག་	N -	n.count -
+རྒྱ་ཧོར་	n.prop -
+རྒྱག་པ་	n.v.invar -
+རྒྱགས་ཆུ་	n.mass -
+རྒྱགས་ཡོན་	n.count -
+རྒྱང་	AdvPrefix -	n.count -
+རྒྱང་གྲགས་	n.count -
+རྒྱང་པ་	n.v.pres -
+རྒྱང་མ	N -
+རྒྱང་མ་	n.count -
+རྒྱང་ཚད་	N -
+རྒྱངས་	n.count -
+རྒྱན	N -	n.count -
+རྒྱན་	n.count -
+རྒྱན་ཆ་	N -
+རྒྱན་ཆས་	N -
+རྒྱབ་	n.count -	n.rel -
+རྒྱབ་རི་	N -	n.count -
+རྒྱབ་སྒལ་	N -
+རྒྱལ	v.invar -
+རྒྱལ་	N -	V -	v.invar -
+རྒྱལ་ཁམས་	n.count -
+རྒྱལ་ཁམས་པ་	N -
+རྒྱལ་ངན་	N -	n.count -
+རྒྱལ་ཆེན་	n.count -
+རྒྱལ་པོ	n.count -
+རྒྱལ་པོ་	n.count -
+རྒྱལ་ཕྲན་	n.count -
+རྒྱལ་བ	n.count -	n.v.fut.n.v.pres -
+རྒྱལ་བ་	VN -	n.count -
+རྒྱལ་བརྒྱུད་	N -
+རྒྱལ་བསྟན་	n.count -
+རྒྱལ་བུ	n.count -
+རྒྱལ་བུ་	n.count -
+རྒྱལ་བུ་རྒྱལ་བྱེད་	N -
+རྒྱལ་བྱེད་	n.prop -
+རྒྱལ་བྱེད་ཚལ་	N -
+རྒྱལ་བློན་	n.count -
+རྒྱལ་མཆོག་	N -
+རྒྱལ་མཚན་	n.count -
+རྒྱལ་ཚབ་	n.count -
+རྒྱལ་རིགས	n.count -
+རྒྱལ་ས་	n.count -
+རྒྱལ་སྲས་	n.count -
+རྒྱལ་སྲིད་	n.count -
+རྒྱས	v.past -
+རྒྱས་	VN -	v.fut.v.pres -	v.invar -	v.past -
+རྒྱས་པ	n.v.past -
+རྒྱས་པ་	n.v.past -
+རྒྱས་བསྡུས་	adj -
+རྒྱུ	n.count -
+རྒྱུ་	n.count -	v.invar -
+རྒྱུ་བ་	n.v.invar -
+རྒྱུ་མ་	n.count -
+རྒྱུ་མཚན་	n.count -
+རྒྱུ་འབྲས་	n.count -
+རྒྱུ་སྐར་	n.count -
+རྒྱུག	V -
+རྒྱུག་	V -	v.invar -
+རྒྱུད་	n.count -
+རྒྱུད་པ་	N -	n.count -
+རྒྱུད་བླ་	N -
+རྒྱུད་མངས་	N -	n.count -
+རྒྱུད་མངས་མ་	N -
+རྒྱུད་ལྔ་	N -
+རྒྱུད་སྡེ་	n.count -
+རྒྱུན	n.count -
+རྒྱུན་	n.count -
+རྒྱུན་ཆད་	VN -
+རྒྱུན་མ	n.count -
+རྒྱུས་མེད་	VN -
+རྒྱེལ་བྱེད་	N -
+རྔ་	n.count -
+རྔ་ཡབ་	N -
+རྔན་པ	n.v.pres -
+རྔོག་	n.prop -
+རྔོག་པ	n.prop -
+རྔོག་པ་	n.prop -
+རྔོག་མཚུར་མེས་	N -
+རྔོག་སྟོན་	n.prop -
+རྔོད་པ་	n.v.pres -
+རྔོད་སྟེགས་	n.count -
+རྗེ	n.count -
+རྗེ་	n.count -
+རྗེ་དཔོན་	N -	n.count -
+རྗེ་བ་	n.v.pres -
+རྗེ་བཙུན་	n.count -
+རྗེ་འབངས་	N -
+རྗེ་འབངས་གྲོགས་	n.count -
+རྗེས	n.rel -
+རྗེས་	Pp -	V -	n.count -	n.rel -
+རྗེས་ཐོབ་	n.count -
+རྗོད་བྱེད་	n.count -
+རྙི་	n.count -
+རྙིང་མ་	adj -
+རྙིངས་	v.past -
+རྙེད་	v.invar -	v.past -	v.past.v.pres -
+རྙེད་པ	n.v.invar -
+རྙེད་པ་	n.v.invar -	n.v.past -
+རྙེད་རྒྱུ་	VN -
+རྙོག་པ	n.v.pres -
+རྟ	n.count -
+རྟ་	n.count -
+རྟ་དམར་ཅན	N -
+རྟ་དམར་ཅན་	N -
+རྟ་བདག་	n.count -
+རྟ་བོང་	n.count -
+རྟ་མགོ་ཅན་	N -
+རྟ་མཆོག་	n.count -
+རྟ་རྒོད་	N -
+རྟག	v.past.v.pres -
+རྟག་	v.fut.v.pres -	v.invar -
+རྟག་ཏུ་ངུ	n.prop -
+རྟག་ཏུ་ངུ་	n.prop -
+རྟག་པ	n.v.invar -
+རྟགས	n.count -
+རྟགས་	n.count -
+རྟགས་མཚན་	N -
+རྟིང་	n.rel -
+རྟུལ་པོ་	adj -
+རྟེན་	n.count -	n.rel -
+རྟེན་མེད་	adj -
+རྟེན་འབྲེལ་	n.count -
+རྟེན་ཤིང་	N -
+རྟོག	v.past.v.pres -
+རྟོག་གེ་	n.count -
+རྟོག་པ	VN -	n.v.pres -
+རྟོག་པ་	VN -
+རྟོགས	v.invar -	v.past -
+རྟོགས་	v.past.v.pres -
+རྟོགས་ཆོས་	N -
+རྟོགས་པ	n.v.invar -
+རྟོགས་པ་	n.v.invar -
+རྟོགས་བྱ་	n.v.fut -
+རྟོན་པ་	n.v.pres -
+རྡིག་	n.count -
+རྡུལ	N -
+རྡུལ་	n.count -
+རྡུལ་ཕྲན་	n.count -
+རྡུལ་ཚོགས་	n.count -
+རྡོ་	n.count -
+རྡོ་བ	n.count -
+རྡོ་མལ་	n.count -
+རྡོ་ཚོགས་	N -
+རྡོ་རྗེ	n.count -
+རྡོ་རྗེ་	n.count -
+རྡོ་རྗེ་གདན་	n.prop -
+རྡོ་རྗེ་གྲགས་པ་	n.prop -
+རྡོ་རྗེ་ཐེག་པ	n.count -
+རྡོ་རྗེ་ཐེག་པ་	n.count -
+རྡོ་རྗེ་དབང་ཕྱུག་	n.prop -
+རྡོ་རྗེ་ཕག་མོ་	n.prop -
+རྡོ་རྗེ་ཟག་མེད་འོད་གསལ་	N -
+རྡོ་རྗེ་རྣལ་འབྱོར་མ་	n.prop -
+རྡོ་ལེབ་	n.count -
+རྡོག་	n.count -
+རྡོག་པོ་	N -	n.count -
+རྡོལ་བ་	n.v.fut.n.v.pres -
+རྣ་	n.count -
+རྣ་ཆ་	N -
+རྣ་བ	n.count -
+རྣ་བ་	n.count -
+རྣ་བ་ཅན་	N -
+རྣ་རྒྱན་	n.count -
+རྣག་	N -
+རྣག་ཁྲག་	n.mass -
+རྣམ	n.count -
+རྣམ་	n.count -
+རྣམ་གཞག	n.count -
+རྣམ་གཞག་	n.count -
+རྣམ་གྲོལ་	n.count -
+རྣམ་ཐར་	n.count -
+རྣམ་དག་	adj -
+རྣམ་པ	n.count -
+རྣམ་པ་	n.count -
+རྣམ་པ་སྣ་ཚོགས་	adj -
+རྣམ་པར་གཟིགས	N -
+རྣམ་པར་རྒྱལ་བྱེད་	N -
+རྣམ་བཞི་	num.card -
+རྣམ་འགྱུར་	n.count -
+རྣམ་འཕྲུལ་	n.count -
+རྣམ་རོལ་	n.count -
+རྣམ་ཤེས་	n.count -
+རྣམ་སྣང་	VN -
+རྣམ་སྨིན་	n.count -
+རྣམས	d.plural -
+རྣམས་	d.plural -
+རྣལ་འབྱོར་	n.count -
+རྣལ་འབྱོར་རྒྱུད་	N -
+རྣོ་ཆོད་	N -
+རྣོ་བ	VN -
+རྣོ་སོ་	N -
+རྣོན་པོ	adj -
+རྣོན་པོ་	adj -
+རྦ་	N -	n.count -
+རྦ་རླབས་	N -
+རྨ	n.count -
+རྨ་	n.count -
+རྨ་བྱ	n.count -
+རྨ་བྱ་	n.count -
+རྨ་རི་བོ་	N -
+རྨ་ལུང་རྡོ་རྗེ་བྲག་དན་ཏིག་	n.prop -
+རྨང་	n.count -
+རྨང་རྡོ་	N -	n.count -
+རྨད་	AdvPrefix -
+རྨི་ལམ	n.count -
+རྨི་ལམ་	n.count -
+རྨི་ལྟས་	n.count -
+རྨིག་རྗེས་	N -
+རྨིས	v.past -
+རྨིས་པ	n.v.past -
+རྨིས་པ་	n.v.past -
+རྨུགས་པ	n.v.past -
+རྨོ	v.fut.v.pres -
+རྨོངས་	V -	v.invar -
+རྨོངས་པ་	n.v.invar -
+རྨོངས་བ་	n.v.past -
+རྩ	n.rel -	num.card -
+རྩ་	AdvPrefix -	n.count -	num.card -
+རྩ་བ	n.count -
+རྩ་བ་	n.count -
+རྩ་རྒྱུད་	n.count -
+རྩ་ལྟུང་	n.count -
+རྩད	n.count -
+རྩལ་	AdvPrefix -	n.count -
+རྩི	v.pres -
+རྩི་ཐོག་	N -
+རྩི་རྐྱང་	N -
+རྩིག་	v.pres -
+རྩིག་གྲོགས་	VN -
+རྩིག་ངོས་	n.count -
+རྩིག་པ་	N -	n.v.pres -
+རྩིག་འཕྲོ་	n.count -
+རྩིག་རོགས་	VN -
+རྩིག་རྨང་	n.count -
+རྩིག་ས་	n.v.pres -
+རྩིགས	v.imp -
+རྩིགས་	v.imp -
+རྩིབ་ལོགས་	n.count -
+རྩིབས་	n.count -
+རྩིས་	n.count -	v.past -
+རྩུབ་འགྱུར་	N -
+རྩེ	n.count -
+རྩེ་	n.count -	n.rel -
+རྩེ་གྲོགས་	n.count -
+རྩེ་གླུ་	n.count -
+རྩེ་བ	n.v.invar -
+རྩེ་བ་	n.v.fut.n.v.pres -
+རྩེ་མོ	n.count -
+རྩེ་མོ་	n.count -
+རྩེ་རྒྱལ་	N -
+རྩོག་	V -
+རྩོད་	V -	v.imp -	v.pres -
+རྩོད་པ་	n.v.pres -
+རྩོད་ལྡན་	VN -
+རྩོམ་	v.pres -
+རྩོམ་པ	n.v.pres -
+རྩྭ་	n.count -
+རྩྭ་ཐག་	N -
+རྩྭ་ལྗང་	N -
+རྫས	n.count -
+རྫས་	n.count -
+རྫི	v.pres -
+རྫི་ཆར་	n.count -
+རྫི་བོ་	n.count -
+རྫི་མ་	N -
+རྫིང་	n.count -
+རྫིང་ཀར་བ་	N -
+རྫུ་འཕྲུལ་	n.count -
+རྫུན	v.pres -
+རྫུས་སྐྱེས་	N -
+རྫོགས་	v.invar -	v.past.v.pres -
+རྫོགས་ཆེན་པ་	N -
+རྫོགས་པ	n.v.invar -
+རྫོགས་པ་	n.v.invar -
+རྫོགས་རིམ་	n.count -
+རྫོགས་ལྡན་	VN -
+རྫོངས་བ	n.v.past.n.v.pres -
+རླངས་པ་	N -
+རླན་	N -
+རླབས་	n.count -
+རླུང་	n.count -
+རླུང་ཚུབ་	n.count -
+རློག	v.pres -
+རློན་པ་	n.v.pres -
+རློབ་	v.pres -
+རློབས	v.pres -
+རློམ་	v.invar -
+རློམས་སེམས་	N -
+ལ	adv.proclausal -	case.all -	cv.all -
+ལ་	case.all -	cv.all -
+ལ་ཁ་བ་	n.count -
+ལ་གྷུ་	N -
+ལ་ཅ་	n.count -
+ལ་དུ་	n.count -
+ལ་ལ	p.indef -
+ལ་ལ་	p.indef -
+ལ་སྟོད་	n.prop -
+ལག་	n.count -
+ལག་ངར་	N -
+ལག་ཆ	N -
+ལག་པ	n.count -
+ལག་པ་	n.count -
+ལག་བརྐྱང་	N -
+ལག་མང་	VN -
+ལག་མཐིལ	N -
+ལག་མཐིལ་	n.count -
+ལག་མཐུ	n.count -
+ལག་མཐུ་	n.count -
+ལག་སོར་	n.count -
+ལགས	v.cop -
+ལགས་	v.cop -
+ལགས་པ	n.v.cop -
+ལགས་པ་	n.v.cop -
+ལང་	v.fut.v.pres -
+ལང་ཀ་	n.prop -
+ལང་བ་	n.v.fut.n.v.pres -
+ལང་ཚོ་	N -
+ལངས་	v.past -
+ལངས་པ་	n.v.past -
+ལན	v.invar -
+ལན་	AdvPrefix -	n.count -
+ལན་གཅིག་ཕྱིར་མི་ལྡོག་པ	n.count -
+ལབ་ལབ་	adv.mim -
+ལམ་	n.count -
+ལམ་ཀ་	n.count -
+ལམ་ཁ	n.count -
+ལམ་བཟང་	N -
+ལམ་བུ	N -
+ལམ་མེར་	adj -
+ལམ་འབྲས་	N -
+ལམ་རིམ་	n.count -
+ལམ་སྦས་བཤད་	N -
+ལམ་སྲོལ་	N -
+ལས	case.abl -
+ལས་	V -	case.abl -	n.count -
+ལས་ངན་	n.count -
+ལས་ཅན་	adj -
+ལས་ཆེ	cv.odd -
+ལས་དཀར་	N -
+ལས་འཕྲོ་	n.count -
+ལས་འཕྲོ་ཅན་	adj -
+ལས་འབྲེལ་	n.count -
+ལས་རེམ་པོ་	adj -
+ལི	n.prop -
+ལི་ཁྲི་	N -
+ལི་ཐང་	n.prop -
+ལི་ཤོ་ཀ་ར་	n.prop -
+ལིང་	N -
+ལིང་སྐྱུར་	AdvPrefix -
+ལུགས་	n.count -
+ལུགས་བཟང་ཁྲིམས་	n.count -
+ལུགས་སྲོལ་	N -
+ལུང་	n.count -
+ལུང་པ་	n.count -
+ལུང་བ་	n.count -
+ལུང་བསྟན་	n.count -
+ལུང་མདའ་	N -
+ལུང་མདོ་	N -
+ལུད་ཕུང་	n.count -
+ལུས	v.invar -
+ལུས་	n.count -	v.past -
+ལུས་ངག་	n.count -
+ལུས་ངག་ཡིད་	n.count -
+ལུས་ཅན་	n.count -
+ལུས་པ	n.v.invar -	n.v.past -
+ལུས་པ་	n.v.invar -	n.v.past -
+ལུས་ཕྱེད་	N -
+ལུས་མེད་	VN -
+ལུས་སེམས་	n.count -
+ལུས་སྐྱེས་	n.count -
+ལུས་སྲོག་	n.count -
+ལེ་ལོ་	n.count -
+ལེགས	v.past.v.pres -
+ལེགས་	adj -	v.invar -
+ལེགས་ཉེས་	VN -
+ལེགས་པ	n.v.invar -
+ལེགས་པ་	n.v.invar -
+ལེགས་པོ་	adj -
+ལེགས་བཤད་	n.count -
+ལེགས་སྦྱར་	N -
+ལེན	v.pres -
+ལེན་	v.pres -
+ལེན་ཅན	Soc -
+ལེན་པ	n.v.pres -
+ལེན་པ་	n.v.pres -
+ལེན་པ་པོ་	n.count -
+ལེན་ས་	n.v.pres -
+ལེའུ་	n.count -
+ལོ	cl.quot -	cv.fin -
+ལོ་	cv.fin -	n.count -
+ལོ་གྲངས་	n.count -
+ལོ་ཆེན་	n.count -
+ལོ་ཏོག་	n.count -
+ལོ་ཐོག་	n.count -
+ལོ་བརྒྱ་པ	adj -
+ལོ་མ	n.count -
+ལོ་ཙཱ་	n.count -
+ལོ་ཙཱ་བ་	n.count -
+ལོ་ཟླ	Adv -
+ལོ་རྒྱུས་	n.count -
+ལོ་སྐྱིན་	N -	n.count -
+ལོ་སྟོན་	n.prop -
+ལོག་	v.imp -	v.invar -	v.past.v.pres -
+ལོག་པ	n.v.invar -
+ལོག་པར་དད་སེལ་	N -
+ལོག་འཚོ	N -
+ལོག་ལྟ་	n.count -
+ལོགས་	n.rel -
+ལོང་	v.imp -	v.invar -
+ལོང་བར་	adj -
+ལོངས	v.imp -
+ལོངས་	v.imp -	v.past -
+ལོངས་པ	n.v.past -
+ལོངས་པ་	n.v.past -
+ལོངས་སྐུ	n.count -
+ལོངས་སྤྱོད་	n.count -
+ལོན་པ	n.v.past -
+ལོན་པ་	n.v.past.n.v.pres -
+ལོས་	Inter -
+ལྐུགས་པ་	n.v.invar -
+ལྐོག་	n.count -
+ལྐོག་ཤལ་	N -
+ལྔ	num.card -
+ལྔ་	num.card -
+ལྔ་པ	num.ord -
+ལྔ་པོ	num.card -
+ལྔ་པོ་	num.card -
+ལྔ་བ་	num.ord -
+ལྔ་སྡེ་	n.count -
+ལྕགས་	n.mass -
+ལྕགས་ཀྱུ་	n.count -
+ལྕགས་ཕྱེ་	N -
+ལྕང་མ	N -
+ལྕང་མ་	N -
+ལྕམ་སྲིང་	n.count -
+ལྕི་	V -
+ལྕིད་	VN -
+ལྕུག་ཕྲན་	N -
+ལྕེ་	n.count -
+ལྕེ་ཁྱི་འབྲུག་	n.prop -
+ལྕེབ་	v.fut.v.pres -
+ལྕེབ་པ་	n.v.fut.n.v.pres -
+ལྕེབས་	v.past -
+ལྕེབས་གྲབ་	VN -
+ལྕེབས་གྲབས་	VN -
+ལྕོགས་	v.imp -
+ལྗོངས་	n.count -
+ལྗོན་པ	n.count -
+ལྗོན་པ་	N -
+ལྗོན་ཤིང་	n.count -
+ལྟ	n.rel -	v.pres -
+ལྟ་	n.rel -	v.pres -
+ལྟ་བ	n.v.pres -
+ལྟ་བ་	n.v.pres -
+ལྟ་བུ	n.rel -
+ལྟ་བུ་	n.rel -
+ལྟ་བྱེད་	n.count -
+ལྟ་སྟངས་	n.count -
+ལྟ་སྤྱོད་	n.count -
+ལྟག་	n.rel -
+ལྟག་འོག་	Adv -
+ལྟང་	n.count -
+ལྟས་ངན་	n.count -
+ལྟས་མཁན་	n.count -
+ལྟེ་བ་	n.count -
+ལྟེང་ཀ་	n.count -
+ལྟོ་	n.count -
+ལྟོ་གོས་	n.count -
+ལྟོ་གོས་ཆོས་	n.count -
+ལྟོ་འགྲངས་	adj -
+ལྟོ་རིན་	N -
+ལྟོག་	v.fut.v.pres -
+ལྟོགས་	v.invar -
+ལྟོགས་པ་	n.v.invar -
+ལྟོས	V -	v.imp -
+ལྟོས་	v.imp -
+ལྟོས་པ	n.v.past -
+ལྡག་	v.pres -
+ལྡང་	v.invar -
+ལྡང༌	V -
+ལྡན་	v.fut.v.pres -	v.invar -
+ལྡན་པ	n.v.past.n.v.pres -	n.v.pres -
+ལྡན་པ་	n.v.past.n.v.pres -
+ལྡན་བ་	n.v.fut.n.v.pres -
+ལྡིང་བ	n.v.invar -
+ལྡིར	v.invar -
+ལྡེ་གཙུག་མགོན	N -
+ལྡོག་	v.fut.v.pres -
+ལྡོག་པ	n.v.fut.n.v.pres -
+ལྡོག་པ་	n.v.fut.n.v.pres -
+ལྤགས་འདྲེས་	VN -
+ལྦ་བ་	n.count -
+ལྭ་བ	n.count -
+ལྷ	n.count -
+ལྷ་	n.count -	num.card -
+ལྷ་ཁང་	n.count -
+ལྷ་ཆེན་	n.count -
+ལྷ་ཆེན་པོ་	n.prop -
+ལྷ་ཆོས་	n.count -
+ལྷ་ཐང་	n.count -
+ལྷ་ཐོ་ཐོ་རི་	n.prop -
+ལྷ་དགའ་	n.prop -
+ལྷ་དབང་	N -
+ལྷ་མཚོ་	N -
+ལྷ་མི	n.count -
+ལྷ་མི་	n.count -
+ལྷ་མོ	n.count -
+ལྷ་མོ་	n.count -
+ལྷ་འདྲེ་	n.count -
+ལྷ་ཡུལ་	n.count -
+ལྷ་རིགས་	N -
+ལྷ་རྗེ་	N -	n.count -
+ལྷ་རྟ་	N -
+ལྷ་ལྡེ	N -
+ལྷ་ས	n.prop -
+ལྷ་ས་	n.prop -
+ལྷ་སྲས་	n.count -
+ལྷ་སྲིན་	n.count -
+ལྷག་	n.count -
+ལྷག་པ	n.v.invar -
+ལྷག་པ་	n.v.invar -
+ལྷག་བཅས་	En -
+ལྷག་མ་	n.count -
+ལྷག་མེད་	adj -
+ལྷགས་	v.invar -	v.past.v.pres -
+ལྷང་ལྷང་	adv.mim -
+ལྷན་	AdvPrefix -	n.count -
+ལྷན་ནེ་	adj -
+ལྷན་པ་	n.v.pres -
+ལྷས་བཙས་	N -
+ལྷུ་ཚིགས་	N -
+ལྷུང་	v.invar -	v.past.v.pres -
+ལྷུང་བ	n.v.invar -
+ལྷུང་བ་	n.v.invar -
+ལྷུང་བཟེད་	n.count -
+ལྷུང་ལྷུང་	adv.mim -
+ལྷུན་	V -	n.count -
+ལྷུན་པོ་	N -
+ལྷུམས་	n.count -
+ལྷུར་	n.count -
+ལྷོ	n.count -
+ལྷོ་	n.count -
+ལྷོ་ཕྱོགས་	n.count -
+ལྷོ་བྲག་	n.prop -
+ལྷོ་རོང་	N -
+ལྷོད་པ་ཅན་	Soc -
+ལྷོད་པོ	Adv -
+ལྷོད་མེད་	VN -
+ལྷོན་	v.invar -
+ཤ་	n.mass -
+ཤ་ཀོ་ཏ་ཀ་	n.count -
+ཤ་འདྲེས་	VN -
+ཤགས་	V -
+ཤངས་	n.prop -
+ཤངས་པ་	N -	n.prop -
+ཤན་	N -
+ཤམ་ཐབས་	n.count -
+ཤམ་བུ་ཅན་	adj -
+ཤར	v.past -
+ཤར་	AdvPrefix -	F -	n.count -	v.past -
+ཤར་ཕྱོགས་	n.count -
+ཤར་བ	n.v.past -
+ཤར་བ་	n.v.past -
+ཤར་ལམ་	N -
+ཤར་ལྷོ	n.count -
+ཤར་ལྷོ་	N -
+ཤས་	d.plural -
+ཤཱ་རིའཱི་བུ	N -
+ཤཱཀྱ་གཞུ་བརྟན་	N -
+ཤཱཀྱ་ཐུབ་པ	n.prop -
+ཤཱཀྱ་ཐུབ་པ་	n.prop -
+ཤཱཀྱ་མུ་ནེ་	n.prop -
+ཤཱཀྱ་ཡེ་ཤེས་	n.prop -
+ཤཱནྟི་པ	n.prop -
+ཤི	v.past -
+ཤི་	v.past -
+ཤི་བ	n.v.past -
+ཤི་བ་	n.v.past -
+ཤིག	cv.imp -	d.indef -
+ཤིག་	cv.imp -	d.indef -
+ཤིགས་	V -
+ཤིང་	cv.impf -	n.count -
+ཤིང་ཁ	n.count -
+ཤིང་མཁན་	n.count -
+ཤིང་ཚལ་	n.count -
+ཤིང་རྟ་	n.count -
+ཤིང་རྟ་ཆེན་པོ་	n.prop -
+ཤིན་	adv.intense -
+ཤིས	N -	v.invar -
+ཤིས་པ	n.v.invar -
+ཤུད་ཏོ་ལག་གར་ནི	N -
+ཤུད་ཏོ་ལག་གར་ནི་	n.prop -
+ཤུལ་	n.count -	n.rel -
+ཤུལ་ཁ་	n.count -
+ཤུལ་རིང་	N -
+ཤུལ་རིངས་	adj -
+ཤེད་	n.count -
+ཤེད་པོ་ཆེ་	adj -
+ཤེར་ཕྱིན་	n.prop -
+ཤེལ་	n.mass -
+ཤེལ་བྲག་མ་	adj -
+ཤེས	v.aux -	v.fut.v.pres -	v.invar -	v.past -
+ཤེས་	v.aux -	v.fut.v.pres -	v.invar -	v.past -
+ཤེས་པ	n.v.aux -	n.v.invar -
+ཤེས་པ་	n.v.aux -	n.v.invar -
+ཤེས་བྱ་	n.v.fut -
+ཤེས་རབ་	n.count -
+ཤེས་རབ་རྒྱལ་མཚན་	n.prop -
+ཤེས་རབ་སེང་གེ་	n.prop -
+ཤེས་རྒྱ་	n.count -
+ཤོ་	n.count -
+ཤོ་གམ་	n.count -
+ཤོ་གམ་པ་	N -
+ཤོ་རྩེ་	N -
+ཤོག	v.imp -
+ཤོག་	V -	v.imp -
+ཤོག་རིལ་	n.count -
+ཤོད་	n.count -	v.imp -
+ཤོར	v.past -
+ཤོར་	v.fut.v.past -
+ཤོར་གྲབས་	VN -
+ཤྲདྡྷཱ་ཀ་ར་ཝརྨ་	N -
+ས	case.agn -	n.count -	n.rel -
+ས་	V -	case.agn -	n.count -
+ས་ཀར་དགེ་	N -
+ས་ག་	N -
+ས་གནད་	N -	n.count -
+ས་གཞི་	n.count -
+ས་ཆ་	n.count -
+ས་ཆེན་	N -
+ས་ཐག་	N -
+ས་དཔལ	N -
+ས་དཔལ་	N -
+ས་པ་	N -
+ས་བཅུད་	N -
+ས་བོན་	n.count -
+ས་མ་དྷི་འཆང་	N -
+ས་མཐའ	N -
+ས་མལ་	n.count -
+ས་འགག་	n.count -
+ས་འགགས་	n.count -
+ས་འཛིན་	N -
+ས་ཡ	num.card -
+ས་ཡ་	num.card -
+ས་ར་ཧ	n.count -
+ས་ར་ཧ་	n.prop -
+ས་རྡོ་	n.count -
+ས་ལམ་	N -
+ས་ལེ	Adv -
+ས་ལེ་སྦྲམ་	N -
+ས་སྐྱ་	n.prop -
+ས་སྐྱ་པ་	n.count -	n.prop -
+ས་སྐྱ་ལེགས་བཤད་	n.prop -
+ས་སྒྲོགས་རིགས་	N -
+ས་སྟེང་	n.count -
+ས་སྟོན་	N -
+ས་སྣོད་	N -	n.count -
+སག་ལྷམ་	N -
+སངས་	v.invar -	v.past -	v.past.v.pres -
+སངས་པ་	n.v.fut.n.v.past -
+སངས་རྒྱས	n.count -
+སངས་རྒྱས་	n.count -
+སངས་རྒྱས་བསྟན་	n.count -
+སད	v.invar -
+སད་	N -	v.past.v.pres -
+སམ	cv.ques -
+སམ་	cv.ques -
+སམྦྷོ་ཊ་	n.prop -
+སཱི་ཏཱ་	n.prop -
+སིལ་སྒྲ་	N -
+སུ	case.term -	cv.term -	p.interrog -
+སུ་	case.term -	cv.term -	p.interrog -
+སུ་བྷཱ་ཥི་ཏ་རཏྣ་ནི་དྷི་ནཱ་མ་ཤཱསྟྲ	N -
+སུམ་	num.card -
+སུམ་ཅུ་རྩ་གསུམ་	n.prop -
+སུམ་ཆ་	num.card -
+སེ་གོལ་	n.count -
+སེང་གེ	n.count -
+སེང་གེ་	n.count -
+སེང་གེ་འགྲམ་	n.prop -
+སེང་གེ་སྒྲ་	n.prop -
+སེང་ཆེན་	n.count -
+སེང་ལྡེང་	n.mass -
+སེན་	N -
+སེན་རྗེས་	N -
+སེམས	n.count -	v.pres -
+སེམས་	n.count -	v.pres -
+སེམས་གཏམ་	N -
+སེམས་གནད་	n.count -
+སེམས་གསོ་	n.count -
+སེམས་ཅན་	n.count -
+སེམས་ཅན་ཆེན་པོ	n.prop -
+སེམས་ཅན་ཆེན་པོ་	n.prop -
+སེམས་ཅན་དམྱལ་བ	n.prop -
+སེམས་དཔའ་ཆེན་པོ་	n.prop -
+སེམས་པ	n.v.pres -
+སེམས་པ་	n.v.pres -
+སེམས་བ་	n.v.pres -
+སེའུ་	N -
+སེར་	n.mass -
+སེར་ཀ་	N -
+སེར་ཁྲལ་	n.count -
+སེར་པོ	adj -
+སེར་པོ་	adj -
+སེར་ཕྲེང་	n.count -
+སེར་བ	n.mass -
+སེར་བ་	n.count -	n.mass -
+སེར་སྣ་	n.count -
+སེལ	v.pres -
+སེལ་	n.count -
+སེལ་བ	n.v.pres -
+སོ	cv.fin -
+སོ་	cv.fin -	n.count -	num.card -
+སོ་ཐར་	N -
+སོ་མ་	adj -
+སོ་ཚིས་	n.count -
+སོ་རྣོན་	N -
+སོ་ལྡན་	VN -
+སོ་སོ	p.indef -
+སོ་སོ་	p.indef -
+སོ་སོ་སྐྱེ་བོ	N -
+སོག་	N -
+སོགས	d.det -	v.invar -
+སོགས་	En -	d.det -	v.invar -
+སོགས་པ	n.v.invar -
+སོགས་པ་	n.v.invar -
+སོང་	Adv -	V -	VN -	v.imp -	v.past -
+སོང་བ	n.v.past -
+སོང་བ་	n.v.past -
+སོངས་	v.imp -
+སོམས	v.imp -
+སོམས་	v.imp -
+སོར་མོ་	n.count -
+སོལ་བ་	N -
+སོས་	v.past -
+སོས་པ་	n.v.past -
+སོས་བ	n.v.past -
+སྐ་རགས་	N -
+སྐད	v.invar -
+སྐད་	n.count -	n.rel -
+སྐད་གསར་བཅད་	n.count -
+སྐབས	n.rel -
+སྐབས་	n.count -	n.rel -
+སྐམ་	v.past.v.pres -
+སྐམ་པོ	adj -
+སྐར་ཆུང་	n.count -
+སྐར་ཕྲན་	N -
+སྐར་མ་	n.count -
+སྐར་ཚོགས་	N -
+སྐར་རྒྱལ་	n.count -
+སྐལ་བ་	n.count -
+སྐལ་མཉམ་	VN -
+སྐལ་ལྡན་	adj -
+སྐུ	n.count -
+སྐུ་	n.count -
+སྐུ་ཁམས་	n.count -
+སྐུ་གཟུགས་	n.count -
+སྐུ་གསུང་ཐུགས་	n.count -
+སྐུ་དཔང་	n.count -
+སྐུ་དབང་	n.count -
+སྐུ་དྲིན་	n.count -
+སྐུ་དྲུང་	AdvPrefix -
+སྐུ་བསོད་	n.count -
+སྐུ་མཆེད་	n.count -
+སྐུ་མདུན་	n.count -
+སྐུ་མདོག་	n.count -
+སྐུ་ཚབ་	N -
+སྐུ་ཚེ	n.count -
+སྐུ་ཚེ་	n.count -
+སྐུ་རིང་	PpPrefix -
+སྐུ་རྒྱན	n.count -
+སྐུ་རྒྱན་	n.count -
+སྐུ་རྩེད་	n.count -
+སྐུ་ལུས་	n.count -
+སྐུར	v.pres -
+སྐེ་རགས་	n.count -
+སྐེད་སྒོ་	N -
+སྐོང་	v.pres -
+སྐོམ་	v.invar -
+སྐོམ་པ	n.v.invar -
+སྐོམ་ཚུགས་	N -
+སྐོར་	V -	n.rel -
+སྐྱ་	v.invar -
+སྐྱ་བསེང་	N -
+སྐྱ་བོ་	adj -
+སྐྱབས	N -
+སྐྱབས་གནས	N -
+སྐྱབས་པ	n.v.past -
+སྐྱབས་འགྲོ	n.count -
+སྐྱབས་འགྲོ་	N -
+སྐྱིད་	N -	v.pres -
+སྐྱིད་གྲོངས་	n.prop -
+སྐྱིད་པ	n.v.invar -
+སྐྱིད་ལྡེ	n.prop -
+སྐྱུ་རུ་ར་	N -
+སྐྱུགས་	N -
+སྐྱུགས་པ་	N -
+སྐྱེ	v.fut.v.pres -
+སྐྱེ་	n.count -	v.fut.v.pres -
+སྐྱེ་བ	n.v.fut.n.v.pres -
+སྐྱེ་བ་	n.count -	n.v.fut.n.v.pres -
+སྐྱེ་བོ	n.count -
+སྐྱེ་བོ་	n.count -
+སྐྱེ་བོ་ངན་	n.count -
+སྐྱེ་མཆེད་	n.count -
+སྐྱེ་མཆོག་	N -
+སྐྱེ་མེད་	adj -
+སྐྱེ་འགྲོ་	n.count -
+སྐྱེ་རྒུ་	VN -
+སྐྱེང་	v.fut.v.pres -
+སྐྱེད	v.pres -
+སྐྱེད་	v.imp -	v.pres -
+སྐྱེད་མོས་ཚལ་	n.count -
+སྐྱེད་ཚལ་	n.count -
+སྐྱེར་ཕུ	N -
+སྐྱེར་ཕུ་	N -
+སྐྱེལ་	v.pres -
+སྐྱེལ་བ་	n.v.pres -
+སྐྱེལ་སོ་	N -
+སྐྱེས	v.past -
+སྐྱེས་	n.count -	v.past -
+སྐྱེས་ཆེན་	n.count -
+སྐྱེས་དགའ་	n.count -
+སྐྱེས་པ	n.v.past -
+སྐྱེས་པ་	n.v.past -
+སྐྱེས་བུ	n.count -
+སྐྱེས་བུ་	n.count -
+སྐྱེས་མཆོག་	n.count -
+སྐྱེས་རབས་	n.count -
+སྐྱོ	v.past -
+སྐྱོ་	n.count -	v.invar -
+སྐྱོ་རྒྱུ་	VN -
+སྐྱོ་ཤས་	n.count -
+སྐྱོགས་	n.count -
+སྐྱོང	V -
+སྐྱོང་	V -	v.pres -
+སྐྱོང་བ	n.v.invar -
+སྐྱོང་བ་	n.v.invar -
+སྐྱོང་མཁས་	adj -
+སྐྱོངས	v.imp -
+སྐྱོད	v.pres -
+སྐྱོན	N -
+སྐྱོན་	n.count -
+སྐྱོན་ཅན་	adj -
+སྐྱོན་པ་	n.v.pres -
+སྐྱོན་རྒྱ་	n.count -
+སྐྱོབ་པ	n.v.pres -
+སྐྱོལ	v.imp -
+སྐྱོལ་	v.imp -
+སྐྱོས་	v.imp -
+སྐྲ་	n.count -
+སྐྲག་	v.invar -	v.past.v.pres -
+སྐྲག་པ་	n.v.invar -
+སྒལ་པ་	n.count -
+སྒལ་མིག་	N -	n.count -
+སྒལ་ཚགས་	n.count -
+སྒལ་རྨ་	N -	n.count -
+སྒེར་	AdvPrefix -
+སྒོ	n.count -
+སྒོ་	n.count -	n.rel -
+སྒོ་གླེགས་	n.count -
+སྒོ་ང་	n.count -
+སྒོ་མོ་	N -	n.count -
+སྒོ་འཕར་	n.count -
+སྒོ་སྲུང་	n.count -
+སྒོམ་	v.pres -
+སྒོམ་ཆེན་	n.count -
+སྒོམ་ཐབས་	n.count -
+སྒོམ་པ	n.v.pres -
+སྒོམ་པ་	n.v.pres -
+སྒོམས་	v.imp -
+སྒོས་	adv.proclausal -
+སྒྱུ་མ་	n.count -
+སྒྱུ་མ་ལྷ་མཛེས་	n.prop -
+སྒྱུ་འཕྲུལ་	n.count -
+སྒྱུ་འཕྲུལ་ཆེན་མོ་	n.prop -
+སྒྱུར་	VN -	v.pres -
+སྒྱུར་བ	n.v.pres -
+སྒྱུར་བྱེད་	N -
+སྒྱེ་	n.count -
+སྒྲ་	n.count -
+སྒྲ་ཆེན་པོ་	n.prop -
+སྒྲ་དབྱངས་	n.prop -
+སྒྲ་དབྱངས་ཅན	N -	adj -
+སྒྲ་མི་སྙན་	N -
+སྒྲ་འཛིན་	N -
+སྒྲ་སྒྱུར་	n.count -
+སྒྲིག་	v.pres -
+སྒྲིག་པ	n.v.pres -
+སྒྲིན་	v.pres -
+སྒྲིབ་པ་	n.v.pres -
+སྒྲིལ་	v.pres -
+སྒྲུང་	n.count -
+སྒྲུབ	v.pres -
+སྒྲུབ་	v.imp -	v.pres -
+སྒྲུབ་ཆེན་	N -
+སྒྲུབ་པ	n.v.pres -
+སྒྲུབ་པ་	n.v.pres -
+སྒྲུབ་བརྒྱགས་	n.count -
+སྒྲུབ་བརྒྱུད་	n.count -
+སྒྲུབ་བྱེད་	VN -
+སྒྲུབ་མཆོག་	N -
+སྒྲུབ་རྒྱགས་	n.count -
+སྒྲུབ་སྡེ	n.count -
+སྒྲུབ་སྡེ་	n.count -
+སྒྲོ་ཐུལ་ཅན་	N -
+སྒྲོག་	v.pres -
+སྒྲོག་པ	n.v.pres -
+སྒྲོགས	v.imp -
+སྒྲོགས་	v.imp -
+སྒྲོན་མ་	n.count -
+སྒྲོམ་	n.count -
+སྒྲོལ་བ་	n.v.pres -
+སྒྲོལ་མགོན་ཞབས་	N -
+སྒྲོས་	n.count -
+སྔ	adv.temp -
+སྔ་	adv.temp -
+སྔ་དར་	n.count -
+སྔ་ཕྱི་	adj -
+སྔ་ཕྱི་བར་	N -
+སྔ་བ	n.v.invar -
+སྔ་བུ་	N -
+སྔ་མ	adj -
+སྔ་མ་	adj -
+སྔ་འགྱུར་	n.count -
+སྔ་རོལ་	n.count -
+སྔ་སོ	adv.temp -
+སྔ་སོ་	adv.temp -
+སྔགས་	n.count -
+སྔགས་པ་	n.v.pres -
+སྔགས་རྒྱུད་	N -
+སྔངས་སྐྲག་	adj -
+སྔར་	N -
+སྔོན་	adv.temp -
+སྔོན་ཆད་	adv.dir -
+སྔོན་པོ	adj -
+སྔོན་པོ་	adj -
+སྔོན་བྱོན་	VN -
+སྔོན་ཡུལ་	N -
+སྔོན་རོལ་	n.count -
+སྙད་	n.count -
+སྙན་	n.count -	v.fut.v.pres -
+སྙན་གྲགས་	n.count -
+སྙན་དངགས་	n.count -
+སྙན་པ་	n.v.pres -
+སྙན་པོ་	adj -
+སྙན་བརྒྱུད་	n.count -
+སྙན་བསྐུལ་	n.count -
+སྙན་ཚིག་	n.count -
+སྙམ	v.fut.v.pres -	v.invar -
+སྙམ་	v.fut.v.pres -	v.invar -	v.past.v.pres -
+སྙམ་པ་	n.v.invar -
+སྙིགས་དུས་	N -
+སྙིགས་མ	N -
+སྙིང་	n.count -
+སྙིང་ག་	N -
+སྙིང་པོ	n.count -
+སྙིང་པོ་	n.count -
+སྙིང་བཅུད་	N -
+སྙིང་བརྩེ་བ་	N -
+སྙིང་རུས་	n.count -
+སྙིང་རུས་ཆེ་རབ་	adj -
+སྙིང་རྗེ	n.count -
+སྙིང་རྗེ་	n.count -
+སྙིང་རྗེ་ཅན་	adj -
+སྙིང་རྗེ་ཆེ་བ་	adj -
+སྙིང་རྗེ་བ	N -
+སྙིང་རྗེ་བ་	N -
+སྙིང་རླུང་	n.count -
+སྙིང་སྟོབས་	n.count -
+སྙུག་གཤགས་	N -
+སྙུང་བ་	n.v.invar -
+སྙེ་མ	N -
+སྙེ་མ་	n.count -
+སྙེད་	d.tsam -
+སྙེད་པ་	d.tsam -
+སྙེམས་	n.count -
+སྙོད་	v.fut.v.pres -
+སྟ་རེ་	n.count -
+སྟག་	n.count -
+སྟག་ཕྲུག་	n.count -
+སྟག་མོ	n.count -
+སྟག་མོ་	n.count -
+སྟག་རྣ་	N -
+སྟག་ལུང་པ་	N -
+སྟག་སེང་	n.count -
+སྟན་	n.count -
+སྟབས་	n.count -
+སྟེ	cv.sem -
+སྟེ་	cv.sem -
+སྟེང་	n.rel -
+སྟེང་གཡོགས་	n.count -
+སྟེང་མ་	F -
+སྟེའུ་	n.count -
+སྟེར	V -	v.fut.v.pres -	v.invar -
+སྟེར་	V -	v.imp -	v.invar -
+སྟེར་བ	n.v.fut.n.v.pres -
+སྟེར་བ་	n.v.fut.n.v.pres -
+སྟེས་	N -
+སྟོང་	num.card -
+སྟོང་ཉིད་	n.count -
+སྟོང་པ	n.v.invar -
+སྟོང་པ་	n.v.invar -	num.ord -
+སྟོང་པོ་	num.card -
+སྟོང་བ	n.v.fut.n.v.pres -
+སྟོད་	n.count -
+སྟོད་གཡོགས་	n.count -
+སྟོན	V -	v.pres -
+སྟོན་	V -	v.imp -	v.pres -
+སྟོན་གྲལ་	n.count -
+སྟོན་པ	n.count -	n.v.pres -
+སྟོན་པ་	n.count -	n.v.pres -
+སྟོན་མོ་	n.count -
+སྟོབས་	n.count -
+སྟོབས་ཅན་	adj -
+སྟོབས་མཐུ་	n.count -
+སྟོབས་ལྡན་	VN -	adj -
+སྟོར	V -
+སྟོར་	v.invar -	v.past.v.pres -
+སྟོར་བ	n.v.fut.n.v.pres -
+སྡང་	V -	v.invar -
+སྡང་པོ་	n.count -
+སྡང་བ	n.v.invar -
+སྡང༌	adj -
+སྡར་མ་	N -
+སྡིག་	n.count -
+སྡིག་ཅན་	adj -
+སྡིག་པ	n.v.pres -
+སྡིག་པ་	n.v.pres -
+སྡིག་པོ་ཆེ་	adj -
+སྡིག་པོ་ཆེན་	adj -
+སྡིག་སྒྲིབ་	n.count -
+སྡིག་སྤྱོད་	n.count -
+སྡིགས་མཛུབ་	n.count -
+སྡུག	v.invar -
+སྡུག་	n.count -	v.fut.v.pres -	v.invar -
+སྡུག་པ	n.v.invar -
+སྡུག་པ་	n.v.invar -
+སྡུག་པོ་	adj -	n.count -
+སྡུག་བསྔལ་	n.count -
+སྡུད	v.pres -
+སྡུད་	v.imp -	v.pres -
+སྡུད་པ	n.v.pres -
+སྡུད་པ་	n.v.pres -
+སྡུད་པ་པོ་	n.count -
+སྡེ	n.count -
+སྡེ་	n.count -
+སྡེ་དཔོན་	N -
+སྡེ་པ་	n.count -
+སྡེ་སྣོད་	n.count -
+སྡེབ་ས	VN -
+སྡེབ་སྦྱོར་	n.count -
+སྡོང་	N -
+སྡོང་པོ་	n.count -
+སྡོད	v.fut.v.pres -	v.imp -
+སྡོད་	v.fut.v.pres -	v.imp -	v.pres -
+སྡོད་པ	n.v.fut.n.v.pres -
+སྡོད་པ་	n.v.fut.n.v.pres -
+སྡོམ་པ་	n.v.pres -
+སྣ	n.count -
+སྣ་	n.count -
+སྣ་མ	N -
+སྣ་ཚོགས་	d.plural -
+སྣ་རེ་	d.det -
+སྣ་ལེན་	n.count -
+སྣག་	n.count -
+སྣང་	v.invar -
+སྣང་བ	n.v.invar -
+སྣང་བ་	n.v.invar -
+སྣང་ཞེན་	VN -
+སྣང་སྲིད་	n.count -
+སྣད་	v.fut.v.pres -
+སྣམ་བུ་	n.mass -
+སྣུམ་	n.count -
+སྣུམ་རུག་གེ་	adj -
+སྣོད་སྤྱད་	n.count -
+སྤང་	v.fut -
+སྤང་ཐུགས་རྗེ་བརྩོན་འགྲུས་	n.prop -
+སྤང་བྱ་	n.count -
+སྤང་བླང་	VN -
+སྤང་ལྗོངས་	N -
+སྤངས་	v.past -
+སྤུ་	n.mass -
+སྤུངས་	v.past -
+སྤུན་	n.count -
+སྤེན་ཁུར་	N -
+སྤེན་བད་	n.mass -
+སྤེན་མ་	n.count -
+སྤེའུ་	N -	n.count -
+སྤེལ་	v.fut.v.pres -
+སྤེལ་བ	n.v.fut.n.v.pres -
+སྤོང་	V -	v.pres -
+སྤོང་བ་	n.v.pres -
+སྤོངས་	v.imp -
+སྤོབས	v.past -
+སྤོབས་པ	n.v.past -
+སྤོབས་པ་	n.v.invar -
+སྤོས་	n.count -
+སྤོས་རྒྱ་	N -
+སྤོས་ལྡན་	N -
+སྤྱང་ཀི	n.count -
+སྤྱད	v.fut.v.past -
+སྤྱད་	v.fut.v.past -	v.past -
+སྤྱད་པ	n.v.fut.n.v.past -	n.v.past -
+སྤྱད་པ་	n.v.fut.n.v.past -
+སྤྱད་ཚུལ་	n.v.fut.n.v.past -
+སྤྱན་	n.count -
+སྤྱན་ཆབ་	n.count -
+སྤྱན་འབྲུ་	N -
+སྤྱན་རས་གཟིགས་	n.prop -
+སྤྱི	d.plural -
+སྤྱི་གཟུགས་	N -
+སྤྱི་བོ	n.count -
+སྤྱི་བོ་	n.count -
+སྤྱི་མིང་	N -
+སྤྱིལ་པོ་	n.count -
+སྤྱོ་	v.fut.v.pres -
+སྤྱོ་བ	n.v.fut.n.v.pres -
+སྤྱོ་བ་	n.v.fut.n.v.pres -
+སྤྱོད་	n.count -	v.pres -
+སྤྱོད་པ	n.v.pres -
+སྤྱོད་པ་	n.v.pres -
+སྤྱོད་ཚུལ་	n.v.pres -
+སྤྱོད་ཞིབ་	N -
+སྤྱོད་ཡུལ་	n.count -
+སྤྱོད་རྒྱུད་	n.count -
+སྤྱོད་ལམ་	n.count -
+སྤྱོད་སྒོ་	N -
+སྤྲ་མོ་	n.count -
+སྤྲང་པོ	n.count -
+སྤྲད	v.fut.v.past -
+སྤྲད་	v.invar -
+སྤྲིངས་པ	n.v.past -
+སྤྲིན	N -	adj -
+སྤྲིན་	n.count -
+སྤྲིན་ནག་	n.count -
+སྤྲིན་བྲལ་	VN -
+སྤྲིན་མེད་	VN -
+སྤྲུལ་	v.invar -
+སྤྲུལ་པ	n.v.past.n.v.pres -
+སྤྲུལ་པ་	n.v.past.n.v.pres -
+སྤྲུལ་སྐུ	n.count -
+སྤྲེ་	N -	n.count -
+སྤྲེའུ་	n.count -
+སྤྲོ	v.fut.v.pres -
+སྤྲོ་བ	n.v.invar -
+སྤྲོ་བ་	n.v.invar -
+སྤྲོད་	v.imp -	v.pres -
+སྤྲོད་པ་	n.v.pres -
+སྤྲོས	V -
+སྤྲོས་	v.past -
+སྤྲོས་པ	n.v.past -
+སྤྲོས་པ་	n.v.past.n.v.pres -
+སྤྲོས་བྲལ་	adj -
+སྦས	v.past -
+སྦས་	v.past -
+སྦས་པ	n.v.past -
+སྦས་ཡུལ་	N -
+སྦེད	v.pres -
+སྦོམ་པོ	adj -
+སྦྱང་	v.fut.v.past -
+སྦྱངས་པ	n.v.past -
+སྦྱངས་པ་	n.v.past -
+སྦྱར	v.fut.v.past -
+སྦྱར་	v.fut.v.past -	v.past -
+སྦྱར་བ	n.v.fut -
+སྦྱིན	v.fut.v.pres -
+སྦྱིན་	n.count -	v.fut.v.pres -
+སྦྱིན་པ	n.v.pres -
+སྦྱིན་པ་	n.v.pres -
+སྦྱིན་བདག་	n.count -
+སྦྱིན་སྲེག་	n.count -
+སྦྱོང་པོ་	n.count -
+སྦྱོང་བ	n.v.pres -
+སྦྱོང་བ་	n.v.pres -
+སྦྱོར་	V -	v.pres -
+སྦྱོར་བ་	n.v.pres -
+སྦྱོར་མཁས་	N -
+སྦྱོར་སྒྲོལ་	n.count -
+སྦྲགས་	v.invar -
+སྦྲང་བུ་	N -	n.count -
+སྦྲང་རྩི་	n.count -
+སྦྲན	v.fut.v.past -
+སྦྲན་	v.fut.v.past -	v.past -
+སྦྲན་པ	n.v.past -
+སྦྲན་པ་	n.v.past -
+སྦྲུལ	N -
+སྦྲུལ་	n.count -
+སྦྲུལ་གདུག་གནས་པ	n.count -
+སྨ་ར་	n.count -
+སྨད	v.fut.v.past -
+སྨད་	n.rel -	v.invar -
+སྨད་པ	n.v.fut.n.v.past -
+སྨད་འཚོང་	N -
+སྨན་	n.mass -
+སྨན་ལུང་	n.count -
+སྨིན་	VN -	v.past.v.pres -
+སྨིན་གྲོལ་	n.count -
+སྨིན་དཀྱུས་	N -
+སྨིན་པ	n.v.past.n.v.pres -
+སྨིན་པ་	n.v.past.n.v.pres -
+སྨིན་བྱེད་	VN -
+སྨུག་ཆུང་	n.count -
+སྨུག་པ་	VN -
+སྨུག་པོ་གདོང་	n.count -
+སྨོན་ལམ་	n.count -
+སྨོས	v.invar -
+སྨོས་	V -	v.invar -
+སྨོས་པ	n.v.invar -
+སྨྱུག་མ་	n.count -
+སྨྱོ་བ་	n.v.fut.n.v.pres -
+སྨྱོན་པ་	n.v.past.n.v.pres -
+སྨྱོས་	v.past -
+སྨྲ	v.fut.v.pres -
+སྨྲ་	v.fut.v.pres -
+སྨྲ་བ	n.v.fut.n.v.pres -
+སྨྲ་བ་	n.v.fut.n.v.pres -
+སྨྲ་བ་ཅན་མང་	n.count -
+སྨྲ་བོ	VN -
+སྨྲ་མཁན་	VN -
+སྨྲས	v.past -
+སྨྲས་	V -	v.past -
+སྨྲས་པ	n.v.past -
+སྨྲས་པ་	n.v.past -
+སྨྲོས་	v.imp -
+སྨྲྀ་ཏི་ཛྙཱ་ན་	n.prop -
+སྩལ	v.fut -
+སྩལ་	v.fut.v.past -	v.past -
+སྩལ་པ	n.v.past -
+སྩལ་པ་	n.v.past -
+སྲ་	v.pres -
+སྲམ་	N -
+སྲས་	n.count -
+སྲས་པོ	n.count -
+སྲས་པོ་	n.count -
+སྲས་མཁར་	n.count -
+སྲས་མོ	N -	n.count -
+སྲས་མོ་	n.count -
+སྲི་ཞུ་	n.count -
+སྲིད	v.aux -	v.invar -
+སྲིད་	v.invar -
+སྲིད་པ	n.v.invar -
+སྲིད་པ་	n.v.invar -
+སྲིད་བ	n.v.fut.n.v.pres -
+སྲིན་དབང་	N -
+སྲིན་པོ་	n.count -
+སྲིན་བུ	n.count -
+སྲིན་བུ་	n.count -
+སྲིན་བྱ་	N -
+སྲིན་མཚོ་	N -
+སྲུ་	n.count -
+སྲུང་	VN -
+སྲུང་བ	n.v.pres -
+སྲུང་བ་	n.v.pres -
+སྲུང་མ	n.count -
+སྲུང་མ་	n.count -
+སྲུངས	V -
+སྲེད་པ་	n.v.invar -
+སྲེད་མེད་	VN -
+སྲེད་ལྡན་	N -	VN -
+སྲོག	N -	n.count -
+སྲོག་	n.count -
+སྲོག་ཆགས་	n.count -
+སྲོང་བཙན་སྒམ་པོ་	n.prop -
+སྲོད་	adv.temp -
+སྲོལ་	n.count -
+སྲོས་པ་	n.v.invar -
+སླ	Adv -	n.rel -	v.invar -
+སླ་	v.pres -
+སླ་ང་	n.count -
+སླ་བ	n.v.pres -
+སླ་བ་	n.v.pres -
+སླང་པོ་	N -
+སླད་	n.rel -
+སླད་བཞིན་བ	n.count -
+སླས་	n.count -
+སླུ་མེས་	N -
+སླེབ་	v.fut.v.pres -
+སླེབས	v.past -
+སླེབས་	v.past -
+སླེབས་པ་	n.v.past -
+སློག་	v.imp -	v.pres -
+སློག་པ	n.v.pres -
+སློག་པ་	n.v.pres -
+སློང་	v.imp -	v.pres -
+སློང་བ	n.v.pres -
+སློང་བ་	n.v.pres -
+སློང༌	V -
+སློབ	V -
+སློབ་	v.pres -
+སློབ་དཔོན་	n.count -
+སློབ་པ	n.v.pres -
+སློབ་བརྒྱུད་	n.count -
+སློབ་བཤད་	N -
+སློབ་མ	n.count -
+སློབ་མ་	n.count -
+སློབ་ཚོགས་	N -
+སློབ་རྒྱུད་	n.count -
+ཧ་ཅང་	adv.intense -
+ཧ་ཤོང་	N -
+ཧམ་པ་	n.count -
+ཧར་	v.invar -
+ཧཱུཾ་ཕཊ་	adv.mim -
+ཧཱུྃ	skt -
+ཧུ་རེ་	adv.mim -
+ཧེ་ཧེ་	interj -
+ཧོམ་ཁུང་	n.count -
+ཧྭགས་ཀྱི་	N -
+ཧྲད་ཧྲད་པ་	adj -
+ཧྲིག་ཧྲིག་	adv.mim -
+ཧྲུལ་པོ	adj -
+ཨ་གསར་ཟད་པ་	VN -
+ཨ་ཏི་ཡོ་ག་	N -
+ཨ་ཏི་ཤ་	n.prop -
+ཨ་དི་	N -
+ཨ་ནུ	N -
+ཨ་ནུ་ཡོ་ག་	N -
+ཨ་པ་དེ	N -
+ཨ་བོ་	n.count -
+ཨ་མ	n.count -
+ཨ་མ་	n.count -
+ཨ་ལ་	adv.mim -
+ཨབྷྱ	N -
+ཨཱ་ལི་ཀཱ་ལི་	N -
+ཨཱཪྻ་དེ་བ་	N -
+ཨུ་ཌྱན་	n.prop -
+ཨུ་དུམ་ཝ་ར་	n.count -
+ཨུ་དུམྭ་ཨཱར་	N -
+ཨུ་མ་	N -
+ཨུ་རྒྱན་	n.prop -
+ཨུནཅཏྲྞི་ཀ་	N -
+ཨེ་	neg -
+ཨེ་མ་	interj -
+ཨེ་ཨེ་	interj -
+ཨོ་རྒྱན་	n.prop -
+ཨོ་རྒྱན་གླིང་པ	n.prop -
+ཨོ་རྒྱན་པ་	n.prop -
+ཨོ་ཤེས	Inter -
+ཪོ	cv.fin -
