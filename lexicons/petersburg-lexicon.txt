@@ -1659,7 +1659,7 @@
 ནགས་གསེབ	n.count -
 ནགས་ཚལ་	n.count -
 ནགས་ཤུག་	N -
-ནང་	adj -	d.dem -	n.count -	n.rel -
+ནང་	d.dem -	n.count -	n.rel -
 ནང་གསེས་	N -	n.count -
 ནང་པ	adv.temp -
 ནང་པ་	n.count -
@@ -1856,7 +1856,7 @@
 ཕྱགས་སྡིགས་	N -
 ཕྱར་	v.past -
 ཕྱི	Adv -	adv.temp -	d.dem -	n.count -	n.rel -
-ཕྱི་	N -	adj -	n.count -
+ཕྱི་	N -	n.count -
 ཕྱི་ཉིན་	adv.temp -
 ཕྱི་ཐན་	n.count -
 ཕྱི་དར་	n.count -
@@ -2672,7 +2672,7 @@
 བྱེའུ་	n.count -
 བྱེར་བ་	n.v.fut.n.v.pres -
 བྱོན	V -	v.past -
-བྱོན་	v.fut.v.past -	v.past -
+བྱོན་	v.past -
 བྱོན་པ	n.v.past -
 བྱོན་པ་	n.v.past -
 བྱོན་ཚུལ་	n.v.past -

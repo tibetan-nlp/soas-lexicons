@@ -9586,7 +9586,7 @@
 ཕྱས་པ་	n.v.past -
 ཕྱས་བ	n.v.past -
 ཕྱས་བ་	n.v.past -
-ཕྱི	adv.temp -	d.dem -	dunno -	n.dem -	n.rel -	v.pres -
+ཕྱི	adv.temp -	d.dem -	dunno -	n.rel -	v.pres -
 ཕྱི་	adv.temp -	d.dem -	dunno -	n.count -	n.rel -
 ཕྱི་གསལ་	n.count -
 ཕྱི་ཉིན་	adv.temp -
@@ -17186,7 +17186,7 @@
 བྱོངས	v.imp -
 བྱོངས་	v.imp -
 བྱོན	v.fut -	v.fut.v.past -	v.imp -	v.past -
-བྱོན་	v.fut -	v.fut.v.past -	v.imp -	v.past -
+བྱོན་	v.fut -	v.imp -	v.past -
 བྱོན་པ	n.v.fut -	n.v.past -
 བྱོན་པ་	n.v.fut -	n.v.past -
 བྱོན་བ	n.v.fut -	n.v.past -
@@ -21818,7 +21818,7 @@
 འགྱོགས་པ	n.count -
 འགྱོད	v.fut -	v.imp -	v.past -	v.pres -
 འགྱོད་	v.fut -	v.fut.v.pres -	v.imp -	v.invar -	v.past -	v.past.v.pres -	v.pres -
-འགྱོད་པ	n.count -	n.v.fut -	n.v.invar -	n.v.past -	n.v.pres -
+འགྱོད་པ	n.v.fut -	n.v.invar -	n.v.past -	n.v.pres -
 འགྱོད་པ་	n.v.fut -	n.v.fut.n.v.pres -	n.v.invar -	n.v.past -	n.v.pres -
 འགྱོད་བ	n.v.fut -	n.v.past -	n.v.pres -
 འགྱོད་བ་	n.v.fut -	n.v.past -	n.v.pres -
