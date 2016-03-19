@@ -26,7 +26,6 @@
 ཀ་མ་ལ་ཤཱི་ལ	n.prop -
 ཀ་མ་ལ་ཤཱི་ལ་	n.prop -
 ཀ་ར་ཀུ་ཤུ	n.prop -
-ཀ་ལན་ད་ཀ་	n.prop -
 ཀ་ལིང་ཀ་	n.prop -
 ཀར་འབྲུག་	N -
 ཀཪྴ་པ་ཎི་	N -
@@ -1639,7 +1638,7 @@
 དྲོན་མོ	adj -
 དྲོན་མོ་	adj -
 ན	case.loc -	cv.loc -
-ན་	case.loc -	cv.loc -	v.invar -
+ན་	case.loc -	cv.loc -	n.count -	v.invar -
 ན་ཆུང་	n.count -
 ན་ཆུང་མ་	adj -
 ན་བ	n.v.invar -
@@ -1836,7 +1835,6 @@
 ཕྱག་དབང་	n.count -
 ཕྱག་དབྱུག་	n.count -
 ཕྱག་དར་ཁྲོད་	n.count -
-ཕྱག་ན་རྡོ་རྗེ	n.prop -
 ཕྱག་ཕྱི	n.count -
 ཕྱག་ཕྱི་	n.count -
 ཕྱག་བརྒྱ་པ་	adj -
@@ -1889,7 +1887,6 @@
 ཕྱུག་པོ་	adj -
 ཕྱུགས་	n.count -
 ཕྱུགས་ཁྱུ་	n.count -
-ཕྱུགས་ནད་	n.count -
 ཕྱུགས་ལུག་	n.count -
 ཕྱུང་	v.past -
 ཕྱུང་བ	n.v.past -
@@ -2604,6 +2601,7 @@
 བོས་པ་	n.v.past -
 བྱ	v.fut -
 བྱ་	n.count -	v.fut -
+བྱ་ཀ་ལན་ད་ཀ་	n.prop -
 བྱ་ཐབས་	n.count -
 བྱ་དཀའ་	n.count -
 བྱ་དགའ་	n.count -
@@ -2799,6 +2797,7 @@
 མགུར་ཆེན་	n.count -
 མགུལ་	n.count -
 མགོ་	n.count -
+མགོ་ཅན་	adj -
 མགོ་བོ	n.count -
 མགོ་བོ་	n.count -
 མགོ་མ་	n.count -
@@ -3022,7 +3021,7 @@
 མར་མེ	n.count -
 མར་མེ་	n.count -
 མར་མེ་མཛད	N -
-མར་མེ་མཛད་	n.count -
+མར་མེ་མཛད་	n.prop -
 མར་ཟུར་	N -
 མར་ལྟང་	N -
 མལ་ཆེན་	N -
@@ -3034,7 +3033,7 @@
 མི་དགེ	n.count -
 མི་དགེ་	n.count -
 མི་དབང་	N -
-མི་ནད་	n.count -
+མི་ནད་ཕྱུགས་ནད་	n.count -
 མི་ཕན་	n.count -
 མི་ཕམ་པ་	N -
 མི་བརྡ་	n.count -
@@ -3334,7 +3333,6 @@
 ཟབ་མོ་	adj -
 ཟས་	n.count -
 ཟས་གཙང་	n.prop -
-ཟས་གཙང་མ་	n.prop -
 ཟས་དཀར	n.prop -
 ཟས་ནོར་	n.mass -
 ཟིང་	v.invar -
@@ -4305,7 +4303,7 @@
 རྡོ་བ	n.count -
 རྡོ་མལ་	n.count -
 རྡོ་ཚོགས་	N -
-རྡོ་རྗེ	n.count -
+རྡོ་རྗེ	n.count -	 -
 རྡོ་རྗེ་	n.count -
 རྡོ་རྗེ་གདན་	n.prop -
 རྡོ་རྗེ་གྲགས་པ་	n.prop -
@@ -4856,7 +4854,7 @@
 སེམས་ཅན་ཆེན་པོ	n.prop -
 སེམས་ཅན་ཆེན་པོ་	n.prop -
 སེམས་ཅན་དམྱལ་བ	n.prop -
-སེམས་དཔའ་ཆེན་པོ་	n.prop -
+སེམས་དཔའ་	n.count -
 སེམས་པ	n.v.pres -
 སེམས་པ་	n.v.pres -
 སེམས་བ་	n.v.pres -
