@@ -517,7 +517,6 @@
 ཁམས་པ	n.prop -
 ཁམས་པ་	n.prop -
 ཁམས་བདེ་	n.count -
-ཁམས་མཐེ་བོང་ཅན་	n.count -
 ཁམས་ཚོ་	n.prop -
 ཁར	dunno -
 ཁར་རྩང་	adv.temp -
@@ -18486,6 +18485,7 @@
 མཐུནད་བ་	n.v.past -
 མཐེ་བོ	n.count -
 མཐེ་བོང་	n.count -
+མཐེ་བོང་ཅན་	adj -
 མཐེབ་	n.count -
 མཐེའུ་ཆུང་	n.count -
 མཐོ	v.fut -	v.fut.v.pres -	v.imp -	v.invar -	v.past -	v.pres -
@@ -29001,6 +29001,8 @@
 ལོ་དར་	n.prop -
 ལོ་དྲི་མཁན་པོ	n.prop -
 ལོ་དྲི་མཁན་པོ་	n.prop -
+ལོ་དྲུག་བརྒྱ་པ	adj -
+ལོ་དྲུག་བརྒྱ་བ	adj -
 ལོ་ནད་གཙུག་ན་	n.prop -
 ལོ་པ	n.v.fut -	n.v.past -	n.v.pres -
 ལོ་པ་	n.v.fut -	n.v.past -	n.v.pres -
@@ -32275,7 +32277,7 @@
 སྙིང་རུས་ལུས་	n.count -
 སྙིང་རེ་རྗེ	adj -
 སྙིང་རྗེ	n.count -
-སྙིང་རྗེ་	n.count -
+སྙིང་རྗེ་	adj -	n.count -
 སྙིང་རྗེ་ཆེན་པོ་པད་དཀར་པད་དཀར་	n.prop -
 སྙིང་རྗེ་པད་དཀར་	n.prop -
 སྙིང་རྗེ་པད་མ་དཀར་པོ	n.prop -
