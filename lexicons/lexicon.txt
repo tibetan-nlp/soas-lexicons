@@ -7598,7 +7598,7 @@
 དབྱི་བ་	n.v.fut -
 དབྱིག་	n.count -
 དབྱིག་གཉེན་	n.prop -
-དབྱིག་གཉེན་ཅན་	adj -	n.prop -
+དབྱིག་གཉེན་ཅན་	adj -
 དབྱིག་བཤེས་	n.prop -
 དབྱིག་འཛིན་	n.count -
 དབྱིག་ལྡན་	n.prop -
@@ -8316,7 +8316,6 @@
 དྲང་བ་	n.v.fut -
 དྲང་སྲིན་པོ་སྣ	n.prop -
 དྲང་སྲོང་	n.count -
-དྲང་སྲོང་ལྷགས་	n.prop -
 དྲང་སྲོང་ལྷུང་བ	n.prop -
 དྲང་སྲོང་ལྷུང་བ་	n.prop -
 དྲང་སྲོང་ཤེལ་ནགས་	n.prop -
@@ -26185,6 +26184,7 @@
 རི་དགས་ཀྱི་ནགས་	n.prop -
 རི་དྭགས་	n.count -
 རི་དྭགས་བྱ་	n.count -
+རི་དྲང་སྲོང་	n.count -
 རི་ནགས་ཚལ་	n.count -
 རི་པ	n.v.fut -	n.v.past -	n.v.pres -
 རི་པ་	n.v.fut -	n.v.past -	n.v.pres -
@@ -26334,8 +26334,6 @@
 རིན་པོ་	n.count -
 རིན་པོ་ཆེ	adj -	n.mass -
 རིན་པོ་ཆེ་	adj -	n.count -	n.mass -
-རིན་པོ་ཆེ་གོ་ཆ	n.prop -
-རིན་པོ་ཆེ་གོ་ཆ་	n.prop -
 རིན་པོ་ཆེ་བཀོད་པ་	n.prop -
 རིན་པོ་ཆེའི་ཕྲེང་བ་	n.prop -
 རིན་པོ་ཆེའི་འབྱུང་གནས་	n.prop -
@@ -29680,7 +29678,7 @@
 ལྷག་ལུས་	adj -
 ལྷག་སྤྱོད་	n.prop -
 ལྷགས	v.fut -	v.imp -	v.past -	v.pres -
-ལྷགས་	v.fut -	v.imp -	v.invar -	v.past -	v.past.v.pres -	v.pres -
+ལྷགས་	n.count -	n.prop -	v.fut -	v.imp -	v.invar -	v.past -	v.past.v.pres -	v.pres -
 ལྷགས་པ	n.v.fut -	n.v.invar -	n.v.past -	n.v.pres -
 ལྷགས་པ་	n.v.fut -	n.v.invar -	n.v.past -	n.v.pres -
 ལྷགས་བ	n.v.fut -	n.v.past -	n.v.pres -
