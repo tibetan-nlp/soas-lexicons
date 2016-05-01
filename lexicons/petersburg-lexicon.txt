@@ -1488,7 +1488,7 @@
 དཱི་པམ་ཀ་ར་	n.prop -
 དི་	P -
 དུ	case.term -	cv.term -
-དུ་	case.term -	cv.term -
+དུ་	case.term -	cv.term -	xxx -
 དུ་བ་	n.count -
 དུ་མ་	adj -
 དུག་	n.count -
@@ -2879,7 +2879,7 @@
 མཇུག་	V -	n.rel -
 མཇུག་མ་	n.count -
 མཇུག་སྒྲོ་	N -
-མཉན་དུ་ཡོད་པ་	n.prop -
+མཉན་	xxx -
 མཉན་ཡོད་	n.prop -
 མཉམ་	v.fut.v.pres -	v.invar -
 མཉམ་པ	n.v.invar -
@@ -3947,7 +3947,7 @@
 ཡོད་	v.invar -
 ཡོད་དགུ་	VN -
 ཡོད་པ	n.v.invar -
-ཡོད་པ་	n.v.fut.n.v.pres -	n.v.invar -
+ཡོད་པ་	n.v.fut.n.v.pres -	n.v.invar -	xxx -
 ཡོད་ཚད་	n.v.invar -
 ཡོན་	n.count -
 ཡོན་ཏན་	n.count -
