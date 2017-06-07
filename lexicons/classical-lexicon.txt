@@ -9538,7 +9538,7 @@
 འགལ་ཟློས་	n.count -
 འགལ་འབྲེལ་	n.count -
 འགལ་རྐྱེན་	n.count -
-འགས	d.plural -	v.fut.v.pres -
+འགས	v.fut.v.pres -
 འགས་པ	n.v.fut.n.v.pres -
 འགུགས་	v.pres -
 འགུགས་ཐབས་	n.v.pres -
@@ -10643,7 +10643,6 @@
 འུ་ཡུག་གསལ་སྒང་	n.prop -
 འུར་རྡོ་	n.count -
 འུར་སྒྲ་	n.count -
-འེི་	case.gen -
 འོ	cv.fin -
 འོ་	adv.proclausal -	cv.fin -
 འོ་ཅག་	p.pers -
@@ -10652,7 +10651,6 @@
 འོ་ཐུག་སྦྲང་རྩི་ཅན་	n.count -
 འོ་དོད་	interj -
 འོ་དོད་སྨྲེ་སྔགས་	n.count -
-འོ་ན་	adv.proclausal -
 འོ་ནི	n.count -
 འོ་བརྒྱད་སྤུན་	n.prop -
 འོ་བརྒྱལ་	n.count -
@@ -15639,5 +15637,3 @@
 ཨོཾ་	skt -
 ཨོཾ་ཡིག་	n.count -
 ཨྭ་ཙ་ལི་ཏ	skt -
-ཪང་	p.refl -
-ཪང་བཞིན་	n.count -
