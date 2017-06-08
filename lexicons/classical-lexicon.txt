@@ -431,7 +431,7 @@
 ཁོ་མོ	p.pers -
 ཁོ་མོ་	n.count -	p.pers -
 ཁོ་མོ་ཅག་	p.pers -
-ཁོ་ར་ཁོར་ཡུག་	adv.mim -	n.count -
+ཁོ་ར་ཁོར་ཡུག་	n.count -
 ཁོ་རེ་	interj -	n.prop -
 ཁོག་པ་	n.v.pres -
 ཁོག་མ་	n.count -
