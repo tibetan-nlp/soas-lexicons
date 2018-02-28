@@ -4338,7 +4338,7 @@
 གླ་པ་	n.v.fut -	n.v.pres -
 གླ་བ	n.v.fut -	n.v.pres -
 གླ་བ་	n.v.fut -	n.v.pres -
-གླ་ཟ་བ	dunno -
+གླ་ཟ་བ	n.count -
 གླག་བྱང་ཆུབ་རྒྱལ་མཚན་	n.prop -
 གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ་	n.prop -
 གླག་མདའ་	n.prop -

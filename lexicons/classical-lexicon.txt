@@ -1986,7 +1986,7 @@
 གྲྭ་བུ་སློབ་	n.count -
 གླ	n.count -
 གླ་	n.count -
-གླ་ཟ་བ	dunno -
+གླ་ཟ་བ	n.count -
 གླག་བྱང་ཆུབ་རྒྱལ་མཚན་	n.prop -
 གླག་མདའ་	n.prop -
 གླག་ཚོ་	n.prop -
